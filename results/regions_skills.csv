@@ -1,0 +1,46 @@
+﻿area,k,combo,vacancies,salary_n,median_rub
+Екатеринбург,1,javascript,150,91,120000.0
+Екатеринбург,1,typescript,102,53,140000.0
+Екатеринбург,1,html,90,65,105000.0
+Екатеринбург,1,react,89,49,115000.0
+Екатеринбург,1,css,81,55,115000.0
+Екатеринбург,2,javascript | typescript,78,45,140000.0
+Екатеринбург,2,html | javascript,76,58,105000.0
+Екатеринбург,2,css | javascript,69,49,115000.0
+Екатеринбург,2,css | html,68,47,105000.0
+Екатеринбург,2,javascript | react,65,39,125000.0
+Екатеринбург,3,css | html | javascript,58,42,105000.0
+Екатеринбург,3,css | html | typescript,41,26,115000.0
+Екатеринбург,3,css | html | react,40,31,115000.0
+Екатеринбург,3,css | javascript | typescript,40,25,125000.0
+Екатеринбург,3,html | javascript | typescript,40,29,115000.0
+Москва,1,javascript,1330,458,180000.0
+Москва,1,typescript,1142,345,200000.0
+Москва,1,react,1055,343,190000.0
+Москва,1,git,615,255,160000.0
+Москва,1,vue,553,196,172500.0
+Москва,2,javascript | typescript,760,221,200000.0
+Москва,2,javascript | react,734,237,200000.0
+Москва,2,react | typescript,720,221,200000.0
+Москва,2,git | javascript,458,189,160000.0
+Москва,2,javascript | vue,377,129,170000.0
+Москва,3,javascript | react | typescript,494,145,200000.0
+Москва,3,javascript | react | redux,265,83,200000.0
+Москва,3,react | redux | typescript,257,79,200000.0
+Москва,3,git | javascript | react,247,101,150000.0
+Москва,3,git | javascript | typescript,235,80,185000.0
+Санкт-Петербург,1,javascript,485,239,140000.0
+Санкт-Петербург,1,typescript,371,154,160000.0
+Санкт-Петербург,1,react,324,150,150000.0
+Санкт-Петербург,1,git,257,142,140000.0
+Санкт-Петербург,1,vue,231,123,130000.0
+Санкт-Петербург,2,javascript | typescript,253,103,150000.0
+Санкт-Петербург,2,javascript | react,232,106,150000.0
+Санкт-Петербург,2,react | typescript,220,97,160000.0
+Санкт-Петербург,2,git | javascript,199,114,140000.0
+Санкт-Петербург,2,javascript | vue,146,88,130000.0
+Санкт-Петербург,3,javascript | react | typescript,153,64,162500.0
+Санкт-Петербург,3,git | javascript | react,97,56,150000.0
+Санкт-Петербург,3,git | javascript | typescript,97,54,150000.0
+Санкт-Петербург,3,css3 | html5 | javascript,90,62,111550.0
+Санкт-Петербург,3,css | html | javascript,86,48,100000.0

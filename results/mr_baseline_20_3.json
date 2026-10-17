@@ -1,0 +1,11786 @@
+{
+  "method": "mapreduce_baseline",
+  "stack_size": 20,
+  "vacancies": 6075,
+  "vocabulary": [
+    "javascript",
+    "typescript",
+    "react",
+    "git",
+    "html",
+    "vue",
+    "css",
+    "html5",
+    "css3",
+    "redux",
+    "webpack",
+    "angular",
+    "frontend",
+    "node.js",
+    "rest api",
+    "sass",
+    "rest",
+    "js",
+    "angularjs",
+    "docker"
+  ],
+  "chunks": 230,
+  "chunk_rows": 1000,
+  "workers": 2,
+  "mapper_failures": 0,
+  "s3_passes": 2,
+  "buffered_variant_rows": 0,
+  "events": {
+    "1": 19307,
+    "2": 41058,
+    "3": 58679
+  },
+  "unique": {
+    "1": 20,
+    "2": 190,
+    "3": 1120
+  },
+  "counts": [
+    {
+      "skills": [
+        "angular"
+      ],
+      "k": 1,
+      "count": 449
+    },
+    {
+      "skills": [
+        "angularjs"
+      ],
+      "k": 1,
+      "count": 262
+    },
+    {
+      "skills": [
+        "css"
+      ],
+      "k": 1,
+      "count": 1117
+    },
+    {
+      "skills": [
+        "css3"
+      ],
+      "k": 1,
+      "count": 930
+    },
+    {
+      "skills": [
+        "docker"
+      ],
+      "k": 1,
+      "count": 257
+    },
+    {
+      "skills": [
+        "frontend"
+      ],
+      "k": 1,
+      "count": 446
+    },
+    {
+      "skills": [
+        "git"
+      ],
+      "k": 1,
+      "count": 1690
+    },
+    {
+      "skills": [
+        "html"
+      ],
+      "k": 1,
+      "count": 1332
+    },
+    {
+      "skills": [
+        "html5"
+      ],
+      "k": 1,
+      "count": 952
+    },
+    {
+      "skills": [
+        "javascript"
+      ],
+      "k": 1,
+      "count": 3202
+    },
+    {
+      "skills": [
+        "js"
+      ],
+      "k": 1,
+      "count": 278
+    },
+    {
+      "skills": [
+        "node.js"
+      ],
+      "k": 1,
+      "count": 435
+    },
+    {
+      "skills": [
+        "react"
+      ],
+      "k": 1,
+      "count": 2226
+    },
+    {
+      "skills": [
+        "redux"
+      ],
+      "k": 1,
+      "count": 715
+    },
+    {
+      "skills": [
+        "rest"
+      ],
+      "k": 1,
+      "count": 295
+    },
+    {
+      "skills": [
+        "rest api"
+      ],
+      "k": 1,
+      "count": 332
+    },
+    {
+      "skills": [
+        "sass"
+      ],
+      "k": 1,
+      "count": 296
+    },
+    {
+      "skills": [
+        "typescript"
+      ],
+      "k": 1,
+      "count": 2344
+    },
+    {
+      "skills": [
+        "vue"
+      ],
+      "k": 1,
+      "count": 1287
+    },
+    {
+      "skills": [
+        "webpack"
+      ],
+      "k": 1,
+      "count": 462
+    },
+    {
+      "skills": [
+        "angular",
+        "angularjs"
+      ],
+      "k": 2,
+      "count": 50
+    },
+    {
+      "skills": [
+        "angular",
+        "css"
+      ],
+      "k": 2,
+      "count": 101
+    },
+    {
+      "skills": [
+        "angular",
+        "css3"
+      ],
+      "k": 2,
+      "count": 95
+    },
+    {
+      "skills": [
+        "angular",
+        "docker"
+      ],
+      "k": 2,
+      "count": 13
+    },
+    {
+      "skills": [
+        "angular",
+        "frontend"
+      ],
+      "k": 2,
+      "count": 57
+    },
+    {
+      "skills": [
+        "angular",
+        "git"
+      ],
+      "k": 2,
+      "count": 184
+    },
+    {
+      "skills": [
+        "angular",
+        "html"
+      ],
+      "k": 2,
+      "count": 122
+    },
+    {
+      "skills": [
+        "angular",
+        "html5"
+      ],
+      "k": 2,
+      "count": 100
+    },
+    {
+      "skills": [
+        "angular",
+        "javascript"
+      ],
+      "k": 2,
+      "count": 293
+    },
+    {
+      "skills": [
+        "angular",
+        "js"
+      ],
+      "k": 2,
+      "count": 6
+    },
+    {
+      "skills": [
+        "angular",
+        "node.js"
+      ],
+      "k": 2,
+      "count": 20
+    },
+    {
+      "skills": [
+        "angular",
+        "react"
+      ],
+      "k": 2,
+      "count": 100
+    },
+    {
+      "skills": [
+        "angular",
+        "redux"
+      ],
+      "k": 2,
+      "count": 17
+    },
+    {
+      "skills": [
+        "angular",
+        "rest"
+      ],
+      "k": 2,
+      "count": 41
+    },
+    {
+      "skills": [
+        "angular",
+        "rest api"
+      ],
+      "k": 2,
+      "count": 49
+    },
+    {
+      "skills": [
+        "angular",
+        "sass"
+      ],
+      "k": 2,
+      "count": 38
+    },
+    {
+      "skills": [
+        "angular",
+        "typescript"
+      ],
+      "k": 2,
+      "count": 291
+    },
+    {
+      "skills": [
+        "angular",
+        "vue"
+      ],
+      "k": 2,
+      "count": 50
+    },
+    {
+      "skills": [
+        "angular",
+        "webpack"
+      ],
+      "k": 2,
+      "count": 21
+    },
+    {
+      "skills": [
+        "angularjs",
+        "css"
+      ],
+      "k": 2,
+      "count": 61
+    },
+    {
+      "skills": [
+        "angularjs",
+        "css3"
+      ],
+      "k": 2,
+      "count": 61
+    },
+    {
+      "skills": [
+        "angularjs",
+        "docker"
+      ],
+      "k": 2,
+      "count": 16
+    },
+    {
+      "skills": [
+        "angularjs",
+        "frontend"
+      ],
+      "k": 2,
+      "count": 35
+    },
+    {
+      "skills": [
+        "angularjs",
+        "git"
+      ],
+      "k": 2,
+      "count": 129
+    },
+    {
+      "skills": [
+        "angularjs",
+        "html"
+      ],
+      "k": 2,
+      "count": 85
+    },
+    {
+      "skills": [
+        "angularjs",
+        "html5"
+      ],
+      "k": 2,
+      "count": 75
+    },
+    {
+      "skills": [
+        "angularjs",
+        "javascript"
+      ],
+      "k": 2,
+      "count": 203
+    },
+    {
+      "skills": [
+        "angularjs",
+        "js"
+      ],
+      "k": 2,
+      "count": 13
+    },
+    {
+      "skills": [
+        "angularjs",
+        "node.js"
+      ],
+      "k": 2,
+      "count": 25
+    },
+    {
+      "skills": [
+        "angularjs",
+        "react"
+      ],
+      "k": 2,
+      "count": 93
+    },
+    {
+      "skills": [
+        "angularjs",
+        "redux"
+      ],
+      "k": 2,
+      "count": 14
+    },
+    {
+      "skills": [
+        "angularjs",
+        "rest"
+      ],
+      "k": 2,
+      "count": 20
+    },
+    {
+      "skills": [
+        "angularjs",
+        "rest api"
+      ],
+      "k": 2,
+      "count": 12
+    },
+    {
+      "skills": [
+        "angularjs",
+        "sass"
+      ],
+      "k": 2,
+      "count": 17
+    },
+    {
+      "skills": [
+        "angularjs",
+        "typescript"
+      ],
+      "k": 2,
+      "count": 133
+    },
+    {
+      "skills": [
+        "angularjs",
+        "vue"
+      ],
+      "k": 2,
+      "count": 63
+    },
+    {
+      "skills": [
+        "angularjs",
+        "webpack"
+      ],
+      "k": 2,
+      "count": 22
+    },
+    {
+      "skills": [
+        "css",
+        "css3"
+      ],
+      "k": 2,
+      "count": 156
+    },
+    {
+      "skills": [
+        "css",
+        "docker"
+      ],
+      "k": 2,
+      "count": 60
+    },
+    {
+      "skills": [
+        "css",
+        "frontend"
+      ],
+      "k": 2,
+      "count": 110
+    },
+    {
+      "skills": [
+        "css",
+        "git"
+      ],
+      "k": 2,
+      "count": 510
+    },
+    {
+      "skills": [
+        "css",
+        "html"
+      ],
+      "k": 2,
+      "count": 844
+    },
+    {
+      "skills": [
+        "css",
+        "html5"
+      ],
+      "k": 2,
+      "count": 230
+    },
+    {
+      "skills": [
+        "css",
+        "javascript"
+      ],
+      "k": 2,
+      "count": 911
+    },
+    {
+      "skills": [
+        "css",
+        "js"
+      ],
+      "k": 2,
+      "count": 83
+    },
+    {
+      "skills": [
+        "css",
+        "node.js"
+      ],
+      "k": 2,
+      "count": 91
+    },
+    {
+      "skills": [
+        "css",
+        "react"
+      ],
+      "k": 2,
+      "count": 492
+    },
+    {
+      "skills": [
+        "css",
+        "redux"
+      ],
+      "k": 2,
+      "count": 159
+    },
+    {
+      "skills": [
+        "css",
+        "rest"
+      ],
+      "k": 2,
+      "count": 53
+    },
+    {
+      "skills": [
+        "css",
+        "rest api"
+      ],
+      "k": 2,
+      "count": 72
+    },
+    {
+      "skills": [
+        "css",
+        "sass"
+      ],
+      "k": 2,
+      "count": 99
+    },
+    {
+      "skills": [
+        "css",
+        "typescript"
+      ],
+      "k": 2,
+      "count": 495
+    },
+    {
+      "skills": [
+        "css",
+        "vue"
+      ],
+      "k": 2,
+      "count": 306
+    },
+    {
+      "skills": [
+        "css",
+        "webpack"
+      ],
+      "k": 2,
+      "count": 109
+    },
+    {
+      "skills": [
+        "css3",
+        "docker"
+      ],
+      "k": 2,
+      "count": 50
+    },
+    {
+      "skills": [
+        "css3",
+        "frontend"
+      ],
+      "k": 2,
+      "count": 108
+    },
+    {
+      "skills": [
+        "css3",
+        "git"
+      ],
+      "k": 2,
+      "count": 498
+    },
+    {
+      "skills": [
+        "css3",
+        "html"
+      ],
+      "k": 2,
+      "count": 305
+    },
+    {
+      "skills": [
+        "css3",
+        "html5"
+      ],
+      "k": 2,
+      "count": 699
+    },
+    {
+      "skills": [
+        "css3",
+        "javascript"
+      ],
+      "k": 2,
+      "count": 753
+    },
+    {
+      "skills": [
+        "css3",
+        "js"
+      ],
+      "k": 2,
+      "count": 83
+    },
+    {
+      "skills": [
+        "css3",
+        "node.js"
+      ],
+      "k": 2,
+      "count": 108
+    },
+    {
+      "skills": [
+        "css3",
+        "react"
+      ],
+      "k": 2,
+      "count": 410
+    },
+    {
+      "skills": [
+        "css3",
+        "redux"
+      ],
+      "k": 2,
+      "count": 109
+    },
+    {
+      "skills": [
+        "css3",
+        "rest"
+      ],
+      "k": 2,
+      "count": 87
+    },
+    {
+      "skills": [
+        "css3",
+        "rest api"
+      ],
+      "k": 2,
+      "count": 92
+    },
+    {
+      "skills": [
+        "css3",
+        "sass"
+      ],
+      "k": 2,
+      "count": 107
+    },
+    {
+      "skills": [
+        "css3",
+        "typescript"
+      ],
+      "k": 2,
+      "count": 415
+    },
+    {
+      "skills": [
+        "css3",
+        "vue"
+      ],
+      "k": 2,
+      "count": 314
+    },
+    {
+      "skills": [
+        "css3",
+        "webpack"
+      ],
+      "k": 2,
+      "count": 124
+    },
+    {
+      "skills": [
+        "docker",
+        "frontend"
+      ],
+      "k": 2,
+      "count": 40
+    },
+    {
+      "skills": [
+        "docker",
+        "git"
+      ],
+      "k": 2,
+      "count": 137
+    },
+    {
+      "skills": [
+        "docker",
+        "html"
+      ],
+      "k": 2,
+      "count": 63
+    },
+    {
+      "skills": [
+        "docker",
+        "html5"
+      ],
+      "k": 2,
+      "count": 66
+    },
+    {
+      "skills": [
+        "docker",
+        "javascript"
+      ],
+      "k": 2,
+      "count": 175
+    },
+    {
+      "skills": [
+        "docker",
+        "js"
+      ],
+      "k": 2,
+      "count": 11
+    },
+    {
+      "skills": [
+        "docker",
+        "node.js"
+      ],
+      "k": 2,
+      "count": 55
+    },
+    {
+      "skills": [
+        "docker",
+        "react"
+      ],
+      "k": 2,
+      "count": 156
+    },
+    {
+      "skills": [
+        "docker",
+        "redux"
+      ],
+      "k": 2,
+      "count": 65
+    },
+    {
+      "skills": [
+        "docker",
+        "rest"
+      ],
+      "k": 2,
+      "count": 23
+    },
+    {
+      "skills": [
+        "docker",
+        "rest api"
+      ],
+      "k": 2,
+      "count": 28
+    },
+    {
+      "skills": [
+        "docker",
+        "sass"
+      ],
+      "k": 2,
+      "count": 29
+    },
+    {
+      "skills": [
+        "docker",
+        "typescript"
+      ],
+      "k": 2,
+      "count": 165
+    },
+    {
+      "skills": [
+        "docker",
+        "vue"
+      ],
+      "k": 2,
+      "count": 93
+    },
+    {
+      "skills": [
+        "docker",
+        "webpack"
+      ],
+      "k": 2,
+      "count": 57
+    },
+    {
+      "skills": [
+        "frontend",
+        "git"
+      ],
+      "k": 2,
+      "count": 213
+    },
+    {
+      "skills": [
+        "frontend",
+        "html"
+      ],
+      "k": 2,
+      "count": 136
+    },
+    {
+      "skills": [
+        "frontend",
+        "html5"
+      ],
+      "k": 2,
+      "count": 143
+    },
+    {
+      "skills": [
+        "frontend",
+        "javascript"
+      ],
+      "k": 2,
+      "count": 351
+    },
+    {
+      "skills": [
+        "frontend",
+        "js"
+      ],
+      "k": 2,
+      "count": 115
+    },
+    {
+      "skills": [
+        "frontend",
+        "node.js"
+      ],
+      "k": 2,
+      "count": 88
+    },
+    {
+      "skills": [
+        "frontend",
+        "react"
+      ],
+      "k": 2,
+      "count": 204
+    },
+    {
+      "skills": [
+        "frontend",
+        "redux"
+      ],
+      "k": 2,
+      "count": 57
+    },
+    {
+      "skills": [
+        "frontend",
+        "rest"
+      ],
+      "k": 2,
+      "count": 49
+    },
+    {
+      "skills": [
+        "frontend",
+        "rest api"
+      ],
+      "k": 2,
+      "count": 51
+    },
+    {
+      "skills": [
+        "frontend",
+        "sass"
+      ],
+      "k": 2,
+      "count": 32
+    },
+    {
+      "skills": [
+        "frontend",
+        "typescript"
+      ],
+      "k": 2,
+      "count": 258
+    },
+    {
+      "skills": [
+        "frontend",
+        "vue"
+      ],
+      "k": 2,
+      "count": 223
+    },
+    {
+      "skills": [
+        "frontend",
+        "webpack"
+      ],
+      "k": 2,
+      "count": 71
+    },
+    {
+      "skills": [
+        "git",
+        "html"
+      ],
+      "k": 2,
+      "count": 621
+    },
+    {
+      "skills": [
+        "git",
+        "html5"
+      ],
+      "k": 2,
+      "count": 533
+    },
+    {
+      "skills": [
+        "git",
+        "javascript"
+      ],
+      "k": 2,
+      "count": 1300
+    },
+    {
+      "skills": [
+        "git",
+        "js"
+      ],
+      "k": 2,
+      "count": 141
+    },
+    {
+      "skills": [
+        "git",
+        "node.js"
+      ],
+      "k": 2,
+      "count": 201
+    },
+    {
+      "skills": [
+        "git",
+        "react"
+      ],
+      "k": 2,
+      "count": 798
+    },
+    {
+      "skills": [
+        "git",
+        "redux"
+      ],
+      "k": 2,
+      "count": 279
+    },
+    {
+      "skills": [
+        "git",
+        "rest"
+      ],
+      "k": 2,
+      "count": 162
+    },
+    {
+      "skills": [
+        "git",
+        "rest api"
+      ],
+      "k": 2,
+      "count": 178
+    },
+    {
+      "skills": [
+        "git",
+        "sass"
+      ],
+      "k": 2,
+      "count": 170
+    },
+    {
+      "skills": [
+        "git",
+        "typescript"
+      ],
+      "k": 2,
+      "count": 791
+    },
+    {
+      "skills": [
+        "git",
+        "vue"
+      ],
+      "k": 2,
+      "count": 524
+    },
+    {
+      "skills": [
+        "git",
+        "webpack"
+      ],
+      "k": 2,
+      "count": 225
+    },
+    {
+      "skills": [
+        "html",
+        "html5"
+      ],
+      "k": 2,
+      "count": 223
+    },
+    {
+      "skills": [
+        "html",
+        "javascript"
+      ],
+      "k": 2,
+      "count": 1062
+    },
+    {
+      "skills": [
+        "html",
+        "js"
+      ],
+      "k": 2,
+      "count": 97
+    },
+    {
+      "skills": [
+        "html",
+        "node.js"
+      ],
+      "k": 2,
+      "count": 136
+    },
+    {
+      "skills": [
+        "html",
+        "react"
+      ],
+      "k": 2,
+      "count": 585
+    },
+    {
+      "skills": [
+        "html",
+        "redux"
+      ],
+      "k": 2,
+      "count": 167
+    },
+    {
+      "skills": [
+        "html",
+        "rest"
+      ],
+      "k": 2,
+      "count": 92
+    },
+    {
+      "skills": [
+        "html",
+        "rest api"
+      ],
+      "k": 2,
+      "count": 114
+    },
+    {
+      "skills": [
+        "html",
+        "sass"
+      ],
+      "k": 2,
+      "count": 121
+    },
+    {
+      "skills": [
+        "html",
+        "typescript"
+      ],
+      "k": 2,
+      "count": 541
+    },
+    {
+      "skills": [
+        "html",
+        "vue"
+      ],
+      "k": 2,
+      "count": 372
+    },
+    {
+      "skills": [
+        "html",
+        "webpack"
+      ],
+      "k": 2,
+      "count": 121
+    },
+    {
+      "skills": [
+        "html5",
+        "javascript"
+      ],
+      "k": 2,
+      "count": 780
+    },
+    {
+      "skills": [
+        "html5",
+        "js"
+      ],
+      "k": 2,
+      "count": 85
+    },
+    {
+      "skills": [
+        "html5",
+        "node.js"
+      ],
+      "k": 2,
+      "count": 111
+    },
+    {
+      "skills": [
+        "html5",
+        "react"
+      ],
+      "k": 2,
+      "count": 405
+    },
+    {
+      "skills": [
+        "html5",
+        "redux"
+      ],
+      "k": 2,
+      "count": 112
+    },
+    {
+      "skills": [
+        "html5",
+        "rest"
+      ],
+      "k": 2,
+      "count": 86
+    },
+    {
+      "skills": [
+        "html5",
+        "rest api"
+      ],
+      "k": 2,
+      "count": 96
+    },
+    {
+      "skills": [
+        "html5",
+        "sass"
+      ],
+      "k": 2,
+      "count": 115
+    },
+    {
+      "skills": [
+        "html5",
+        "typescript"
+      ],
+      "k": 2,
+      "count": 434
+    },
+    {
+      "skills": [
+        "html5",
+        "vue"
+      ],
+      "k": 2,
+      "count": 347
+    },
+    {
+      "skills": [
+        "html5",
+        "webpack"
+      ],
+      "k": 2,
+      "count": 122
+    },
+    {
+      "skills": [
+        "javascript",
+        "js"
+      ],
+      "k": 2,
+      "count": 173
+    },
+    {
+      "skills": [
+        "javascript",
+        "node.js"
+      ],
+      "k": 2,
+      "count": 322
+    },
+    {
+      "skills": [
+        "javascript",
+        "react"
+      ],
+      "k": 2,
+      "count": 1617
+    },
+    {
+      "skills": [
+        "javascript",
+        "redux"
+      ],
+      "k": 2,
+      "count": 542
+    },
+    {
+      "skills": [
+        "javascript",
+        "rest"
+      ],
+      "k": 2,
+      "count": 204
+    },
+    {
+      "skills": [
+        "javascript",
+        "rest api"
+      ],
+      "k": 2,
+      "count": 237
+    },
+    {
+      "skills": [
+        "javascript",
+        "sass"
+      ],
+      "k": 2,
+      "count": 214
+    },
+    {
+      "skills": [
+        "javascript",
+        "typescript"
+      ],
+      "k": 2,
+      "count": 1657
+    },
+    {
+      "skills": [
+        "javascript",
+        "vue"
+      ],
+      "k": 2,
+      "count": 921
+    },
+    {
+      "skills": [
+        "javascript",
+        "webpack"
+      ],
+      "k": 2,
+      "count": 337
+    },
+    {
+      "skills": [
+        "js",
+        "node.js"
+      ],
+      "k": 2,
+      "count": 51
+    },
+    {
+      "skills": [
+        "js",
+        "react"
+      ],
+      "k": 2,
+      "count": 126
+    },
+    {
+      "skills": [
+        "js",
+        "redux"
+      ],
+      "k": 2,
+      "count": 34
+    },
+    {
+      "skills": [
+        "js",
+        "rest"
+      ],
+      "k": 2,
+      "count": 32
+    },
+    {
+      "skills": [
+        "js",
+        "rest api"
+      ],
+      "k": 2,
+      "count": 32
+    },
+    {
+      "skills": [
+        "js",
+        "sass"
+      ],
+      "k": 2,
+      "count": 29
+    },
+    {
+      "skills": [
+        "js",
+        "typescript"
+      ],
+      "k": 2,
+      "count": 134
+    },
+    {
+      "skills": [
+        "js",
+        "vue"
+      ],
+      "k": 2,
+      "count": 137
+    },
+    {
+      "skills": [
+        "js",
+        "webpack"
+      ],
+      "k": 2,
+      "count": 42
+    },
+    {
+      "skills": [
+        "node.js",
+        "react"
+      ],
+      "k": 2,
+      "count": 225
+    },
+    {
+      "skills": [
+        "node.js",
+        "redux"
+      ],
+      "k": 2,
+      "count": 62
+    },
+    {
+      "skills": [
+        "node.js",
+        "rest"
+      ],
+      "k": 2,
+      "count": 37
+    },
+    {
+      "skills": [
+        "node.js",
+        "rest api"
+      ],
+      "k": 2,
+      "count": 25
+    },
+    {
+      "skills": [
+        "node.js",
+        "sass"
+      ],
+      "k": 2,
+      "count": 28
+    },
+    {
+      "skills": [
+        "node.js",
+        "typescript"
+      ],
+      "k": 2,
+      "count": 250
+    },
+    {
+      "skills": [
+        "node.js",
+        "vue"
+      ],
+      "k": 2,
+      "count": 158
+    },
+    {
+      "skills": [
+        "node.js",
+        "webpack"
+      ],
+      "k": 2,
+      "count": 58
+    },
+    {
+      "skills": [
+        "react",
+        "redux"
+      ],
+      "k": 2,
+      "count": 690
+    },
+    {
+      "skills": [
+        "react",
+        "rest"
+      ],
+      "k": 2,
+      "count": 166
+    },
+    {
+      "skills": [
+        "react",
+        "rest api"
+      ],
+      "k": 2,
+      "count": 192
+    },
+    {
+      "skills": [
+        "react",
+        "sass"
+      ],
+      "k": 2,
+      "count": 128
+    },
+    {
+      "skills": [
+        "react",
+        "typescript"
+      ],
+      "k": 2,
+      "count": 1467
+    },
+    {
+      "skills": [
+        "react",
+        "vue"
+      ],
+      "k": 2,
+      "count": 288
+    },
+    {
+      "skills": [
+        "react",
+        "webpack"
+      ],
+      "k": 2,
+      "count": 296
+    },
+    {
+      "skills": [
+        "redux",
+        "rest"
+      ],
+      "k": 2,
+      "count": 64
+    },
+    {
+      "skills": [
+        "redux",
+        "rest api"
+      ],
+      "k": 2,
+      "count": 73
+    },
+    {
+      "skills": [
+        "redux",
+        "sass"
+      ],
+      "k": 2,
+      "count": 42
+    },
+    {
+      "skills": [
+        "redux",
+        "typescript"
+      ],
+      "k": 2,
+      "count": 529
+    },
+    {
+      "skills": [
+        "redux",
+        "vue"
+      ],
+      "k": 2,
+      "count": 41
+    },
+    {
+      "skills": [
+        "redux",
+        "webpack"
+      ],
+      "k": 2,
+      "count": 150
+    },
+    {
+      "skills": [
+        "rest",
+        "rest api"
+      ],
+      "k": 2,
+      "count": 39
+    },
+    {
+      "skills": [
+        "rest",
+        "sass"
+      ],
+      "k": 2,
+      "count": 31
+    },
+    {
+      "skills": [
+        "rest",
+        "typescript"
+      ],
+      "k": 2,
+      "count": 167
+    },
+    {
+      "skills": [
+        "rest",
+        "vue"
+      ],
+      "k": 2,
+      "count": 91
+    },
+    {
+      "skills": [
+        "rest",
+        "webpack"
+      ],
+      "k": 2,
+      "count": 58
+    },
+    {
+      "skills": [
+        "rest api",
+        "sass"
+      ],
+      "k": 2,
+      "count": 35
+    },
+    {
+      "skills": [
+        "rest api",
+        "typescript"
+      ],
+      "k": 2,
+      "count": 212
+    },
+    {
+      "skills": [
+        "rest api",
+        "vue"
+      ],
+      "k": 2,
+      "count": 100
+    },
+    {
+      "skills": [
+        "rest api",
+        "webpack"
+      ],
+      "k": 2,
+      "count": 58
+    },
+    {
+      "skills": [
+        "sass",
+        "typescript"
+      ],
+      "k": 2,
+      "count": 144
+    },
+    {
+      "skills": [
+        "sass",
+        "vue"
+      ],
+      "k": 2,
+      "count": 90
+    },
+    {
+      "skills": [
+        "sass",
+        "webpack"
+      ],
+      "k": 2,
+      "count": 64
+    },
+    {
+      "skills": [
+        "typescript",
+        "vue"
+      ],
+      "k": 2,
+      "count": 544
+    },
+    {
+      "skills": [
+        "typescript",
+        "webpack"
+      ],
+      "k": 2,
+      "count": 306
+    },
+    {
+      "skills": [
+        "vue",
+        "webpack"
+      ],
+      "k": 2,
+      "count": 141
+    },
+    {
+      "skills": [
+        "angular",
+        "angularjs",
+        "css"
+      ],
+      "k": 3,
+      "count": 6
+    },
+    {
+      "skills": [
+        "angular",
+        "angularjs",
+        "css3"
+      ],
+      "k": 3,
+      "count": 9
+    },
+    {
+      "skills": [
+        "angular",
+        "angularjs",
+        "docker"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "angular",
+        "angularjs",
+        "frontend"
+      ],
+      "k": 3,
+      "count": 5
+    },
+    {
+      "skills": [
+        "angular",
+        "angularjs",
+        "git"
+      ],
+      "k": 3,
+      "count": 37
+    },
+    {
+      "skills": [
+        "angular",
+        "angularjs",
+        "html"
+      ],
+      "k": 3,
+      "count": 17
+    },
+    {
+      "skills": [
+        "angular",
+        "angularjs",
+        "html5"
+      ],
+      "k": 3,
+      "count": 11
+    },
+    {
+      "skills": [
+        "angular",
+        "angularjs",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 35
+    },
+    {
+      "skills": [
+        "angular",
+        "angularjs",
+        "js"
+      ],
+      "k": 3,
+      "count": 3
+    },
+    {
+      "skills": [
+        "angular",
+        "angularjs",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 2
+    },
+    {
+      "skills": [
+        "angular",
+        "angularjs",
+        "react"
+      ],
+      "k": 3,
+      "count": 17
+    },
+    {
+      "skills": [
+        "angular",
+        "angularjs",
+        "redux"
+      ],
+      "k": 3,
+      "count": 2
+    },
+    {
+      "skills": [
+        "angular",
+        "angularjs",
+        "rest"
+      ],
+      "k": 3,
+      "count": 8
+    },
+    {
+      "skills": [
+        "angular",
+        "angularjs",
+        "sass"
+      ],
+      "k": 3,
+      "count": 10
+    },
+    {
+      "skills": [
+        "angular",
+        "angularjs",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 27
+    },
+    {
+      "skills": [
+        "angular",
+        "angularjs",
+        "vue"
+      ],
+      "k": 3,
+      "count": 5
+    },
+    {
+      "skills": [
+        "angular",
+        "angularjs",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 2
+    },
+    {
+      "skills": [
+        "angular",
+        "css",
+        "css3"
+      ],
+      "k": 3,
+      "count": 8
+    },
+    {
+      "skills": [
+        "angular",
+        "css",
+        "docker"
+      ],
+      "k": 3,
+      "count": 1
+    },
+    {
+      "skills": [
+        "angular",
+        "css",
+        "frontend"
+      ],
+      "k": 3,
+      "count": 14
+    },
+    {
+      "skills": [
+        "angular",
+        "css",
+        "git"
+      ],
+      "k": 3,
+      "count": 42
+    },
+    {
+      "skills": [
+        "angular",
+        "css",
+        "html"
+      ],
+      "k": 3,
+      "count": 76
+    },
+    {
+      "skills": [
+        "angular",
+        "css",
+        "html5"
+      ],
+      "k": 3,
+      "count": 14
+    },
+    {
+      "skills": [
+        "angular",
+        "css",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 88
+    },
+    {
+      "skills": [
+        "angular",
+        "css",
+        "js"
+      ],
+      "k": 3,
+      "count": 2
+    },
+    {
+      "skills": [
+        "angular",
+        "css",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "angular",
+        "css",
+        "react"
+      ],
+      "k": 3,
+      "count": 23
+    },
+    {
+      "skills": [
+        "angular",
+        "css",
+        "redux"
+      ],
+      "k": 3,
+      "count": 3
+    },
+    {
+      "skills": [
+        "angular",
+        "css",
+        "rest"
+      ],
+      "k": 3,
+      "count": 8
+    },
+    {
+      "skills": [
+        "angular",
+        "css",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 13
+    },
+    {
+      "skills": [
+        "angular",
+        "css",
+        "sass"
+      ],
+      "k": 3,
+      "count": 3
+    },
+    {
+      "skills": [
+        "angular",
+        "css",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 60
+    },
+    {
+      "skills": [
+        "angular",
+        "css",
+        "vue"
+      ],
+      "k": 3,
+      "count": 15
+    },
+    {
+      "skills": [
+        "angular",
+        "css",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 5
+    },
+    {
+      "skills": [
+        "angular",
+        "css3",
+        "docker"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "angular",
+        "css3",
+        "frontend"
+      ],
+      "k": 3,
+      "count": 12
+    },
+    {
+      "skills": [
+        "angular",
+        "css3",
+        "git"
+      ],
+      "k": 3,
+      "count": 51
+    },
+    {
+      "skills": [
+        "angular",
+        "css3",
+        "html"
+      ],
+      "k": 3,
+      "count": 18
+    },
+    {
+      "skills": [
+        "angular",
+        "css3",
+        "html5"
+      ],
+      "k": 3,
+      "count": 78
+    },
+    {
+      "skills": [
+        "angular",
+        "css3",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 57
+    },
+    {
+      "skills": [
+        "angular",
+        "css3",
+        "js"
+      ],
+      "k": 3,
+      "count": 3
+    },
+    {
+      "skills": [
+        "angular",
+        "css3",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 8
+    },
+    {
+      "skills": [
+        "angular",
+        "css3",
+        "react"
+      ],
+      "k": 3,
+      "count": 28
+    },
+    {
+      "skills": [
+        "angular",
+        "css3",
+        "redux"
+      ],
+      "k": 3,
+      "count": 3
+    },
+    {
+      "skills": [
+        "angular",
+        "css3",
+        "rest"
+      ],
+      "k": 3,
+      "count": 8
+    },
+    {
+      "skills": [
+        "angular",
+        "css3",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 13
+    },
+    {
+      "skills": [
+        "angular",
+        "css3",
+        "sass"
+      ],
+      "k": 3,
+      "count": 12
+    },
+    {
+      "skills": [
+        "angular",
+        "css3",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 76
+    },
+    {
+      "skills": [
+        "angular",
+        "css3",
+        "vue"
+      ],
+      "k": 3,
+      "count": 17
+    },
+    {
+      "skills": [
+        "angular",
+        "css3",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "angular",
+        "docker",
+        "frontend"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "angular",
+        "docker",
+        "git"
+      ],
+      "k": 3,
+      "count": 7
+    },
+    {
+      "skills": [
+        "angular",
+        "docker",
+        "html"
+      ],
+      "k": 3,
+      "count": 1
+    },
+    {
+      "skills": [
+        "angular",
+        "docker",
+        "html5"
+      ],
+      "k": 3,
+      "count": 5
+    },
+    {
+      "skills": [
+        "angular",
+        "docker",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 6
+    },
+    {
+      "skills": [
+        "angular",
+        "docker",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 1
+    },
+    {
+      "skills": [
+        "angular",
+        "docker",
+        "react"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "angular",
+        "docker",
+        "rest"
+      ],
+      "k": 3,
+      "count": 3
+    },
+    {
+      "skills": [
+        "angular",
+        "docker",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 2
+    },
+    {
+      "skills": [
+        "angular",
+        "docker",
+        "sass"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "angular",
+        "docker",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 11
+    },
+    {
+      "skills": [
+        "angular",
+        "docker",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "angular",
+        "frontend",
+        "git"
+      ],
+      "k": 3,
+      "count": 18
+    },
+    {
+      "skills": [
+        "angular",
+        "frontend",
+        "html"
+      ],
+      "k": 3,
+      "count": 21
+    },
+    {
+      "skills": [
+        "angular",
+        "frontend",
+        "html5"
+      ],
+      "k": 3,
+      "count": 19
+    },
+    {
+      "skills": [
+        "angular",
+        "frontend",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 37
+    },
+    {
+      "skills": [
+        "angular",
+        "frontend",
+        "js"
+      ],
+      "k": 3,
+      "count": 2
+    },
+    {
+      "skills": [
+        "angular",
+        "frontend",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 5
+    },
+    {
+      "skills": [
+        "angular",
+        "frontend",
+        "react"
+      ],
+      "k": 3,
+      "count": 20
+    },
+    {
+      "skills": [
+        "angular",
+        "frontend",
+        "redux"
+      ],
+      "k": 3,
+      "count": 2
+    },
+    {
+      "skills": [
+        "angular",
+        "frontend",
+        "rest"
+      ],
+      "k": 3,
+      "count": 7
+    },
+    {
+      "skills": [
+        "angular",
+        "frontend",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 9
+    },
+    {
+      "skills": [
+        "angular",
+        "frontend",
+        "sass"
+      ],
+      "k": 3,
+      "count": 8
+    },
+    {
+      "skills": [
+        "angular",
+        "frontend",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 38
+    },
+    {
+      "skills": [
+        "angular",
+        "frontend",
+        "vue"
+      ],
+      "k": 3,
+      "count": 15
+    },
+    {
+      "skills": [
+        "angular",
+        "frontend",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 8
+    },
+    {
+      "skills": [
+        "angular",
+        "git",
+        "html"
+      ],
+      "k": 3,
+      "count": 62
+    },
+    {
+      "skills": [
+        "angular",
+        "git",
+        "html5"
+      ],
+      "k": 3,
+      "count": 54
+    },
+    {
+      "skills": [
+        "angular",
+        "git",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 118
+    },
+    {
+      "skills": [
+        "angular",
+        "git",
+        "js"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "angular",
+        "git",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 13
+    },
+    {
+      "skills": [
+        "angular",
+        "git",
+        "react"
+      ],
+      "k": 3,
+      "count": 40
+    },
+    {
+      "skills": [
+        "angular",
+        "git",
+        "redux"
+      ],
+      "k": 3,
+      "count": 8
+    },
+    {
+      "skills": [
+        "angular",
+        "git",
+        "rest"
+      ],
+      "k": 3,
+      "count": 24
+    },
+    {
+      "skills": [
+        "angular",
+        "git",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 21
+    },
+    {
+      "skills": [
+        "angular",
+        "git",
+        "sass"
+      ],
+      "k": 3,
+      "count": 25
+    },
+    {
+      "skills": [
+        "angular",
+        "git",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 121
+    },
+    {
+      "skills": [
+        "angular",
+        "git",
+        "vue"
+      ],
+      "k": 3,
+      "count": 19
+    },
+    {
+      "skills": [
+        "angular",
+        "git",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 8
+    },
+    {
+      "skills": [
+        "angular",
+        "html",
+        "html5"
+      ],
+      "k": 3,
+      "count": 14
+    },
+    {
+      "skills": [
+        "angular",
+        "html",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 100
+    },
+    {
+      "skills": [
+        "angular",
+        "html",
+        "js"
+      ],
+      "k": 3,
+      "count": 1
+    },
+    {
+      "skills": [
+        "angular",
+        "html",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 7
+    },
+    {
+      "skills": [
+        "angular",
+        "html",
+        "react"
+      ],
+      "k": 3,
+      "count": 44
+    },
+    {
+      "skills": [
+        "angular",
+        "html",
+        "redux"
+      ],
+      "k": 3,
+      "count": 5
+    },
+    {
+      "skills": [
+        "angular",
+        "html",
+        "rest"
+      ],
+      "k": 3,
+      "count": 9
+    },
+    {
+      "skills": [
+        "angular",
+        "html",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 20
+    },
+    {
+      "skills": [
+        "angular",
+        "html",
+        "sass"
+      ],
+      "k": 3,
+      "count": 16
+    },
+    {
+      "skills": [
+        "angular",
+        "html",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 71
+    },
+    {
+      "skills": [
+        "angular",
+        "html",
+        "vue"
+      ],
+      "k": 3,
+      "count": 17
+    },
+    {
+      "skills": [
+        "angular",
+        "html",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 8
+    },
+    {
+      "skills": [
+        "angular",
+        "html5",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 60
+    },
+    {
+      "skills": [
+        "angular",
+        "html5",
+        "js"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "angular",
+        "html5",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 8
+    },
+    {
+      "skills": [
+        "angular",
+        "html5",
+        "react"
+      ],
+      "k": 3,
+      "count": 30
+    },
+    {
+      "skills": [
+        "angular",
+        "html5",
+        "redux"
+      ],
+      "k": 3,
+      "count": 6
+    },
+    {
+      "skills": [
+        "angular",
+        "html5",
+        "rest"
+      ],
+      "k": 3,
+      "count": 12
+    },
+    {
+      "skills": [
+        "angular",
+        "html5",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 15
+    },
+    {
+      "skills": [
+        "angular",
+        "html5",
+        "sass"
+      ],
+      "k": 3,
+      "count": 12
+    },
+    {
+      "skills": [
+        "angular",
+        "html5",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 76
+    },
+    {
+      "skills": [
+        "angular",
+        "html5",
+        "vue"
+      ],
+      "k": 3,
+      "count": 16
+    },
+    {
+      "skills": [
+        "angular",
+        "html5",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "angular",
+        "javascript",
+        "js"
+      ],
+      "k": 3,
+      "count": 5
+    },
+    {
+      "skills": [
+        "angular",
+        "javascript",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 11
+    },
+    {
+      "skills": [
+        "angular",
+        "javascript",
+        "react"
+      ],
+      "k": 3,
+      "count": 77
+    },
+    {
+      "skills": [
+        "angular",
+        "javascript",
+        "redux"
+      ],
+      "k": 3,
+      "count": 12
+    },
+    {
+      "skills": [
+        "angular",
+        "javascript",
+        "rest"
+      ],
+      "k": 3,
+      "count": 22
+    },
+    {
+      "skills": [
+        "angular",
+        "javascript",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 28
+    },
+    {
+      "skills": [
+        "angular",
+        "javascript",
+        "sass"
+      ],
+      "k": 3,
+      "count": 30
+    },
+    {
+      "skills": [
+        "angular",
+        "javascript",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 197
+    },
+    {
+      "skills": [
+        "angular",
+        "javascript",
+        "vue"
+      ],
+      "k": 3,
+      "count": 35
+    },
+    {
+      "skills": [
+        "angular",
+        "javascript",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 13
+    },
+    {
+      "skills": [
+        "angular",
+        "js",
+        "react"
+      ],
+      "k": 3,
+      "count": 1
+    },
+    {
+      "skills": [
+        "angular",
+        "js",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 6
+    },
+    {
+      "skills": [
+        "angular",
+        "js",
+        "vue"
+      ],
+      "k": 3,
+      "count": 1
+    },
+    {
+      "skills": [
+        "angular",
+        "node.js",
+        "react"
+      ],
+      "k": 3,
+      "count": 2
+    },
+    {
+      "skills": [
+        "angular",
+        "node.js",
+        "redux"
+      ],
+      "k": 3,
+      "count": 2
+    },
+    {
+      "skills": [
+        "angular",
+        "node.js",
+        "rest"
+      ],
+      "k": 3,
+      "count": 2
+    },
+    {
+      "skills": [
+        "angular",
+        "node.js",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 2
+    },
+    {
+      "skills": [
+        "angular",
+        "node.js",
+        "sass"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "angular",
+        "node.js",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 18
+    },
+    {
+      "skills": [
+        "angular",
+        "node.js",
+        "vue"
+      ],
+      "k": 3,
+      "count": 3
+    },
+    {
+      "skills": [
+        "angular",
+        "node.js",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 3
+    },
+    {
+      "skills": [
+        "angular",
+        "react",
+        "redux"
+      ],
+      "k": 3,
+      "count": 12
+    },
+    {
+      "skills": [
+        "angular",
+        "react",
+        "rest"
+      ],
+      "k": 3,
+      "count": 6
+    },
+    {
+      "skills": [
+        "angular",
+        "react",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 10
+    },
+    {
+      "skills": [
+        "angular",
+        "react",
+        "sass"
+      ],
+      "k": 3,
+      "count": 16
+    },
+    {
+      "skills": [
+        "angular",
+        "react",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 69
+    },
+    {
+      "skills": [
+        "angular",
+        "react",
+        "vue"
+      ],
+      "k": 3,
+      "count": 39
+    },
+    {
+      "skills": [
+        "angular",
+        "react",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 10
+    },
+    {
+      "skills": [
+        "angular",
+        "redux",
+        "rest"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "angular",
+        "redux",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 1
+    },
+    {
+      "skills": [
+        "angular",
+        "redux",
+        "sass"
+      ],
+      "k": 3,
+      "count": 2
+    },
+    {
+      "skills": [
+        "angular",
+        "redux",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 13
+    },
+    {
+      "skills": [
+        "angular",
+        "redux",
+        "vue"
+      ],
+      "k": 3,
+      "count": 6
+    },
+    {
+      "skills": [
+        "angular",
+        "redux",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 1
+    },
+    {
+      "skills": [
+        "angular",
+        "rest",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 7
+    },
+    {
+      "skills": [
+        "angular",
+        "rest",
+        "sass"
+      ],
+      "k": 3,
+      "count": 5
+    },
+    {
+      "skills": [
+        "angular",
+        "rest",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 25
+    },
+    {
+      "skills": [
+        "angular",
+        "rest",
+        "vue"
+      ],
+      "k": 3,
+      "count": 6
+    },
+    {
+      "skills": [
+        "angular",
+        "rest",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 5
+    },
+    {
+      "skills": [
+        "angular",
+        "rest api",
+        "sass"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "angular",
+        "rest api",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 36
+    },
+    {
+      "skills": [
+        "angular",
+        "rest api",
+        "vue"
+      ],
+      "k": 3,
+      "count": 6
+    },
+    {
+      "skills": [
+        "angular",
+        "rest api",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "angular",
+        "sass",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 32
+    },
+    {
+      "skills": [
+        "angular",
+        "sass",
+        "vue"
+      ],
+      "k": 3,
+      "count": 3
+    },
+    {
+      "skills": [
+        "angular",
+        "sass",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 5
+    },
+    {
+      "skills": [
+        "angular",
+        "typescript",
+        "vue"
+      ],
+      "k": 3,
+      "count": 35
+    },
+    {
+      "skills": [
+        "angular",
+        "typescript",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 19
+    },
+    {
+      "skills": [
+        "angular",
+        "vue",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 11
+    },
+    {
+      "skills": [
+        "angularjs",
+        "css",
+        "css3"
+      ],
+      "k": 3,
+      "count": 10
+    },
+    {
+      "skills": [
+        "angularjs",
+        "css",
+        "docker"
+      ],
+      "k": 3,
+      "count": 3
+    },
+    {
+      "skills": [
+        "angularjs",
+        "css",
+        "frontend"
+      ],
+      "k": 3,
+      "count": 7
+    },
+    {
+      "skills": [
+        "angularjs",
+        "css",
+        "git"
+      ],
+      "k": 3,
+      "count": 39
+    },
+    {
+      "skills": [
+        "angularjs",
+        "css",
+        "html"
+      ],
+      "k": 3,
+      "count": 44
+    },
+    {
+      "skills": [
+        "angularjs",
+        "css",
+        "html5"
+      ],
+      "k": 3,
+      "count": 17
+    },
+    {
+      "skills": [
+        "angularjs",
+        "css",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 55
+    },
+    {
+      "skills": [
+        "angularjs",
+        "css",
+        "js"
+      ],
+      "k": 3,
+      "count": 1
+    },
+    {
+      "skills": [
+        "angularjs",
+        "css",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 3
+    },
+    {
+      "skills": [
+        "angularjs",
+        "css",
+        "react"
+      ],
+      "k": 3,
+      "count": 21
+    },
+    {
+      "skills": [
+        "angularjs",
+        "css",
+        "redux"
+      ],
+      "k": 3,
+      "count": 1
+    },
+    {
+      "skills": [
+        "angularjs",
+        "css",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 5
+    },
+    {
+      "skills": [
+        "angularjs",
+        "css",
+        "sass"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "angularjs",
+        "css",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 28
+    },
+    {
+      "skills": [
+        "angularjs",
+        "css",
+        "vue"
+      ],
+      "k": 3,
+      "count": 15
+    },
+    {
+      "skills": [
+        "angularjs",
+        "css",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 3
+    },
+    {
+      "skills": [
+        "angularjs",
+        "css3",
+        "docker"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "angularjs",
+        "css3",
+        "frontend"
+      ],
+      "k": 3,
+      "count": 19
+    },
+    {
+      "skills": [
+        "angularjs",
+        "css3",
+        "git"
+      ],
+      "k": 3,
+      "count": 44
+    },
+    {
+      "skills": [
+        "angularjs",
+        "css3",
+        "html"
+      ],
+      "k": 3,
+      "count": 16
+    },
+    {
+      "skills": [
+        "angularjs",
+        "css3",
+        "html5"
+      ],
+      "k": 3,
+      "count": 52
+    },
+    {
+      "skills": [
+        "angularjs",
+        "css3",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 55
+    },
+    {
+      "skills": [
+        "angularjs",
+        "css3",
+        "js"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "angularjs",
+        "css3",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 8
+    },
+    {
+      "skills": [
+        "angularjs",
+        "css3",
+        "react"
+      ],
+      "k": 3,
+      "count": 31
+    },
+    {
+      "skills": [
+        "angularjs",
+        "css3",
+        "redux"
+      ],
+      "k": 3,
+      "count": 2
+    },
+    {
+      "skills": [
+        "angularjs",
+        "css3",
+        "rest"
+      ],
+      "k": 3,
+      "count": 5
+    },
+    {
+      "skills": [
+        "angularjs",
+        "css3",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 3
+    },
+    {
+      "skills": [
+        "angularjs",
+        "css3",
+        "sass"
+      ],
+      "k": 3,
+      "count": 2
+    },
+    {
+      "skills": [
+        "angularjs",
+        "css3",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 35
+    },
+    {
+      "skills": [
+        "angularjs",
+        "css3",
+        "vue"
+      ],
+      "k": 3,
+      "count": 26
+    },
+    {
+      "skills": [
+        "angularjs",
+        "css3",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 8
+    },
+    {
+      "skills": [
+        "angularjs",
+        "docker",
+        "frontend"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "angularjs",
+        "docker",
+        "git"
+      ],
+      "k": 3,
+      "count": 9
+    },
+    {
+      "skills": [
+        "angularjs",
+        "docker",
+        "html"
+      ],
+      "k": 3,
+      "count": 5
+    },
+    {
+      "skills": [
+        "angularjs",
+        "docker",
+        "html5"
+      ],
+      "k": 3,
+      "count": 8
+    },
+    {
+      "skills": [
+        "angularjs",
+        "docker",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 10
+    },
+    {
+      "skills": [
+        "angularjs",
+        "docker",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 7
+    },
+    {
+      "skills": [
+        "angularjs",
+        "docker",
+        "react"
+      ],
+      "k": 3,
+      "count": 10
+    },
+    {
+      "skills": [
+        "angularjs",
+        "docker",
+        "redux"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "angularjs",
+        "docker",
+        "rest"
+      ],
+      "k": 3,
+      "count": 2
+    },
+    {
+      "skills": [
+        "angularjs",
+        "docker",
+        "sass"
+      ],
+      "k": 3,
+      "count": 2
+    },
+    {
+      "skills": [
+        "angularjs",
+        "docker",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 5
+    },
+    {
+      "skills": [
+        "angularjs",
+        "docker",
+        "vue"
+      ],
+      "k": 3,
+      "count": 5
+    },
+    {
+      "skills": [
+        "angularjs",
+        "docker",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 3
+    },
+    {
+      "skills": [
+        "angularjs",
+        "frontend",
+        "git"
+      ],
+      "k": 3,
+      "count": 16
+    },
+    {
+      "skills": [
+        "angularjs",
+        "frontend",
+        "html"
+      ],
+      "k": 3,
+      "count": 12
+    },
+    {
+      "skills": [
+        "angularjs",
+        "frontend",
+        "html5"
+      ],
+      "k": 3,
+      "count": 22
+    },
+    {
+      "skills": [
+        "angularjs",
+        "frontend",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 32
+    },
+    {
+      "skills": [
+        "angularjs",
+        "frontend",
+        "js"
+      ],
+      "k": 3,
+      "count": 3
+    },
+    {
+      "skills": [
+        "angularjs",
+        "frontend",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 9
+    },
+    {
+      "skills": [
+        "angularjs",
+        "frontend",
+        "react"
+      ],
+      "k": 3,
+      "count": 17
+    },
+    {
+      "skills": [
+        "angularjs",
+        "frontend",
+        "redux"
+      ],
+      "k": 3,
+      "count": 5
+    },
+    {
+      "skills": [
+        "angularjs",
+        "frontend",
+        "rest"
+      ],
+      "k": 3,
+      "count": 1
+    },
+    {
+      "skills": [
+        "angularjs",
+        "frontend",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 3
+    },
+    {
+      "skills": [
+        "angularjs",
+        "frontend",
+        "sass"
+      ],
+      "k": 3,
+      "count": 2
+    },
+    {
+      "skills": [
+        "angularjs",
+        "frontend",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 21
+    },
+    {
+      "skills": [
+        "angularjs",
+        "frontend",
+        "vue"
+      ],
+      "k": 3,
+      "count": 14
+    },
+    {
+      "skills": [
+        "angularjs",
+        "frontend",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "angularjs",
+        "git",
+        "html"
+      ],
+      "k": 3,
+      "count": 55
+    },
+    {
+      "skills": [
+        "angularjs",
+        "git",
+        "html5"
+      ],
+      "k": 3,
+      "count": 48
+    },
+    {
+      "skills": [
+        "angularjs",
+        "git",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 114
+    },
+    {
+      "skills": [
+        "angularjs",
+        "git",
+        "js"
+      ],
+      "k": 3,
+      "count": 8
+    },
+    {
+      "skills": [
+        "angularjs",
+        "git",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 14
+    },
+    {
+      "skills": [
+        "angularjs",
+        "git",
+        "react"
+      ],
+      "k": 3,
+      "count": 63
+    },
+    {
+      "skills": [
+        "angularjs",
+        "git",
+        "redux"
+      ],
+      "k": 3,
+      "count": 12
+    },
+    {
+      "skills": [
+        "angularjs",
+        "git",
+        "rest"
+      ],
+      "k": 3,
+      "count": 10
+    },
+    {
+      "skills": [
+        "angularjs",
+        "git",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 10
+    },
+    {
+      "skills": [
+        "angularjs",
+        "git",
+        "sass"
+      ],
+      "k": 3,
+      "count": 12
+    },
+    {
+      "skills": [
+        "angularjs",
+        "git",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 57
+    },
+    {
+      "skills": [
+        "angularjs",
+        "git",
+        "vue"
+      ],
+      "k": 3,
+      "count": 34
+    },
+    {
+      "skills": [
+        "angularjs",
+        "git",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 10
+    },
+    {
+      "skills": [
+        "angularjs",
+        "html",
+        "html5"
+      ],
+      "k": 3,
+      "count": 15
+    },
+    {
+      "skills": [
+        "angularjs",
+        "html",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 72
+    },
+    {
+      "skills": [
+        "angularjs",
+        "html",
+        "js"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "angularjs",
+        "html",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 13
+    },
+    {
+      "skills": [
+        "angularjs",
+        "html",
+        "react"
+      ],
+      "k": 3,
+      "count": 45
+    },
+    {
+      "skills": [
+        "angularjs",
+        "html",
+        "redux"
+      ],
+      "k": 3,
+      "count": 8
+    },
+    {
+      "skills": [
+        "angularjs",
+        "html",
+        "rest"
+      ],
+      "k": 3,
+      "count": 3
+    },
+    {
+      "skills": [
+        "angularjs",
+        "html",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 8
+    },
+    {
+      "skills": [
+        "angularjs",
+        "html",
+        "sass"
+      ],
+      "k": 3,
+      "count": 11
+    },
+    {
+      "skills": [
+        "angularjs",
+        "html",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 49
+    },
+    {
+      "skills": [
+        "angularjs",
+        "html",
+        "vue"
+      ],
+      "k": 3,
+      "count": 22
+    },
+    {
+      "skills": [
+        "angularjs",
+        "html",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "angularjs",
+        "html5",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 70
+    },
+    {
+      "skills": [
+        "angularjs",
+        "html5",
+        "js"
+      ],
+      "k": 3,
+      "count": 5
+    },
+    {
+      "skills": [
+        "angularjs",
+        "html5",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 10
+    },
+    {
+      "skills": [
+        "angularjs",
+        "html5",
+        "react"
+      ],
+      "k": 3,
+      "count": 34
+    },
+    {
+      "skills": [
+        "angularjs",
+        "html5",
+        "redux"
+      ],
+      "k": 3,
+      "count": 6
+    },
+    {
+      "skills": [
+        "angularjs",
+        "html5",
+        "rest"
+      ],
+      "k": 3,
+      "count": 7
+    },
+    {
+      "skills": [
+        "angularjs",
+        "html5",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 3
+    },
+    {
+      "skills": [
+        "angularjs",
+        "html5",
+        "sass"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "angularjs",
+        "html5",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 42
+    },
+    {
+      "skills": [
+        "angularjs",
+        "html5",
+        "vue"
+      ],
+      "k": 3,
+      "count": 27
+    },
+    {
+      "skills": [
+        "angularjs",
+        "html5",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 8
+    },
+    {
+      "skills": [
+        "angularjs",
+        "javascript",
+        "js"
+      ],
+      "k": 3,
+      "count": 9
+    },
+    {
+      "skills": [
+        "angularjs",
+        "javascript",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 22
+    },
+    {
+      "skills": [
+        "angularjs",
+        "javascript",
+        "react"
+      ],
+      "k": 3,
+      "count": 83
+    },
+    {
+      "skills": [
+        "angularjs",
+        "javascript",
+        "redux"
+      ],
+      "k": 3,
+      "count": 12
+    },
+    {
+      "skills": [
+        "angularjs",
+        "javascript",
+        "rest"
+      ],
+      "k": 3,
+      "count": 11
+    },
+    {
+      "skills": [
+        "angularjs",
+        "javascript",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 9
+    },
+    {
+      "skills": [
+        "angularjs",
+        "javascript",
+        "sass"
+      ],
+      "k": 3,
+      "count": 15
+    },
+    {
+      "skills": [
+        "angularjs",
+        "javascript",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 97
+    },
+    {
+      "skills": [
+        "angularjs",
+        "javascript",
+        "vue"
+      ],
+      "k": 3,
+      "count": 59
+    },
+    {
+      "skills": [
+        "angularjs",
+        "javascript",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 19
+    },
+    {
+      "skills": [
+        "angularjs",
+        "js",
+        "react"
+      ],
+      "k": 3,
+      "count": 6
+    },
+    {
+      "skills": [
+        "angularjs",
+        "js",
+        "redux"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "angularjs",
+        "js",
+        "rest"
+      ],
+      "k": 3,
+      "count": 2
+    },
+    {
+      "skills": [
+        "angularjs",
+        "js",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 3
+    },
+    {
+      "skills": [
+        "angularjs",
+        "js",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 6
+    },
+    {
+      "skills": [
+        "angularjs",
+        "js",
+        "vue"
+      ],
+      "k": 3,
+      "count": 2
+    },
+    {
+      "skills": [
+        "angularjs",
+        "js",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 1
+    },
+    {
+      "skills": [
+        "angularjs",
+        "node.js",
+        "react"
+      ],
+      "k": 3,
+      "count": 16
+    },
+    {
+      "skills": [
+        "angularjs",
+        "node.js",
+        "redux"
+      ],
+      "k": 3,
+      "count": 9
+    },
+    {
+      "skills": [
+        "angularjs",
+        "node.js",
+        "rest"
+      ],
+      "k": 3,
+      "count": 3
+    },
+    {
+      "skills": [
+        "angularjs",
+        "node.js",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 2
+    },
+    {
+      "skills": [
+        "angularjs",
+        "node.js",
+        "sass"
+      ],
+      "k": 3,
+      "count": 2
+    },
+    {
+      "skills": [
+        "angularjs",
+        "node.js",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 11
+    },
+    {
+      "skills": [
+        "angularjs",
+        "node.js",
+        "vue"
+      ],
+      "k": 3,
+      "count": 11
+    },
+    {
+      "skills": [
+        "angularjs",
+        "node.js",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 3
+    },
+    {
+      "skills": [
+        "angularjs",
+        "react",
+        "redux"
+      ],
+      "k": 3,
+      "count": 13
+    },
+    {
+      "skills": [
+        "angularjs",
+        "react",
+        "rest"
+      ],
+      "k": 3,
+      "count": 9
+    },
+    {
+      "skills": [
+        "angularjs",
+        "react",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 9
+    },
+    {
+      "skills": [
+        "angularjs",
+        "react",
+        "sass"
+      ],
+      "k": 3,
+      "count": 12
+    },
+    {
+      "skills": [
+        "angularjs",
+        "react",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 48
+    },
+    {
+      "skills": [
+        "angularjs",
+        "react",
+        "vue"
+      ],
+      "k": 3,
+      "count": 50
+    },
+    {
+      "skills": [
+        "angularjs",
+        "react",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 12
+    },
+    {
+      "skills": [
+        "angularjs",
+        "redux",
+        "rest"
+      ],
+      "k": 3,
+      "count": 1
+    },
+    {
+      "skills": [
+        "angularjs",
+        "redux",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 3
+    },
+    {
+      "skills": [
+        "angularjs",
+        "redux",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "angularjs",
+        "redux",
+        "vue"
+      ],
+      "k": 3,
+      "count": 3
+    },
+    {
+      "skills": [
+        "angularjs",
+        "redux",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 2
+    },
+    {
+      "skills": [
+        "angularjs",
+        "rest",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 2
+    },
+    {
+      "skills": [
+        "angularjs",
+        "rest",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 8
+    },
+    {
+      "skills": [
+        "angularjs",
+        "rest",
+        "vue"
+      ],
+      "k": 3,
+      "count": 5
+    },
+    {
+      "skills": [
+        "angularjs",
+        "rest",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 3
+    },
+    {
+      "skills": [
+        "angularjs",
+        "rest api",
+        "sass"
+      ],
+      "k": 3,
+      "count": 1
+    },
+    {
+      "skills": [
+        "angularjs",
+        "rest api",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 7
+    },
+    {
+      "skills": [
+        "angularjs",
+        "rest api",
+        "vue"
+      ],
+      "k": 3,
+      "count": 7
+    },
+    {
+      "skills": [
+        "angularjs",
+        "rest api",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 1
+    },
+    {
+      "skills": [
+        "angularjs",
+        "sass",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 11
+    },
+    {
+      "skills": [
+        "angularjs",
+        "sass",
+        "vue"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "angularjs",
+        "sass",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 3
+    },
+    {
+      "skills": [
+        "angularjs",
+        "typescript",
+        "vue"
+      ],
+      "k": 3,
+      "count": 25
+    },
+    {
+      "skills": [
+        "angularjs",
+        "typescript",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 10
+    },
+    {
+      "skills": [
+        "angularjs",
+        "vue",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 9
+    },
+    {
+      "skills": [
+        "css",
+        "css3",
+        "docker"
+      ],
+      "k": 3,
+      "count": 10
+    },
+    {
+      "skills": [
+        "css",
+        "css3",
+        "frontend"
+      ],
+      "k": 3,
+      "count": 15
+    },
+    {
+      "skills": [
+        "css",
+        "css3",
+        "git"
+      ],
+      "k": 3,
+      "count": 89
+    },
+    {
+      "skills": [
+        "css",
+        "css3",
+        "html"
+      ],
+      "k": 3,
+      "count": 104
+    },
+    {
+      "skills": [
+        "css",
+        "css3",
+        "html5"
+      ],
+      "k": 3,
+      "count": 129
+    },
+    {
+      "skills": [
+        "css",
+        "css3",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 142
+    },
+    {
+      "skills": [
+        "css",
+        "css3",
+        "js"
+      ],
+      "k": 3,
+      "count": 9
+    },
+    {
+      "skills": [
+        "css",
+        "css3",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 13
+    },
+    {
+      "skills": [
+        "css",
+        "css3",
+        "react"
+      ],
+      "k": 3,
+      "count": 70
+    },
+    {
+      "skills": [
+        "css",
+        "css3",
+        "redux"
+      ],
+      "k": 3,
+      "count": 22
+    },
+    {
+      "skills": [
+        "css",
+        "css3",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 7
+    },
+    {
+      "skills": [
+        "css",
+        "css3",
+        "sass"
+      ],
+      "k": 3,
+      "count": 26
+    },
+    {
+      "skills": [
+        "css",
+        "css3",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 57
+    },
+    {
+      "skills": [
+        "css",
+        "css3",
+        "vue"
+      ],
+      "k": 3,
+      "count": 41
+    },
+    {
+      "skills": [
+        "css",
+        "css3",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 12
+    },
+    {
+      "skills": [
+        "css",
+        "docker",
+        "frontend"
+      ],
+      "k": 3,
+      "count": 17
+    },
+    {
+      "skills": [
+        "css",
+        "docker",
+        "git"
+      ],
+      "k": 3,
+      "count": 44
+    },
+    {
+      "skills": [
+        "css",
+        "docker",
+        "html"
+      ],
+      "k": 3,
+      "count": 44
+    },
+    {
+      "skills": [
+        "css",
+        "docker",
+        "html5"
+      ],
+      "k": 3,
+      "count": 16
+    },
+    {
+      "skills": [
+        "css",
+        "docker",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 40
+    },
+    {
+      "skills": [
+        "css",
+        "docker",
+        "js"
+      ],
+      "k": 3,
+      "count": 3
+    },
+    {
+      "skills": [
+        "css",
+        "docker",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 17
+    },
+    {
+      "skills": [
+        "css",
+        "docker",
+        "react"
+      ],
+      "k": 3,
+      "count": 31
+    },
+    {
+      "skills": [
+        "css",
+        "docker",
+        "redux"
+      ],
+      "k": 3,
+      "count": 10
+    },
+    {
+      "skills": [
+        "css",
+        "docker",
+        "rest"
+      ],
+      "k": 3,
+      "count": 7
+    },
+    {
+      "skills": [
+        "css",
+        "docker",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 7
+    },
+    {
+      "skills": [
+        "css",
+        "docker",
+        "sass"
+      ],
+      "k": 3,
+      "count": 6
+    },
+    {
+      "skills": [
+        "css",
+        "docker",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 28
+    },
+    {
+      "skills": [
+        "css",
+        "docker",
+        "vue"
+      ],
+      "k": 3,
+      "count": 31
+    },
+    {
+      "skills": [
+        "css",
+        "docker",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 10
+    },
+    {
+      "skills": [
+        "css",
+        "frontend",
+        "git"
+      ],
+      "k": 3,
+      "count": 73
+    },
+    {
+      "skills": [
+        "css",
+        "frontend",
+        "html"
+      ],
+      "k": 3,
+      "count": 85
+    },
+    {
+      "skills": [
+        "css",
+        "frontend",
+        "html5"
+      ],
+      "k": 3,
+      "count": 31
+    },
+    {
+      "skills": [
+        "css",
+        "frontend",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 96
+    },
+    {
+      "skills": [
+        "css",
+        "frontend",
+        "js"
+      ],
+      "k": 3,
+      "count": 22
+    },
+    {
+      "skills": [
+        "css",
+        "frontend",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 26
+    },
+    {
+      "skills": [
+        "css",
+        "frontend",
+        "react"
+      ],
+      "k": 3,
+      "count": 54
+    },
+    {
+      "skills": [
+        "css",
+        "frontend",
+        "redux"
+      ],
+      "k": 3,
+      "count": 15
+    },
+    {
+      "skills": [
+        "css",
+        "frontend",
+        "rest"
+      ],
+      "k": 3,
+      "count": 8
+    },
+    {
+      "skills": [
+        "css",
+        "frontend",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 8
+    },
+    {
+      "skills": [
+        "css",
+        "frontend",
+        "sass"
+      ],
+      "k": 3,
+      "count": 5
+    },
+    {
+      "skills": [
+        "css",
+        "frontend",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 54
+    },
+    {
+      "skills": [
+        "css",
+        "frontend",
+        "vue"
+      ],
+      "k": 3,
+      "count": 55
+    },
+    {
+      "skills": [
+        "css",
+        "frontend",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 19
+    },
+    {
+      "skills": [
+        "css",
+        "git",
+        "html"
+      ],
+      "k": 3,
+      "count": 373
+    },
+    {
+      "skills": [
+        "css",
+        "git",
+        "html5"
+      ],
+      "k": 3,
+      "count": 134
+    },
+    {
+      "skills": [
+        "css",
+        "git",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 428
+    },
+    {
+      "skills": [
+        "css",
+        "git",
+        "js"
+      ],
+      "k": 3,
+      "count": 29
+    },
+    {
+      "skills": [
+        "css",
+        "git",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 51
+    },
+    {
+      "skills": [
+        "css",
+        "git",
+        "react"
+      ],
+      "k": 3,
+      "count": 235
+    },
+    {
+      "skills": [
+        "css",
+        "git",
+        "redux"
+      ],
+      "k": 3,
+      "count": 73
+    },
+    {
+      "skills": [
+        "css",
+        "git",
+        "rest"
+      ],
+      "k": 3,
+      "count": 27
+    },
+    {
+      "skills": [
+        "css",
+        "git",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 52
+    },
+    {
+      "skills": [
+        "css",
+        "git",
+        "sass"
+      ],
+      "k": 3,
+      "count": 63
+    },
+    {
+      "skills": [
+        "css",
+        "git",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 226
+    },
+    {
+      "skills": [
+        "css",
+        "git",
+        "vue"
+      ],
+      "k": 3,
+      "count": 148
+    },
+    {
+      "skills": [
+        "css",
+        "git",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 65
+    },
+    {
+      "skills": [
+        "css",
+        "html",
+        "html5"
+      ],
+      "k": 3,
+      "count": 119
+    },
+    {
+      "skills": [
+        "css",
+        "html",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 690
+    },
+    {
+      "skills": [
+        "css",
+        "html",
+        "js"
+      ],
+      "k": 3,
+      "count": 59
+    },
+    {
+      "skills": [
+        "css",
+        "html",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 64
+    },
+    {
+      "skills": [
+        "css",
+        "html",
+        "react"
+      ],
+      "k": 3,
+      "count": 367
+    },
+    {
+      "skills": [
+        "css",
+        "html",
+        "redux"
+      ],
+      "k": 3,
+      "count": 117
+    },
+    {
+      "skills": [
+        "css",
+        "html",
+        "rest"
+      ],
+      "k": 3,
+      "count": 47
+    },
+    {
+      "skills": [
+        "css",
+        "html",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 54
+    },
+    {
+      "skills": [
+        "css",
+        "html",
+        "sass"
+      ],
+      "k": 3,
+      "count": 69
+    },
+    {
+      "skills": [
+        "css",
+        "html",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 351
+    },
+    {
+      "skills": [
+        "css",
+        "html",
+        "vue"
+      ],
+      "k": 3,
+      "count": 221
+    },
+    {
+      "skills": [
+        "css",
+        "html",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 75
+    },
+    {
+      "skills": [
+        "css",
+        "html5",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 201
+    },
+    {
+      "skills": [
+        "css",
+        "html5",
+        "js"
+      ],
+      "k": 3,
+      "count": 19
+    },
+    {
+      "skills": [
+        "css",
+        "html5",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 20
+    },
+    {
+      "skills": [
+        "css",
+        "html5",
+        "react"
+      ],
+      "k": 3,
+      "count": 90
+    },
+    {
+      "skills": [
+        "css",
+        "html5",
+        "redux"
+      ],
+      "k": 3,
+      "count": 27
+    },
+    {
+      "skills": [
+        "css",
+        "html5",
+        "rest"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "css",
+        "html5",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 16
+    },
+    {
+      "skills": [
+        "css",
+        "html5",
+        "sass"
+      ],
+      "k": 3,
+      "count": 36
+    },
+    {
+      "skills": [
+        "css",
+        "html5",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 86
+    },
+    {
+      "skills": [
+        "css",
+        "html5",
+        "vue"
+      ],
+      "k": 3,
+      "count": 79
+    },
+    {
+      "skills": [
+        "css",
+        "html5",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 20
+    },
+    {
+      "skills": [
+        "css",
+        "javascript",
+        "js"
+      ],
+      "k": 3,
+      "count": 43
+    },
+    {
+      "skills": [
+        "css",
+        "javascript",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 78
+    },
+    {
+      "skills": [
+        "css",
+        "javascript",
+        "react"
+      ],
+      "k": 3,
+      "count": 403
+    },
+    {
+      "skills": [
+        "css",
+        "javascript",
+        "redux"
+      ],
+      "k": 3,
+      "count": 130
+    },
+    {
+      "skills": [
+        "css",
+        "javascript",
+        "rest"
+      ],
+      "k": 3,
+      "count": 42
+    },
+    {
+      "skills": [
+        "css",
+        "javascript",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 58
+    },
+    {
+      "skills": [
+        "css",
+        "javascript",
+        "sass"
+      ],
+      "k": 3,
+      "count": 78
+    },
+    {
+      "skills": [
+        "css",
+        "javascript",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 402
+    },
+    {
+      "skills": [
+        "css",
+        "javascript",
+        "vue"
+      ],
+      "k": 3,
+      "count": 253
+    },
+    {
+      "skills": [
+        "css",
+        "javascript",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 86
+    },
+    {
+      "skills": [
+        "css",
+        "js",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 8
+    },
+    {
+      "skills": [
+        "css",
+        "js",
+        "react"
+      ],
+      "k": 3,
+      "count": 44
+    },
+    {
+      "skills": [
+        "css",
+        "js",
+        "redux"
+      ],
+      "k": 3,
+      "count": 14
+    },
+    {
+      "skills": [
+        "css",
+        "js",
+        "rest"
+      ],
+      "k": 3,
+      "count": 2
+    },
+    {
+      "skills": [
+        "css",
+        "js",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "css",
+        "js",
+        "sass"
+      ],
+      "k": 3,
+      "count": 7
+    },
+    {
+      "skills": [
+        "css",
+        "js",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 28
+    },
+    {
+      "skills": [
+        "css",
+        "js",
+        "vue"
+      ],
+      "k": 3,
+      "count": 33
+    },
+    {
+      "skills": [
+        "css",
+        "js",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 13
+    },
+    {
+      "skills": [
+        "css",
+        "node.js",
+        "react"
+      ],
+      "k": 3,
+      "count": 50
+    },
+    {
+      "skills": [
+        "css",
+        "node.js",
+        "redux"
+      ],
+      "k": 3,
+      "count": 7
+    },
+    {
+      "skills": [
+        "css",
+        "node.js",
+        "rest"
+      ],
+      "k": 3,
+      "count": 9
+    },
+    {
+      "skills": [
+        "css",
+        "node.js",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 1
+    },
+    {
+      "skills": [
+        "css",
+        "node.js",
+        "sass"
+      ],
+      "k": 3,
+      "count": 2
+    },
+    {
+      "skills": [
+        "css",
+        "node.js",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 55
+    },
+    {
+      "skills": [
+        "css",
+        "node.js",
+        "vue"
+      ],
+      "k": 3,
+      "count": 42
+    },
+    {
+      "skills": [
+        "css",
+        "node.js",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 16
+    },
+    {
+      "skills": [
+        "css",
+        "react",
+        "redux"
+      ],
+      "k": 3,
+      "count": 156
+    },
+    {
+      "skills": [
+        "css",
+        "react",
+        "rest"
+      ],
+      "k": 3,
+      "count": 31
+    },
+    {
+      "skills": [
+        "css",
+        "react",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 44
+    },
+    {
+      "skills": [
+        "css",
+        "react",
+        "sass"
+      ],
+      "k": 3,
+      "count": 44
+    },
+    {
+      "skills": [
+        "css",
+        "react",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 300
+    },
+    {
+      "skills": [
+        "css",
+        "react",
+        "vue"
+      ],
+      "k": 3,
+      "count": 84
+    },
+    {
+      "skills": [
+        "css",
+        "react",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 64
+    },
+    {
+      "skills": [
+        "css",
+        "redux",
+        "rest"
+      ],
+      "k": 3,
+      "count": 13
+    },
+    {
+      "skills": [
+        "css",
+        "redux",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 17
+    },
+    {
+      "skills": [
+        "css",
+        "redux",
+        "sass"
+      ],
+      "k": 3,
+      "count": 15
+    },
+    {
+      "skills": [
+        "css",
+        "redux",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 111
+    },
+    {
+      "skills": [
+        "css",
+        "redux",
+        "vue"
+      ],
+      "k": 3,
+      "count": 11
+    },
+    {
+      "skills": [
+        "css",
+        "redux",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 38
+    },
+    {
+      "skills": [
+        "css",
+        "rest",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 7
+    },
+    {
+      "skills": [
+        "css",
+        "rest",
+        "sass"
+      ],
+      "k": 3,
+      "count": 3
+    },
+    {
+      "skills": [
+        "css",
+        "rest",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 37
+    },
+    {
+      "skills": [
+        "css",
+        "rest",
+        "vue"
+      ],
+      "k": 3,
+      "count": 16
+    },
+    {
+      "skills": [
+        "css",
+        "rest",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "css",
+        "rest api",
+        "sass"
+      ],
+      "k": 3,
+      "count": 9
+    },
+    {
+      "skills": [
+        "css",
+        "rest api",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 48
+    },
+    {
+      "skills": [
+        "css",
+        "rest api",
+        "vue"
+      ],
+      "k": 3,
+      "count": 17
+    },
+    {
+      "skills": [
+        "css",
+        "rest api",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 16
+    },
+    {
+      "skills": [
+        "css",
+        "sass",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 44
+    },
+    {
+      "skills": [
+        "css",
+        "sass",
+        "vue"
+      ],
+      "k": 3,
+      "count": 25
+    },
+    {
+      "skills": [
+        "css",
+        "sass",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 20
+    },
+    {
+      "skills": [
+        "css",
+        "typescript",
+        "vue"
+      ],
+      "k": 3,
+      "count": 100
+    },
+    {
+      "skills": [
+        "css",
+        "typescript",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 66
+    },
+    {
+      "skills": [
+        "css",
+        "vue",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 40
+    },
+    {
+      "skills": [
+        "css3",
+        "docker",
+        "frontend"
+      ],
+      "k": 3,
+      "count": 8
+    },
+    {
+      "skills": [
+        "css3",
+        "docker",
+        "git"
+      ],
+      "k": 3,
+      "count": 36
+    },
+    {
+      "skills": [
+        "css3",
+        "docker",
+        "html"
+      ],
+      "k": 3,
+      "count": 9
+    },
+    {
+      "skills": [
+        "css3",
+        "docker",
+        "html5"
+      ],
+      "k": 3,
+      "count": 43
+    },
+    {
+      "skills": [
+        "css3",
+        "docker",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 39
+    },
+    {
+      "skills": [
+        "css3",
+        "docker",
+        "js"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "css3",
+        "docker",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 7
+    },
+    {
+      "skills": [
+        "css3",
+        "docker",
+        "react"
+      ],
+      "k": 3,
+      "count": 31
+    },
+    {
+      "skills": [
+        "css3",
+        "docker",
+        "redux"
+      ],
+      "k": 3,
+      "count": 7
+    },
+    {
+      "skills": [
+        "css3",
+        "docker",
+        "rest"
+      ],
+      "k": 3,
+      "count": 7
+    },
+    {
+      "skills": [
+        "css3",
+        "docker",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 9
+    },
+    {
+      "skills": [
+        "css3",
+        "docker",
+        "sass"
+      ],
+      "k": 3,
+      "count": 6
+    },
+    {
+      "skills": [
+        "css3",
+        "docker",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 30
+    },
+    {
+      "skills": [
+        "css3",
+        "docker",
+        "vue"
+      ],
+      "k": 3,
+      "count": 18
+    },
+    {
+      "skills": [
+        "css3",
+        "docker",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 13
+    },
+    {
+      "skills": [
+        "css3",
+        "frontend",
+        "git"
+      ],
+      "k": 3,
+      "count": 70
+    },
+    {
+      "skills": [
+        "css3",
+        "frontend",
+        "html"
+      ],
+      "k": 3,
+      "count": 39
+    },
+    {
+      "skills": [
+        "css3",
+        "frontend",
+        "html5"
+      ],
+      "k": 3,
+      "count": 90
+    },
+    {
+      "skills": [
+        "css3",
+        "frontend",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 94
+    },
+    {
+      "skills": [
+        "css3",
+        "frontend",
+        "js"
+      ],
+      "k": 3,
+      "count": 38
+    },
+    {
+      "skills": [
+        "css3",
+        "frontend",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 30
+    },
+    {
+      "skills": [
+        "css3",
+        "frontend",
+        "react"
+      ],
+      "k": 3,
+      "count": 49
+    },
+    {
+      "skills": [
+        "css3",
+        "frontend",
+        "redux"
+      ],
+      "k": 3,
+      "count": 14
+    },
+    {
+      "skills": [
+        "css3",
+        "frontend",
+        "rest"
+      ],
+      "k": 3,
+      "count": 13
+    },
+    {
+      "skills": [
+        "css3",
+        "frontend",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 13
+    },
+    {
+      "skills": [
+        "css3",
+        "frontend",
+        "sass"
+      ],
+      "k": 3,
+      "count": 12
+    },
+    {
+      "skills": [
+        "css3",
+        "frontend",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 63
+    },
+    {
+      "skills": [
+        "css3",
+        "frontend",
+        "vue"
+      ],
+      "k": 3,
+      "count": 66
+    },
+    {
+      "skills": [
+        "css3",
+        "frontend",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 20
+    },
+    {
+      "skills": [
+        "css3",
+        "git",
+        "html"
+      ],
+      "k": 3,
+      "count": 156
+    },
+    {
+      "skills": [
+        "css3",
+        "git",
+        "html5"
+      ],
+      "k": 3,
+      "count": 398
+    },
+    {
+      "skills": [
+        "css3",
+        "git",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 417
+    },
+    {
+      "skills": [
+        "css3",
+        "git",
+        "js"
+      ],
+      "k": 3,
+      "count": 63
+    },
+    {
+      "skills": [
+        "css3",
+        "git",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 70
+    },
+    {
+      "skills": [
+        "css3",
+        "git",
+        "react"
+      ],
+      "k": 3,
+      "count": 228
+    },
+    {
+      "skills": [
+        "css3",
+        "git",
+        "redux"
+      ],
+      "k": 3,
+      "count": 55
+    },
+    {
+      "skills": [
+        "css3",
+        "git",
+        "rest"
+      ],
+      "k": 3,
+      "count": 56
+    },
+    {
+      "skills": [
+        "css3",
+        "git",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 58
+    },
+    {
+      "skills": [
+        "css3",
+        "git",
+        "sass"
+      ],
+      "k": 3,
+      "count": 71
+    },
+    {
+      "skills": [
+        "css3",
+        "git",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 209
+    },
+    {
+      "skills": [
+        "css3",
+        "git",
+        "vue"
+      ],
+      "k": 3,
+      "count": 180
+    },
+    {
+      "skills": [
+        "css3",
+        "git",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 67
+    },
+    {
+      "skills": [
+        "css3",
+        "html",
+        "html5"
+      ],
+      "k": 3,
+      "count": 148
+    },
+    {
+      "skills": [
+        "css3",
+        "html",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 250
+    },
+    {
+      "skills": [
+        "css3",
+        "html",
+        "js"
+      ],
+      "k": 3,
+      "count": 25
+    },
+    {
+      "skills": [
+        "css3",
+        "html",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 35
+    },
+    {
+      "skills": [
+        "css3",
+        "html",
+        "react"
+      ],
+      "k": 3,
+      "count": 136
+    },
+    {
+      "skills": [
+        "css3",
+        "html",
+        "redux"
+      ],
+      "k": 3,
+      "count": 42
+    },
+    {
+      "skills": [
+        "css3",
+        "html",
+        "rest"
+      ],
+      "k": 3,
+      "count": 23
+    },
+    {
+      "skills": [
+        "css3",
+        "html",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 34
+    },
+    {
+      "skills": [
+        "css3",
+        "html",
+        "sass"
+      ],
+      "k": 3,
+      "count": 35
+    },
+    {
+      "skills": [
+        "css3",
+        "html",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 105
+    },
+    {
+      "skills": [
+        "css3",
+        "html",
+        "vue"
+      ],
+      "k": 3,
+      "count": 91
+    },
+    {
+      "skills": [
+        "css3",
+        "html",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 31
+    },
+    {
+      "skills": [
+        "css3",
+        "html5",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 569
+    },
+    {
+      "skills": [
+        "css3",
+        "html5",
+        "js"
+      ],
+      "k": 3,
+      "count": 62
+    },
+    {
+      "skills": [
+        "css3",
+        "html5",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 79
+    },
+    {
+      "skills": [
+        "css3",
+        "html5",
+        "react"
+      ],
+      "k": 3,
+      "count": 293
+    },
+    {
+      "skills": [
+        "css3",
+        "html5",
+        "redux"
+      ],
+      "k": 3,
+      "count": 73
+    },
+    {
+      "skills": [
+        "css3",
+        "html5",
+        "rest"
+      ],
+      "k": 3,
+      "count": 66
+    },
+    {
+      "skills": [
+        "css3",
+        "html5",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 67
+    },
+    {
+      "skills": [
+        "css3",
+        "html5",
+        "sass"
+      ],
+      "k": 3,
+      "count": 87
+    },
+    {
+      "skills": [
+        "css3",
+        "html5",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 311
+    },
+    {
+      "skills": [
+        "css3",
+        "html5",
+        "vue"
+      ],
+      "k": 3,
+      "count": 251
+    },
+    {
+      "skills": [
+        "css3",
+        "html5",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 104
+    },
+    {
+      "skills": [
+        "css3",
+        "javascript",
+        "js"
+      ],
+      "k": 3,
+      "count": 63
+    },
+    {
+      "skills": [
+        "css3",
+        "javascript",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 82
+    },
+    {
+      "skills": [
+        "css3",
+        "javascript",
+        "react"
+      ],
+      "k": 3,
+      "count": 339
+    },
+    {
+      "skills": [
+        "css3",
+        "javascript",
+        "redux"
+      ],
+      "k": 3,
+      "count": 95
+    },
+    {
+      "skills": [
+        "css3",
+        "javascript",
+        "rest"
+      ],
+      "k": 3,
+      "count": 67
+    },
+    {
+      "skills": [
+        "css3",
+        "javascript",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 63
+    },
+    {
+      "skills": [
+        "css3",
+        "javascript",
+        "sass"
+      ],
+      "k": 3,
+      "count": 80
+    },
+    {
+      "skills": [
+        "css3",
+        "javascript",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 339
+    },
+    {
+      "skills": [
+        "css3",
+        "javascript",
+        "vue"
+      ],
+      "k": 3,
+      "count": 253
+    },
+    {
+      "skills": [
+        "css3",
+        "javascript",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 103
+    },
+    {
+      "skills": [
+        "css3",
+        "js",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 30
+    },
+    {
+      "skills": [
+        "css3",
+        "js",
+        "react"
+      ],
+      "k": 3,
+      "count": 39
+    },
+    {
+      "skills": [
+        "css3",
+        "js",
+        "redux"
+      ],
+      "k": 3,
+      "count": 9
+    },
+    {
+      "skills": [
+        "css3",
+        "js",
+        "rest"
+      ],
+      "k": 3,
+      "count": 13
+    },
+    {
+      "skills": [
+        "css3",
+        "js",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 19
+    },
+    {
+      "skills": [
+        "css3",
+        "js",
+        "sass"
+      ],
+      "k": 3,
+      "count": 13
+    },
+    {
+      "skills": [
+        "css3",
+        "js",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 45
+    },
+    {
+      "skills": [
+        "css3",
+        "js",
+        "vue"
+      ],
+      "k": 3,
+      "count": 44
+    },
+    {
+      "skills": [
+        "css3",
+        "js",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 15
+    },
+    {
+      "skills": [
+        "css3",
+        "node.js",
+        "react"
+      ],
+      "k": 3,
+      "count": 53
+    },
+    {
+      "skills": [
+        "css3",
+        "node.js",
+        "redux"
+      ],
+      "k": 3,
+      "count": 14
+    },
+    {
+      "skills": [
+        "css3",
+        "node.js",
+        "rest"
+      ],
+      "k": 3,
+      "count": 9
+    },
+    {
+      "skills": [
+        "css3",
+        "node.js",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 12
+    },
+    {
+      "skills": [
+        "css3",
+        "node.js",
+        "sass"
+      ],
+      "k": 3,
+      "count": 19
+    },
+    {
+      "skills": [
+        "css3",
+        "node.js",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 62
+    },
+    {
+      "skills": [
+        "css3",
+        "node.js",
+        "vue"
+      ],
+      "k": 3,
+      "count": 47
+    },
+    {
+      "skills": [
+        "css3",
+        "node.js",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 16
+    },
+    {
+      "skills": [
+        "css3",
+        "react",
+        "redux"
+      ],
+      "k": 3,
+      "count": 105
+    },
+    {
+      "skills": [
+        "css3",
+        "react",
+        "rest"
+      ],
+      "k": 3,
+      "count": 45
+    },
+    {
+      "skills": [
+        "css3",
+        "react",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 53
+    },
+    {
+      "skills": [
+        "css3",
+        "react",
+        "sass"
+      ],
+      "k": 3,
+      "count": 29
+    },
+    {
+      "skills": [
+        "css3",
+        "react",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 223
+    },
+    {
+      "skills": [
+        "css3",
+        "react",
+        "vue"
+      ],
+      "k": 3,
+      "count": 106
+    },
+    {
+      "skills": [
+        "css3",
+        "react",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 64
+    },
+    {
+      "skills": [
+        "css3",
+        "redux",
+        "rest"
+      ],
+      "k": 3,
+      "count": 18
+    },
+    {
+      "skills": [
+        "css3",
+        "redux",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 26
+    },
+    {
+      "skills": [
+        "css3",
+        "redux",
+        "sass"
+      ],
+      "k": 3,
+      "count": 8
+    },
+    {
+      "skills": [
+        "css3",
+        "redux",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 83
+    },
+    {
+      "skills": [
+        "css3",
+        "redux",
+        "vue"
+      ],
+      "k": 3,
+      "count": 16
+    },
+    {
+      "skills": [
+        "css3",
+        "redux",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 24
+    },
+    {
+      "skills": [
+        "css3",
+        "rest",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 16
+    },
+    {
+      "skills": [
+        "css3",
+        "rest",
+        "sass"
+      ],
+      "k": 3,
+      "count": 11
+    },
+    {
+      "skills": [
+        "css3",
+        "rest",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 45
+    },
+    {
+      "skills": [
+        "css3",
+        "rest",
+        "vue"
+      ],
+      "k": 3,
+      "count": 34
+    },
+    {
+      "skills": [
+        "css3",
+        "rest",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 16
+    },
+    {
+      "skills": [
+        "css3",
+        "rest api",
+        "sass"
+      ],
+      "k": 3,
+      "count": 7
+    },
+    {
+      "skills": [
+        "css3",
+        "rest api",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 59
+    },
+    {
+      "skills": [
+        "css3",
+        "rest api",
+        "vue"
+      ],
+      "k": 3,
+      "count": 36
+    },
+    {
+      "skills": [
+        "css3",
+        "rest api",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 22
+    },
+    {
+      "skills": [
+        "css3",
+        "sass",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 40
+    },
+    {
+      "skills": [
+        "css3",
+        "sass",
+        "vue"
+      ],
+      "k": 3,
+      "count": 39
+    },
+    {
+      "skills": [
+        "css3",
+        "sass",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 23
+    },
+    {
+      "skills": [
+        "css3",
+        "typescript",
+        "vue"
+      ],
+      "k": 3,
+      "count": 126
+    },
+    {
+      "skills": [
+        "css3",
+        "typescript",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 66
+    },
+    {
+      "skills": [
+        "css3",
+        "vue",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 55
+    },
+    {
+      "skills": [
+        "docker",
+        "frontend",
+        "git"
+      ],
+      "k": 3,
+      "count": 23
+    },
+    {
+      "skills": [
+        "docker",
+        "frontend",
+        "html"
+      ],
+      "k": 3,
+      "count": 11
+    },
+    {
+      "skills": [
+        "docker",
+        "frontend",
+        "html5"
+      ],
+      "k": 3,
+      "count": 14
+    },
+    {
+      "skills": [
+        "docker",
+        "frontend",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 20
+    },
+    {
+      "skills": [
+        "docker",
+        "frontend",
+        "js"
+      ],
+      "k": 3,
+      "count": 7
+    },
+    {
+      "skills": [
+        "docker",
+        "frontend",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 11
+    },
+    {
+      "skills": [
+        "docker",
+        "frontend",
+        "react"
+      ],
+      "k": 3,
+      "count": 27
+    },
+    {
+      "skills": [
+        "docker",
+        "frontend",
+        "redux"
+      ],
+      "k": 3,
+      "count": 9
+    },
+    {
+      "skills": [
+        "docker",
+        "frontend",
+        "rest"
+      ],
+      "k": 3,
+      "count": 11
+    },
+    {
+      "skills": [
+        "docker",
+        "frontend",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 6
+    },
+    {
+      "skills": [
+        "docker",
+        "frontend",
+        "sass"
+      ],
+      "k": 3,
+      "count": 6
+    },
+    {
+      "skills": [
+        "docker",
+        "frontend",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 29
+    },
+    {
+      "skills": [
+        "docker",
+        "frontend",
+        "vue"
+      ],
+      "k": 3,
+      "count": 19
+    },
+    {
+      "skills": [
+        "docker",
+        "frontend",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 10
+    },
+    {
+      "skills": [
+        "docker",
+        "git",
+        "html"
+      ],
+      "k": 3,
+      "count": 47
+    },
+    {
+      "skills": [
+        "docker",
+        "git",
+        "html5"
+      ],
+      "k": 3,
+      "count": 47
+    },
+    {
+      "skills": [
+        "docker",
+        "git",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 93
+    },
+    {
+      "skills": [
+        "docker",
+        "git",
+        "js"
+      ],
+      "k": 3,
+      "count": 7
+    },
+    {
+      "skills": [
+        "docker",
+        "git",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 24
+    },
+    {
+      "skills": [
+        "docker",
+        "git",
+        "react"
+      ],
+      "k": 3,
+      "count": 92
+    },
+    {
+      "skills": [
+        "docker",
+        "git",
+        "redux"
+      ],
+      "k": 3,
+      "count": 41
+    },
+    {
+      "skills": [
+        "docker",
+        "git",
+        "rest"
+      ],
+      "k": 3,
+      "count": 18
+    },
+    {
+      "skills": [
+        "docker",
+        "git",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 15
+    },
+    {
+      "skills": [
+        "docker",
+        "git",
+        "sass"
+      ],
+      "k": 3,
+      "count": 11
+    },
+    {
+      "skills": [
+        "docker",
+        "git",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 84
+    },
+    {
+      "skills": [
+        "docker",
+        "git",
+        "vue"
+      ],
+      "k": 3,
+      "count": 44
+    },
+    {
+      "skills": [
+        "docker",
+        "git",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 28
+    },
+    {
+      "skills": [
+        "docker",
+        "html",
+        "html5"
+      ],
+      "k": 3,
+      "count": 12
+    },
+    {
+      "skills": [
+        "docker",
+        "html",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 38
+    },
+    {
+      "skills": [
+        "docker",
+        "html",
+        "js"
+      ],
+      "k": 3,
+      "count": 2
+    },
+    {
+      "skills": [
+        "docker",
+        "html",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 21
+    },
+    {
+      "skills": [
+        "docker",
+        "html",
+        "react"
+      ],
+      "k": 3,
+      "count": 35
+    },
+    {
+      "skills": [
+        "docker",
+        "html",
+        "redux"
+      ],
+      "k": 3,
+      "count": 15
+    },
+    {
+      "skills": [
+        "docker",
+        "html",
+        "rest"
+      ],
+      "k": 3,
+      "count": 8
+    },
+    {
+      "skills": [
+        "docker",
+        "html",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 9
+    },
+    {
+      "skills": [
+        "docker",
+        "html",
+        "sass"
+      ],
+      "k": 3,
+      "count": 8
+    },
+    {
+      "skills": [
+        "docker",
+        "html",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 35
+    },
+    {
+      "skills": [
+        "docker",
+        "html",
+        "vue"
+      ],
+      "k": 3,
+      "count": 27
+    },
+    {
+      "skills": [
+        "docker",
+        "html",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 12
+    },
+    {
+      "skills": [
+        "docker",
+        "html5",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 52
+    },
+    {
+      "skills": [
+        "docker",
+        "html5",
+        "js"
+      ],
+      "k": 3,
+      "count": 5
+    },
+    {
+      "skills": [
+        "docker",
+        "html5",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 16
+    },
+    {
+      "skills": [
+        "docker",
+        "html5",
+        "react"
+      ],
+      "k": 3,
+      "count": 45
+    },
+    {
+      "skills": [
+        "docker",
+        "html5",
+        "redux"
+      ],
+      "k": 3,
+      "count": 18
+    },
+    {
+      "skills": [
+        "docker",
+        "html5",
+        "rest"
+      ],
+      "k": 3,
+      "count": 9
+    },
+    {
+      "skills": [
+        "docker",
+        "html5",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 8
+    },
+    {
+      "skills": [
+        "docker",
+        "html5",
+        "sass"
+      ],
+      "k": 3,
+      "count": 5
+    },
+    {
+      "skills": [
+        "docker",
+        "html5",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 39
+    },
+    {
+      "skills": [
+        "docker",
+        "html5",
+        "vue"
+      ],
+      "k": 3,
+      "count": 21
+    },
+    {
+      "skills": [
+        "docker",
+        "html5",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 10
+    },
+    {
+      "skills": [
+        "docker",
+        "javascript",
+        "js"
+      ],
+      "k": 3,
+      "count": 5
+    },
+    {
+      "skills": [
+        "docker",
+        "javascript",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 38
+    },
+    {
+      "skills": [
+        "docker",
+        "javascript",
+        "react"
+      ],
+      "k": 3,
+      "count": 109
+    },
+    {
+      "skills": [
+        "docker",
+        "javascript",
+        "redux"
+      ],
+      "k": 3,
+      "count": 47
+    },
+    {
+      "skills": [
+        "docker",
+        "javascript",
+        "rest"
+      ],
+      "k": 3,
+      "count": 13
+    },
+    {
+      "skills": [
+        "docker",
+        "javascript",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 22
+    },
+    {
+      "skills": [
+        "docker",
+        "javascript",
+        "sass"
+      ],
+      "k": 3,
+      "count": 24
+    },
+    {
+      "skills": [
+        "docker",
+        "javascript",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 108
+    },
+    {
+      "skills": [
+        "docker",
+        "javascript",
+        "vue"
+      ],
+      "k": 3,
+      "count": 60
+    },
+    {
+      "skills": [
+        "docker",
+        "javascript",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 39
+    },
+    {
+      "skills": [
+        "docker",
+        "js",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 1
+    },
+    {
+      "skills": [
+        "docker",
+        "js",
+        "react"
+      ],
+      "k": 3,
+      "count": 8
+    },
+    {
+      "skills": [
+        "docker",
+        "js",
+        "redux"
+      ],
+      "k": 3,
+      "count": 1
+    },
+    {
+      "skills": [
+        "docker",
+        "js",
+        "rest"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "docker",
+        "js",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 3
+    },
+    {
+      "skills": [
+        "docker",
+        "js",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 7
+    },
+    {
+      "skills": [
+        "docker",
+        "js",
+        "vue"
+      ],
+      "k": 3,
+      "count": 5
+    },
+    {
+      "skills": [
+        "docker",
+        "js",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "docker",
+        "node.js",
+        "react"
+      ],
+      "k": 3,
+      "count": 32
+    },
+    {
+      "skills": [
+        "docker",
+        "node.js",
+        "redux"
+      ],
+      "k": 3,
+      "count": 10
+    },
+    {
+      "skills": [
+        "docker",
+        "node.js",
+        "rest"
+      ],
+      "k": 3,
+      "count": 6
+    },
+    {
+      "skills": [
+        "docker",
+        "node.js",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "docker",
+        "node.js",
+        "sass"
+      ],
+      "k": 3,
+      "count": 2
+    },
+    {
+      "skills": [
+        "docker",
+        "node.js",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 34
+    },
+    {
+      "skills": [
+        "docker",
+        "node.js",
+        "vue"
+      ],
+      "k": 3,
+      "count": 24
+    },
+    {
+      "skills": [
+        "docker",
+        "node.js",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "docker",
+        "react",
+        "redux"
+      ],
+      "k": 3,
+      "count": 65
+    },
+    {
+      "skills": [
+        "docker",
+        "react",
+        "rest"
+      ],
+      "k": 3,
+      "count": 17
+    },
+    {
+      "skills": [
+        "docker",
+        "react",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 23
+    },
+    {
+      "skills": [
+        "docker",
+        "react",
+        "sass"
+      ],
+      "k": 3,
+      "count": 17
+    },
+    {
+      "skills": [
+        "docker",
+        "react",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 110
+    },
+    {
+      "skills": [
+        "docker",
+        "react",
+        "vue"
+      ],
+      "k": 3,
+      "count": 21
+    },
+    {
+      "skills": [
+        "docker",
+        "react",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 41
+    },
+    {
+      "skills": [
+        "docker",
+        "redux",
+        "rest"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "docker",
+        "redux",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 8
+    },
+    {
+      "skills": [
+        "docker",
+        "redux",
+        "sass"
+      ],
+      "k": 3,
+      "count": 11
+    },
+    {
+      "skills": [
+        "docker",
+        "redux",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 50
+    },
+    {
+      "skills": [
+        "docker",
+        "redux",
+        "vue"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "docker",
+        "redux",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 28
+    },
+    {
+      "skills": [
+        "docker",
+        "rest",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 3
+    },
+    {
+      "skills": [
+        "docker",
+        "rest",
+        "sass"
+      ],
+      "k": 3,
+      "count": 1
+    },
+    {
+      "skills": [
+        "docker",
+        "rest",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 17
+    },
+    {
+      "skills": [
+        "docker",
+        "rest",
+        "vue"
+      ],
+      "k": 3,
+      "count": 7
+    },
+    {
+      "skills": [
+        "docker",
+        "rest",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "docker",
+        "rest api",
+        "sass"
+      ],
+      "k": 3,
+      "count": 7
+    },
+    {
+      "skills": [
+        "docker",
+        "rest api",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 16
+    },
+    {
+      "skills": [
+        "docker",
+        "rest api",
+        "vue"
+      ],
+      "k": 3,
+      "count": 5
+    },
+    {
+      "skills": [
+        "docker",
+        "rest api",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 16
+    },
+    {
+      "skills": [
+        "docker",
+        "sass",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 23
+    },
+    {
+      "skills": [
+        "docker",
+        "sass",
+        "vue"
+      ],
+      "k": 3,
+      "count": 6
+    },
+    {
+      "skills": [
+        "docker",
+        "sass",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 21
+    },
+    {
+      "skills": [
+        "docker",
+        "typescript",
+        "vue"
+      ],
+      "k": 3,
+      "count": 49
+    },
+    {
+      "skills": [
+        "docker",
+        "typescript",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 39
+    },
+    {
+      "skills": [
+        "docker",
+        "vue",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 10
+    },
+    {
+      "skills": [
+        "frontend",
+        "git",
+        "html"
+      ],
+      "k": 3,
+      "count": 83
+    },
+    {
+      "skills": [
+        "frontend",
+        "git",
+        "html5"
+      ],
+      "k": 3,
+      "count": 88
+    },
+    {
+      "skills": [
+        "frontend",
+        "git",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 179
+    },
+    {
+      "skills": [
+        "frontend",
+        "git",
+        "js"
+      ],
+      "k": 3,
+      "count": 73
+    },
+    {
+      "skills": [
+        "frontend",
+        "git",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 67
+    },
+    {
+      "skills": [
+        "frontend",
+        "git",
+        "react"
+      ],
+      "k": 3,
+      "count": 98
+    },
+    {
+      "skills": [
+        "frontend",
+        "git",
+        "redux"
+      ],
+      "k": 3,
+      "count": 38
+    },
+    {
+      "skills": [
+        "frontend",
+        "git",
+        "rest"
+      ],
+      "k": 3,
+      "count": 37
+    },
+    {
+      "skills": [
+        "frontend",
+        "git",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 32
+    },
+    {
+      "skills": [
+        "frontend",
+        "git",
+        "sass"
+      ],
+      "k": 3,
+      "count": 18
+    },
+    {
+      "skills": [
+        "frontend",
+        "git",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 109
+    },
+    {
+      "skills": [
+        "frontend",
+        "git",
+        "vue"
+      ],
+      "k": 3,
+      "count": 125
+    },
+    {
+      "skills": [
+        "frontend",
+        "git",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 47
+    },
+    {
+      "skills": [
+        "frontend",
+        "html",
+        "html5"
+      ],
+      "k": 3,
+      "count": 42
+    },
+    {
+      "skills": [
+        "frontend",
+        "html",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 117
+    },
+    {
+      "skills": [
+        "frontend",
+        "html",
+        "js"
+      ],
+      "k": 3,
+      "count": 39
+    },
+    {
+      "skills": [
+        "frontend",
+        "html",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 33
+    },
+    {
+      "skills": [
+        "frontend",
+        "html",
+        "react"
+      ],
+      "k": 3,
+      "count": 66
+    },
+    {
+      "skills": [
+        "frontend",
+        "html",
+        "redux"
+      ],
+      "k": 3,
+      "count": 20
+    },
+    {
+      "skills": [
+        "frontend",
+        "html",
+        "rest"
+      ],
+      "k": 3,
+      "count": 19
+    },
+    {
+      "skills": [
+        "frontend",
+        "html",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 19
+    },
+    {
+      "skills": [
+        "frontend",
+        "html",
+        "sass"
+      ],
+      "k": 3,
+      "count": 11
+    },
+    {
+      "skills": [
+        "frontend",
+        "html",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 69
+    },
+    {
+      "skills": [
+        "frontend",
+        "html",
+        "vue"
+      ],
+      "k": 3,
+      "count": 65
+    },
+    {
+      "skills": [
+        "frontend",
+        "html",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 32
+    },
+    {
+      "skills": [
+        "frontend",
+        "html5",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 128
+    },
+    {
+      "skills": [
+        "frontend",
+        "html5",
+        "js"
+      ],
+      "k": 3,
+      "count": 47
+    },
+    {
+      "skills": [
+        "frontend",
+        "html5",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 35
+    },
+    {
+      "skills": [
+        "frontend",
+        "html5",
+        "react"
+      ],
+      "k": 3,
+      "count": 69
+    },
+    {
+      "skills": [
+        "frontend",
+        "html5",
+        "redux"
+      ],
+      "k": 3,
+      "count": 23
+    },
+    {
+      "skills": [
+        "frontend",
+        "html5",
+        "rest"
+      ],
+      "k": 3,
+      "count": 21
+    },
+    {
+      "skills": [
+        "frontend",
+        "html5",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 20
+    },
+    {
+      "skills": [
+        "frontend",
+        "html5",
+        "sass"
+      ],
+      "k": 3,
+      "count": 15
+    },
+    {
+      "skills": [
+        "frontend",
+        "html5",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 81
+    },
+    {
+      "skills": [
+        "frontend",
+        "html5",
+        "vue"
+      ],
+      "k": 3,
+      "count": 82
+    },
+    {
+      "skills": [
+        "frontend",
+        "html5",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 22
+    },
+    {
+      "skills": [
+        "frontend",
+        "javascript",
+        "js"
+      ],
+      "k": 3,
+      "count": 99
+    },
+    {
+      "skills": [
+        "frontend",
+        "javascript",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 76
+    },
+    {
+      "skills": [
+        "frontend",
+        "javascript",
+        "react"
+      ],
+      "k": 3,
+      "count": 169
+    },
+    {
+      "skills": [
+        "frontend",
+        "javascript",
+        "redux"
+      ],
+      "k": 3,
+      "count": 47
+    },
+    {
+      "skills": [
+        "frontend",
+        "javascript",
+        "rest"
+      ],
+      "k": 3,
+      "count": 37
+    },
+    {
+      "skills": [
+        "frontend",
+        "javascript",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 39
+    },
+    {
+      "skills": [
+        "frontend",
+        "javascript",
+        "sass"
+      ],
+      "k": 3,
+      "count": 26
+    },
+    {
+      "skills": [
+        "frontend",
+        "javascript",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 216
+    },
+    {
+      "skills": [
+        "frontend",
+        "javascript",
+        "vue"
+      ],
+      "k": 3,
+      "count": 176
+    },
+    {
+      "skills": [
+        "frontend",
+        "javascript",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 59
+    },
+    {
+      "skills": [
+        "frontend",
+        "js",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 38
+    },
+    {
+      "skills": [
+        "frontend",
+        "js",
+        "react"
+      ],
+      "k": 3,
+      "count": 47
+    },
+    {
+      "skills": [
+        "frontend",
+        "js",
+        "redux"
+      ],
+      "k": 3,
+      "count": 15
+    },
+    {
+      "skills": [
+        "frontend",
+        "js",
+        "rest"
+      ],
+      "k": 3,
+      "count": 16
+    },
+    {
+      "skills": [
+        "frontend",
+        "js",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 15
+    },
+    {
+      "skills": [
+        "frontend",
+        "js",
+        "sass"
+      ],
+      "k": 3,
+      "count": 14
+    },
+    {
+      "skills": [
+        "frontend",
+        "js",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 73
+    },
+    {
+      "skills": [
+        "frontend",
+        "js",
+        "vue"
+      ],
+      "k": 3,
+      "count": 79
+    },
+    {
+      "skills": [
+        "frontend",
+        "js",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 20
+    },
+    {
+      "skills": [
+        "frontend",
+        "node.js",
+        "react"
+      ],
+      "k": 3,
+      "count": 34
+    },
+    {
+      "skills": [
+        "frontend",
+        "node.js",
+        "redux"
+      ],
+      "k": 3,
+      "count": 11
+    },
+    {
+      "skills": [
+        "frontend",
+        "node.js",
+        "rest"
+      ],
+      "k": 3,
+      "count": 17
+    },
+    {
+      "skills": [
+        "frontend",
+        "node.js",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 11
+    },
+    {
+      "skills": [
+        "frontend",
+        "node.js",
+        "sass"
+      ],
+      "k": 3,
+      "count": 8
+    },
+    {
+      "skills": [
+        "frontend",
+        "node.js",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 59
+    },
+    {
+      "skills": [
+        "frontend",
+        "node.js",
+        "vue"
+      ],
+      "k": 3,
+      "count": 66
+    },
+    {
+      "skills": [
+        "frontend",
+        "node.js",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 20
+    },
+    {
+      "skills": [
+        "frontend",
+        "react",
+        "redux"
+      ],
+      "k": 3,
+      "count": 56
+    },
+    {
+      "skills": [
+        "frontend",
+        "react",
+        "rest"
+      ],
+      "k": 3,
+      "count": 25
+    },
+    {
+      "skills": [
+        "frontend",
+        "react",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 28
+    },
+    {
+      "skills": [
+        "frontend",
+        "react",
+        "sass"
+      ],
+      "k": 3,
+      "count": 13
+    },
+    {
+      "skills": [
+        "frontend",
+        "react",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 142
+    },
+    {
+      "skills": [
+        "frontend",
+        "react",
+        "vue"
+      ],
+      "k": 3,
+      "count": 65
+    },
+    {
+      "skills": [
+        "frontend",
+        "react",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 39
+    },
+    {
+      "skills": [
+        "frontend",
+        "redux",
+        "rest"
+      ],
+      "k": 3,
+      "count": 7
+    },
+    {
+      "skills": [
+        "frontend",
+        "redux",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 13
+    },
+    {
+      "skills": [
+        "frontend",
+        "redux",
+        "sass"
+      ],
+      "k": 3,
+      "count": 7
+    },
+    {
+      "skills": [
+        "frontend",
+        "redux",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 37
+    },
+    {
+      "skills": [
+        "frontend",
+        "redux",
+        "vue"
+      ],
+      "k": 3,
+      "count": 16
+    },
+    {
+      "skills": [
+        "frontend",
+        "redux",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 14
+    },
+    {
+      "skills": [
+        "frontend",
+        "rest",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 17
+    },
+    {
+      "skills": [
+        "frontend",
+        "rest",
+        "sass"
+      ],
+      "k": 3,
+      "count": 8
+    },
+    {
+      "skills": [
+        "frontend",
+        "rest",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 29
+    },
+    {
+      "skills": [
+        "frontend",
+        "rest",
+        "vue"
+      ],
+      "k": 3,
+      "count": 21
+    },
+    {
+      "skills": [
+        "frontend",
+        "rest",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 19
+    },
+    {
+      "skills": [
+        "frontend",
+        "rest api",
+        "sass"
+      ],
+      "k": 3,
+      "count": 5
+    },
+    {
+      "skills": [
+        "frontend",
+        "rest api",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 31
+    },
+    {
+      "skills": [
+        "frontend",
+        "rest api",
+        "vue"
+      ],
+      "k": 3,
+      "count": 20
+    },
+    {
+      "skills": [
+        "frontend",
+        "rest api",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 12
+    },
+    {
+      "skills": [
+        "frontend",
+        "sass",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 18
+    },
+    {
+      "skills": [
+        "frontend",
+        "sass",
+        "vue"
+      ],
+      "k": 3,
+      "count": 15
+    },
+    {
+      "skills": [
+        "frontend",
+        "sass",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 14
+    },
+    {
+      "skills": [
+        "frontend",
+        "typescript",
+        "vue"
+      ],
+      "k": 3,
+      "count": 111
+    },
+    {
+      "skills": [
+        "frontend",
+        "typescript",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 40
+    },
+    {
+      "skills": [
+        "frontend",
+        "vue",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 35
+    },
+    {
+      "skills": [
+        "git",
+        "html",
+        "html5"
+      ],
+      "k": 3,
+      "count": 132
+    },
+    {
+      "skills": [
+        "git",
+        "html",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 512
+    },
+    {
+      "skills": [
+        "git",
+        "html",
+        "js"
+      ],
+      "k": 3,
+      "count": 45
+    },
+    {
+      "skills": [
+        "git",
+        "html",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 74
+    },
+    {
+      "skills": [
+        "git",
+        "html",
+        "react"
+      ],
+      "k": 3,
+      "count": 288
+    },
+    {
+      "skills": [
+        "git",
+        "html",
+        "redux"
+      ],
+      "k": 3,
+      "count": 84
+    },
+    {
+      "skills": [
+        "git",
+        "html",
+        "rest"
+      ],
+      "k": 3,
+      "count": 48
+    },
+    {
+      "skills": [
+        "git",
+        "html",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 70
+    },
+    {
+      "skills": [
+        "git",
+        "html",
+        "sass"
+      ],
+      "k": 3,
+      "count": 75
+    },
+    {
+      "skills": [
+        "git",
+        "html",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 253
+    },
+    {
+      "skills": [
+        "git",
+        "html",
+        "vue"
+      ],
+      "k": 3,
+      "count": 182
+    },
+    {
+      "skills": [
+        "git",
+        "html",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 71
+    },
+    {
+      "skills": [
+        "git",
+        "html5",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 452
+    },
+    {
+      "skills": [
+        "git",
+        "html5",
+        "js"
+      ],
+      "k": 3,
+      "count": 67
+    },
+    {
+      "skills": [
+        "git",
+        "html5",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 77
+    },
+    {
+      "skills": [
+        "git",
+        "html5",
+        "react"
+      ],
+      "k": 3,
+      "count": 230
+    },
+    {
+      "skills": [
+        "git",
+        "html5",
+        "redux"
+      ],
+      "k": 3,
+      "count": 69
+    },
+    {
+      "skills": [
+        "git",
+        "html5",
+        "rest"
+      ],
+      "k": 3,
+      "count": 58
+    },
+    {
+      "skills": [
+        "git",
+        "html5",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 67
+    },
+    {
+      "skills": [
+        "git",
+        "html5",
+        "sass"
+      ],
+      "k": 3,
+      "count": 75
+    },
+    {
+      "skills": [
+        "git",
+        "html5",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 228
+    },
+    {
+      "skills": [
+        "git",
+        "html5",
+        "vue"
+      ],
+      "k": 3,
+      "count": 211
+    },
+    {
+      "skills": [
+        "git",
+        "html5",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 70
+    },
+    {
+      "skills": [
+        "git",
+        "javascript",
+        "js"
+      ],
+      "k": 3,
+      "count": 102
+    },
+    {
+      "skills": [
+        "git",
+        "javascript",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 166
+    },
+    {
+      "skills": [
+        "git",
+        "javascript",
+        "react"
+      ],
+      "k": 3,
+      "count": 649
+    },
+    {
+      "skills": [
+        "git",
+        "javascript",
+        "redux"
+      ],
+      "k": 3,
+      "count": 225
+    },
+    {
+      "skills": [
+        "git",
+        "javascript",
+        "rest"
+      ],
+      "k": 3,
+      "count": 117
+    },
+    {
+      "skills": [
+        "git",
+        "javascript",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 131
+    },
+    {
+      "skills": [
+        "git",
+        "javascript",
+        "sass"
+      ],
+      "k": 3,
+      "count": 127
+    },
+    {
+      "skills": [
+        "git",
+        "javascript",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 607
+    },
+    {
+      "skills": [
+        "git",
+        "javascript",
+        "vue"
+      ],
+      "k": 3,
+      "count": 411
+    },
+    {
+      "skills": [
+        "git",
+        "javascript",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 172
+    },
+    {
+      "skills": [
+        "git",
+        "js",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 35
+    },
+    {
+      "skills": [
+        "git",
+        "js",
+        "react"
+      ],
+      "k": 3,
+      "count": 62
+    },
+    {
+      "skills": [
+        "git",
+        "js",
+        "redux"
+      ],
+      "k": 3,
+      "count": 24
+    },
+    {
+      "skills": [
+        "git",
+        "js",
+        "rest"
+      ],
+      "k": 3,
+      "count": 20
+    },
+    {
+      "skills": [
+        "git",
+        "js",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 25
+    },
+    {
+      "skills": [
+        "git",
+        "js",
+        "sass"
+      ],
+      "k": 3,
+      "count": 20
+    },
+    {
+      "skills": [
+        "git",
+        "js",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 65
+    },
+    {
+      "skills": [
+        "git",
+        "js",
+        "vue"
+      ],
+      "k": 3,
+      "count": 77
+    },
+    {
+      "skills": [
+        "git",
+        "js",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 27
+    },
+    {
+      "skills": [
+        "git",
+        "node.js",
+        "react"
+      ],
+      "k": 3,
+      "count": 90
+    },
+    {
+      "skills": [
+        "git",
+        "node.js",
+        "redux"
+      ],
+      "k": 3,
+      "count": 25
+    },
+    {
+      "skills": [
+        "git",
+        "node.js",
+        "rest"
+      ],
+      "k": 3,
+      "count": 24
+    },
+    {
+      "skills": [
+        "git",
+        "node.js",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 15
+    },
+    {
+      "skills": [
+        "git",
+        "node.js",
+        "sass"
+      ],
+      "k": 3,
+      "count": 20
+    },
+    {
+      "skills": [
+        "git",
+        "node.js",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 110
+    },
+    {
+      "skills": [
+        "git",
+        "node.js",
+        "vue"
+      ],
+      "k": 3,
+      "count": 90
+    },
+    {
+      "skills": [
+        "git",
+        "node.js",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 39
+    },
+    {
+      "skills": [
+        "git",
+        "react",
+        "redux"
+      ],
+      "k": 3,
+      "count": 266
+    },
+    {
+      "skills": [
+        "git",
+        "react",
+        "rest"
+      ],
+      "k": 3,
+      "count": 92
+    },
+    {
+      "skills": [
+        "git",
+        "react",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 103
+    },
+    {
+      "skills": [
+        "git",
+        "react",
+        "sass"
+      ],
+      "k": 3,
+      "count": 62
+    },
+    {
+      "skills": [
+        "git",
+        "react",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 488
+    },
+    {
+      "skills": [
+        "git",
+        "react",
+        "vue"
+      ],
+      "k": 3,
+      "count": 142
+    },
+    {
+      "skills": [
+        "git",
+        "react",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 135
+    },
+    {
+      "skills": [
+        "git",
+        "redux",
+        "rest"
+      ],
+      "k": 3,
+      "count": 35
+    },
+    {
+      "skills": [
+        "git",
+        "redux",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 39
+    },
+    {
+      "skills": [
+        "git",
+        "redux",
+        "sass"
+      ],
+      "k": 3,
+      "count": 20
+    },
+    {
+      "skills": [
+        "git",
+        "redux",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 208
+    },
+    {
+      "skills": [
+        "git",
+        "redux",
+        "vue"
+      ],
+      "k": 3,
+      "count": 22
+    },
+    {
+      "skills": [
+        "git",
+        "redux",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 62
+    },
+    {
+      "skills": [
+        "git",
+        "rest",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 21
+    },
+    {
+      "skills": [
+        "git",
+        "rest",
+        "sass"
+      ],
+      "k": 3,
+      "count": 17
+    },
+    {
+      "skills": [
+        "git",
+        "rest",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 85
+    },
+    {
+      "skills": [
+        "git",
+        "rest",
+        "vue"
+      ],
+      "k": 3,
+      "count": 46
+    },
+    {
+      "skills": [
+        "git",
+        "rest",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 45
+    },
+    {
+      "skills": [
+        "git",
+        "rest api",
+        "sass"
+      ],
+      "k": 3,
+      "count": 19
+    },
+    {
+      "skills": [
+        "git",
+        "rest api",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 110
+    },
+    {
+      "skills": [
+        "git",
+        "rest api",
+        "vue"
+      ],
+      "k": 3,
+      "count": 62
+    },
+    {
+      "skills": [
+        "git",
+        "rest api",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 36
+    },
+    {
+      "skills": [
+        "git",
+        "sass",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 71
+    },
+    {
+      "skills": [
+        "git",
+        "sass",
+        "vue"
+      ],
+      "k": 3,
+      "count": 56
+    },
+    {
+      "skills": [
+        "git",
+        "sass",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 33
+    },
+    {
+      "skills": [
+        "git",
+        "typescript",
+        "vue"
+      ],
+      "k": 3,
+      "count": 191
+    },
+    {
+      "skills": [
+        "git",
+        "typescript",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 129
+    },
+    {
+      "skills": [
+        "git",
+        "vue",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 80
+    },
+    {
+      "skills": [
+        "html",
+        "html5",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 195
+    },
+    {
+      "skills": [
+        "html",
+        "html5",
+        "js"
+      ],
+      "k": 3,
+      "count": 23
+    },
+    {
+      "skills": [
+        "html",
+        "html5",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 23
+    },
+    {
+      "skills": [
+        "html",
+        "html5",
+        "react"
+      ],
+      "k": 3,
+      "count": 83
+    },
+    {
+      "skills": [
+        "html",
+        "html5",
+        "redux"
+      ],
+      "k": 3,
+      "count": 34
+    },
+    {
+      "skills": [
+        "html",
+        "html5",
+        "rest"
+      ],
+      "k": 3,
+      "count": 16
+    },
+    {
+      "skills": [
+        "html",
+        "html5",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 26
+    },
+    {
+      "skills": [
+        "html",
+        "html5",
+        "sass"
+      ],
+      "k": 3,
+      "count": 29
+    },
+    {
+      "skills": [
+        "html",
+        "html5",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 70
+    },
+    {
+      "skills": [
+        "html",
+        "html5",
+        "vue"
+      ],
+      "k": 3,
+      "count": 75
+    },
+    {
+      "skills": [
+        "html",
+        "html5",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 26
+    },
+    {
+      "skills": [
+        "html",
+        "javascript",
+        "js"
+      ],
+      "k": 3,
+      "count": 53
+    },
+    {
+      "skills": [
+        "html",
+        "javascript",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 111
+    },
+    {
+      "skills": [
+        "html",
+        "javascript",
+        "react"
+      ],
+      "k": 3,
+      "count": 475
+    },
+    {
+      "skills": [
+        "html",
+        "javascript",
+        "redux"
+      ],
+      "k": 3,
+      "count": 135
+    },
+    {
+      "skills": [
+        "html",
+        "javascript",
+        "rest"
+      ],
+      "k": 3,
+      "count": 72
+    },
+    {
+      "skills": [
+        "html",
+        "javascript",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 86
+    },
+    {
+      "skills": [
+        "html",
+        "javascript",
+        "sass"
+      ],
+      "k": 3,
+      "count": 88
+    },
+    {
+      "skills": [
+        "html",
+        "javascript",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 447
+    },
+    {
+      "skills": [
+        "html",
+        "javascript",
+        "vue"
+      ],
+      "k": 3,
+      "count": 303
+    },
+    {
+      "skills": [
+        "html",
+        "javascript",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 97
+    },
+    {
+      "skills": [
+        "html",
+        "js",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 19
+    },
+    {
+      "skills": [
+        "html",
+        "js",
+        "react"
+      ],
+      "k": 3,
+      "count": 47
+    },
+    {
+      "skills": [
+        "html",
+        "js",
+        "redux"
+      ],
+      "k": 3,
+      "count": 15
+    },
+    {
+      "skills": [
+        "html",
+        "js",
+        "rest"
+      ],
+      "k": 3,
+      "count": 17
+    },
+    {
+      "skills": [
+        "html",
+        "js",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 12
+    },
+    {
+      "skills": [
+        "html",
+        "js",
+        "sass"
+      ],
+      "k": 3,
+      "count": 9
+    },
+    {
+      "skills": [
+        "html",
+        "js",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 34
+    },
+    {
+      "skills": [
+        "html",
+        "js",
+        "vue"
+      ],
+      "k": 3,
+      "count": 48
+    },
+    {
+      "skills": [
+        "html",
+        "js",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 20
+    },
+    {
+      "skills": [
+        "html",
+        "node.js",
+        "react"
+      ],
+      "k": 3,
+      "count": 68
+    },
+    {
+      "skills": [
+        "html",
+        "node.js",
+        "redux"
+      ],
+      "k": 3,
+      "count": 16
+    },
+    {
+      "skills": [
+        "html",
+        "node.js",
+        "rest"
+      ],
+      "k": 3,
+      "count": 21
+    },
+    {
+      "skills": [
+        "html",
+        "node.js",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 9
+    },
+    {
+      "skills": [
+        "html",
+        "node.js",
+        "sass"
+      ],
+      "k": 3,
+      "count": 3
+    },
+    {
+      "skills": [
+        "html",
+        "node.js",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 69
+    },
+    {
+      "skills": [
+        "html",
+        "node.js",
+        "vue"
+      ],
+      "k": 3,
+      "count": 67
+    },
+    {
+      "skills": [
+        "html",
+        "node.js",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 20
+    },
+    {
+      "skills": [
+        "html",
+        "react",
+        "redux"
+      ],
+      "k": 3,
+      "count": 160
+    },
+    {
+      "skills": [
+        "html",
+        "react",
+        "rest"
+      ],
+      "k": 3,
+      "count": 44
+    },
+    {
+      "skills": [
+        "html",
+        "react",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 71
+    },
+    {
+      "skills": [
+        "html",
+        "react",
+        "sass"
+      ],
+      "k": 3,
+      "count": 59
+    },
+    {
+      "skills": [
+        "html",
+        "react",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 352
+    },
+    {
+      "skills": [
+        "html",
+        "react",
+        "vue"
+      ],
+      "k": 3,
+      "count": 104
+    },
+    {
+      "skills": [
+        "html",
+        "react",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 66
+    },
+    {
+      "skills": [
+        "html",
+        "redux",
+        "rest"
+      ],
+      "k": 3,
+      "count": 18
+    },
+    {
+      "skills": [
+        "html",
+        "redux",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 29
+    },
+    {
+      "skills": [
+        "html",
+        "redux",
+        "sass"
+      ],
+      "k": 3,
+      "count": 11
+    },
+    {
+      "skills": [
+        "html",
+        "redux",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 119
+    },
+    {
+      "skills": [
+        "html",
+        "redux",
+        "vue"
+      ],
+      "k": 3,
+      "count": 19
+    },
+    {
+      "skills": [
+        "html",
+        "redux",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 37
+    },
+    {
+      "skills": [
+        "html",
+        "rest",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 19
+    },
+    {
+      "skills": [
+        "html",
+        "rest",
+        "sass"
+      ],
+      "k": 3,
+      "count": 9
+    },
+    {
+      "skills": [
+        "html",
+        "rest",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 52
+    },
+    {
+      "skills": [
+        "html",
+        "rest",
+        "vue"
+      ],
+      "k": 3,
+      "count": 34
+    },
+    {
+      "skills": [
+        "html",
+        "rest",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 16
+    },
+    {
+      "skills": [
+        "html",
+        "rest api",
+        "sass"
+      ],
+      "k": 3,
+      "count": 21
+    },
+    {
+      "skills": [
+        "html",
+        "rest api",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 73
+    },
+    {
+      "skills": [
+        "html",
+        "rest api",
+        "vue"
+      ],
+      "k": 3,
+      "count": 30
+    },
+    {
+      "skills": [
+        "html",
+        "rest api",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 26
+    },
+    {
+      "skills": [
+        "html",
+        "sass",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 60
+    },
+    {
+      "skills": [
+        "html",
+        "sass",
+        "vue"
+      ],
+      "k": 3,
+      "count": 34
+    },
+    {
+      "skills": [
+        "html",
+        "sass",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 27
+    },
+    {
+      "skills": [
+        "html",
+        "typescript",
+        "vue"
+      ],
+      "k": 3,
+      "count": 129
+    },
+    {
+      "skills": [
+        "html",
+        "typescript",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 64
+    },
+    {
+      "skills": [
+        "html",
+        "vue",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 54
+    },
+    {
+      "skills": [
+        "html5",
+        "javascript",
+        "js"
+      ],
+      "k": 3,
+      "count": 66
+    },
+    {
+      "skills": [
+        "html5",
+        "javascript",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 88
+    },
+    {
+      "skills": [
+        "html5",
+        "javascript",
+        "react"
+      ],
+      "k": 3,
+      "count": 341
+    },
+    {
+      "skills": [
+        "html5",
+        "javascript",
+        "redux"
+      ],
+      "k": 3,
+      "count": 98
+    },
+    {
+      "skills": [
+        "html5",
+        "javascript",
+        "rest"
+      ],
+      "k": 3,
+      "count": 69
+    },
+    {
+      "skills": [
+        "html5",
+        "javascript",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 69
+    },
+    {
+      "skills": [
+        "html5",
+        "javascript",
+        "sass"
+      ],
+      "k": 3,
+      "count": 90
+    },
+    {
+      "skills": [
+        "html5",
+        "javascript",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 346
+    },
+    {
+      "skills": [
+        "html5",
+        "javascript",
+        "vue"
+      ],
+      "k": 3,
+      "count": 289
+    },
+    {
+      "skills": [
+        "html5",
+        "javascript",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 101
+    },
+    {
+      "skills": [
+        "html5",
+        "js",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 27
+    },
+    {
+      "skills": [
+        "html5",
+        "js",
+        "react"
+      ],
+      "k": 3,
+      "count": 35
+    },
+    {
+      "skills": [
+        "html5",
+        "js",
+        "redux"
+      ],
+      "k": 3,
+      "count": 10
+    },
+    {
+      "skills": [
+        "html5",
+        "js",
+        "rest"
+      ],
+      "k": 3,
+      "count": 12
+    },
+    {
+      "skills": [
+        "html5",
+        "js",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 20
+    },
+    {
+      "skills": [
+        "html5",
+        "js",
+        "sass"
+      ],
+      "k": 3,
+      "count": 18
+    },
+    {
+      "skills": [
+        "html5",
+        "js",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 48
+    },
+    {
+      "skills": [
+        "html5",
+        "js",
+        "vue"
+      ],
+      "k": 3,
+      "count": 51
+    },
+    {
+      "skills": [
+        "html5",
+        "js",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 17
+    },
+    {
+      "skills": [
+        "html5",
+        "node.js",
+        "react"
+      ],
+      "k": 3,
+      "count": 52
+    },
+    {
+      "skills": [
+        "html5",
+        "node.js",
+        "redux"
+      ],
+      "k": 3,
+      "count": 16
+    },
+    {
+      "skills": [
+        "html5",
+        "node.js",
+        "rest"
+      ],
+      "k": 3,
+      "count": 13
+    },
+    {
+      "skills": [
+        "html5",
+        "node.js",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 12
+    },
+    {
+      "skills": [
+        "html5",
+        "node.js",
+        "sass"
+      ],
+      "k": 3,
+      "count": 22
+    },
+    {
+      "skills": [
+        "html5",
+        "node.js",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 60
+    },
+    {
+      "skills": [
+        "html5",
+        "node.js",
+        "vue"
+      ],
+      "k": 3,
+      "count": 47
+    },
+    {
+      "skills": [
+        "html5",
+        "node.js",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 12
+    },
+    {
+      "skills": [
+        "html5",
+        "react",
+        "redux"
+      ],
+      "k": 3,
+      "count": 107
+    },
+    {
+      "skills": [
+        "html5",
+        "react",
+        "rest"
+      ],
+      "k": 3,
+      "count": 43
+    },
+    {
+      "skills": [
+        "html5",
+        "react",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 55
+    },
+    {
+      "skills": [
+        "html5",
+        "react",
+        "sass"
+      ],
+      "k": 3,
+      "count": 35
+    },
+    {
+      "skills": [
+        "html5",
+        "react",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 232
+    },
+    {
+      "skills": [
+        "html5",
+        "react",
+        "vue"
+      ],
+      "k": 3,
+      "count": 113
+    },
+    {
+      "skills": [
+        "html5",
+        "react",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 67
+    },
+    {
+      "skills": [
+        "html5",
+        "redux",
+        "rest"
+      ],
+      "k": 3,
+      "count": 15
+    },
+    {
+      "skills": [
+        "html5",
+        "redux",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 21
+    },
+    {
+      "skills": [
+        "html5",
+        "redux",
+        "sass"
+      ],
+      "k": 3,
+      "count": 12
+    },
+    {
+      "skills": [
+        "html5",
+        "redux",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 80
+    },
+    {
+      "skills": [
+        "html5",
+        "redux",
+        "vue"
+      ],
+      "k": 3,
+      "count": 15
+    },
+    {
+      "skills": [
+        "html5",
+        "redux",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 32
+    },
+    {
+      "skills": [
+        "html5",
+        "rest",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 20
+    },
+    {
+      "skills": [
+        "html5",
+        "rest",
+        "sass"
+      ],
+      "k": 3,
+      "count": 11
+    },
+    {
+      "skills": [
+        "html5",
+        "rest",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 49
+    },
+    {
+      "skills": [
+        "html5",
+        "rest",
+        "vue"
+      ],
+      "k": 3,
+      "count": 38
+    },
+    {
+      "skills": [
+        "html5",
+        "rest",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 19
+    },
+    {
+      "skills": [
+        "html5",
+        "rest api",
+        "sass"
+      ],
+      "k": 3,
+      "count": 6
+    },
+    {
+      "skills": [
+        "html5",
+        "rest api",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 61
+    },
+    {
+      "skills": [
+        "html5",
+        "rest api",
+        "vue"
+      ],
+      "k": 3,
+      "count": 30
+    },
+    {
+      "skills": [
+        "html5",
+        "rest api",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 19
+    },
+    {
+      "skills": [
+        "html5",
+        "sass",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 42
+    },
+    {
+      "skills": [
+        "html5",
+        "sass",
+        "vue"
+      ],
+      "k": 3,
+      "count": 44
+    },
+    {
+      "skills": [
+        "html5",
+        "sass",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 21
+    },
+    {
+      "skills": [
+        "html5",
+        "typescript",
+        "vue"
+      ],
+      "k": 3,
+      "count": 135
+    },
+    {
+      "skills": [
+        "html5",
+        "typescript",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 66
+    },
+    {
+      "skills": [
+        "html5",
+        "vue",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 57
+    },
+    {
+      "skills": [
+        "javascript",
+        "js",
+        "node.js"
+      ],
+      "k": 3,
+      "count": 38
+    },
+    {
+      "skills": [
+        "javascript",
+        "js",
+        "react"
+      ],
+      "k": 3,
+      "count": 81
+    },
+    {
+      "skills": [
+        "javascript",
+        "js",
+        "redux"
+      ],
+      "k": 3,
+      "count": 25
+    },
+    {
+      "skills": [
+        "javascript",
+        "js",
+        "rest"
+      ],
+      "k": 3,
+      "count": 23
+    },
+    {
+      "skills": [
+        "javascript",
+        "js",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 15
+    },
+    {
+      "skills": [
+        "javascript",
+        "js",
+        "sass"
+      ],
+      "k": 3,
+      "count": 22
+    },
+    {
+      "skills": [
+        "javascript",
+        "js",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 99
+    },
+    {
+      "skills": [
+        "javascript",
+        "js",
+        "vue"
+      ],
+      "k": 3,
+      "count": 93
+    },
+    {
+      "skills": [
+        "javascript",
+        "js",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 26
+    },
+    {
+      "skills": [
+        "javascript",
+        "node.js",
+        "react"
+      ],
+      "k": 3,
+      "count": 168
+    },
+    {
+      "skills": [
+        "javascript",
+        "node.js",
+        "redux"
+      ],
+      "k": 3,
+      "count": 47
+    },
+    {
+      "skills": [
+        "javascript",
+        "node.js",
+        "rest"
+      ],
+      "k": 3,
+      "count": 33
+    },
+    {
+      "skills": [
+        "javascript",
+        "node.js",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 18
+    },
+    {
+      "skills": [
+        "javascript",
+        "node.js",
+        "sass"
+      ],
+      "k": 3,
+      "count": 20
+    },
+    {
+      "skills": [
+        "javascript",
+        "node.js",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 185
+    },
+    {
+      "skills": [
+        "javascript",
+        "node.js",
+        "vue"
+      ],
+      "k": 3,
+      "count": 120
+    },
+    {
+      "skills": [
+        "javascript",
+        "node.js",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 45
+    },
+    {
+      "skills": [
+        "javascript",
+        "react",
+        "redux"
+      ],
+      "k": 3,
+      "count": 527
+    },
+    {
+      "skills": [
+        "javascript",
+        "react",
+        "rest"
+      ],
+      "k": 3,
+      "count": 122
+    },
+    {
+      "skills": [
+        "javascript",
+        "react",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 148
+    },
+    {
+      "skills": [
+        "javascript",
+        "react",
+        "sass"
+      ],
+      "k": 3,
+      "count": 101
+    },
+    {
+      "skills": [
+        "javascript",
+        "react",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 1057
+    },
+    {
+      "skills": [
+        "javascript",
+        "react",
+        "vue"
+      ],
+      "k": 3,
+      "count": 229
+    },
+    {
+      "skills": [
+        "javascript",
+        "react",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 222
+    },
+    {
+      "skills": [
+        "javascript",
+        "redux",
+        "rest"
+      ],
+      "k": 3,
+      "count": 41
+    },
+    {
+      "skills": [
+        "javascript",
+        "redux",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 63
+    },
+    {
+      "skills": [
+        "javascript",
+        "redux",
+        "sass"
+      ],
+      "k": 3,
+      "count": 37
+    },
+    {
+      "skills": [
+        "javascript",
+        "redux",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 397
+    },
+    {
+      "skills": [
+        "javascript",
+        "redux",
+        "vue"
+      ],
+      "k": 3,
+      "count": 33
+    },
+    {
+      "skills": [
+        "javascript",
+        "redux",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 120
+    },
+    {
+      "skills": [
+        "javascript",
+        "rest",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 30
+    },
+    {
+      "skills": [
+        "javascript",
+        "rest",
+        "sass"
+      ],
+      "k": 3,
+      "count": 16
+    },
+    {
+      "skills": [
+        "javascript",
+        "rest",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 117
+    },
+    {
+      "skills": [
+        "javascript",
+        "rest",
+        "vue"
+      ],
+      "k": 3,
+      "count": 61
+    },
+    {
+      "skills": [
+        "javascript",
+        "rest",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 43
+    },
+    {
+      "skills": [
+        "javascript",
+        "rest api",
+        "sass"
+      ],
+      "k": 3,
+      "count": 22
+    },
+    {
+      "skills": [
+        "javascript",
+        "rest api",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 157
+    },
+    {
+      "skills": [
+        "javascript",
+        "rest api",
+        "vue"
+      ],
+      "k": 3,
+      "count": 70
+    },
+    {
+      "skills": [
+        "javascript",
+        "rest api",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 51
+    },
+    {
+      "skills": [
+        "javascript",
+        "sass",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 110
+    },
+    {
+      "skills": [
+        "javascript",
+        "sass",
+        "vue"
+      ],
+      "k": 3,
+      "count": 66
+    },
+    {
+      "skills": [
+        "javascript",
+        "sass",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 55
+    },
+    {
+      "skills": [
+        "javascript",
+        "typescript",
+        "vue"
+      ],
+      "k": 3,
+      "count": 385
+    },
+    {
+      "skills": [
+        "javascript",
+        "typescript",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 221
+    },
+    {
+      "skills": [
+        "javascript",
+        "vue",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 110
+    },
+    {
+      "skills": [
+        "js",
+        "node.js",
+        "react"
+      ],
+      "k": 3,
+      "count": 16
+    },
+    {
+      "skills": [
+        "js",
+        "node.js",
+        "redux"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "js",
+        "node.js",
+        "rest"
+      ],
+      "k": 3,
+      "count": 7
+    },
+    {
+      "skills": [
+        "js",
+        "node.js",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 6
+    },
+    {
+      "skills": [
+        "js",
+        "node.js",
+        "sass"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "js",
+        "node.js",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 33
+    },
+    {
+      "skills": [
+        "js",
+        "node.js",
+        "vue"
+      ],
+      "k": 3,
+      "count": 38
+    },
+    {
+      "skills": [
+        "js",
+        "node.js",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 9
+    },
+    {
+      "skills": [
+        "js",
+        "react",
+        "redux"
+      ],
+      "k": 3,
+      "count": 32
+    },
+    {
+      "skills": [
+        "js",
+        "react",
+        "rest"
+      ],
+      "k": 3,
+      "count": 19
+    },
+    {
+      "skills": [
+        "js",
+        "react",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 21
+    },
+    {
+      "skills": [
+        "js",
+        "react",
+        "sass"
+      ],
+      "k": 3,
+      "count": 9
+    },
+    {
+      "skills": [
+        "js",
+        "react",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 68
+    },
+    {
+      "skills": [
+        "js",
+        "react",
+        "vue"
+      ],
+      "k": 3,
+      "count": 29
+    },
+    {
+      "skills": [
+        "js",
+        "react",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 28
+    },
+    {
+      "skills": [
+        "js",
+        "redux",
+        "rest"
+      ],
+      "k": 3,
+      "count": 7
+    },
+    {
+      "skills": [
+        "js",
+        "redux",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 6
+    },
+    {
+      "skills": [
+        "js",
+        "redux",
+        "sass"
+      ],
+      "k": 3,
+      "count": 7
+    },
+    {
+      "skills": [
+        "js",
+        "redux",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 17
+    },
+    {
+      "skills": [
+        "js",
+        "redux",
+        "vue"
+      ],
+      "k": 3,
+      "count": 7
+    },
+    {
+      "skills": [
+        "js",
+        "redux",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 12
+    },
+    {
+      "skills": [
+        "js",
+        "rest",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 9
+    },
+    {
+      "skills": [
+        "js",
+        "rest",
+        "sass"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "js",
+        "rest",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 12
+    },
+    {
+      "skills": [
+        "js",
+        "rest",
+        "vue"
+      ],
+      "k": 3,
+      "count": 16
+    },
+    {
+      "skills": [
+        "js",
+        "rest",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 11
+    },
+    {
+      "skills": [
+        "js",
+        "rest api",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 21
+    },
+    {
+      "skills": [
+        "js",
+        "rest api",
+        "vue"
+      ],
+      "k": 3,
+      "count": 13
+    },
+    {
+      "skills": [
+        "js",
+        "rest api",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 8
+    },
+    {
+      "skills": [
+        "js",
+        "sass",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 7
+    },
+    {
+      "skills": [
+        "js",
+        "sass",
+        "vue"
+      ],
+      "k": 3,
+      "count": 23
+    },
+    {
+      "skills": [
+        "js",
+        "sass",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 6
+    },
+    {
+      "skills": [
+        "js",
+        "typescript",
+        "vue"
+      ],
+      "k": 3,
+      "count": 69
+    },
+    {
+      "skills": [
+        "js",
+        "typescript",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 9
+    },
+    {
+      "skills": [
+        "js",
+        "vue",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 17
+    },
+    {
+      "skills": [
+        "node.js",
+        "react",
+        "redux"
+      ],
+      "k": 3,
+      "count": 60
+    },
+    {
+      "skills": [
+        "node.js",
+        "react",
+        "rest"
+      ],
+      "k": 3,
+      "count": 15
+    },
+    {
+      "skills": [
+        "node.js",
+        "react",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 16
+    },
+    {
+      "skills": [
+        "node.js",
+        "react",
+        "sass"
+      ],
+      "k": 3,
+      "count": 8
+    },
+    {
+      "skills": [
+        "node.js",
+        "react",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 148
+    },
+    {
+      "skills": [
+        "node.js",
+        "react",
+        "vue"
+      ],
+      "k": 3,
+      "count": 40
+    },
+    {
+      "skills": [
+        "node.js",
+        "react",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 32
+    },
+    {
+      "skills": [
+        "node.js",
+        "redux",
+        "rest"
+      ],
+      "k": 3,
+      "count": 5
+    },
+    {
+      "skills": [
+        "node.js",
+        "redux",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 6
+    },
+    {
+      "skills": [
+        "node.js",
+        "redux",
+        "sass"
+      ],
+      "k": 3,
+      "count": 3
+    },
+    {
+      "skills": [
+        "node.js",
+        "redux",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 38
+    },
+    {
+      "skills": [
+        "node.js",
+        "redux",
+        "vue"
+      ],
+      "k": 3,
+      "count": 13
+    },
+    {
+      "skills": [
+        "node.js",
+        "redux",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 11
+    },
+    {
+      "skills": [
+        "node.js",
+        "rest",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 6
+    },
+    {
+      "skills": [
+        "node.js",
+        "rest",
+        "sass"
+      ],
+      "k": 3,
+      "count": 6
+    },
+    {
+      "skills": [
+        "node.js",
+        "rest",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 21
+    },
+    {
+      "skills": [
+        "node.js",
+        "rest",
+        "vue"
+      ],
+      "k": 3,
+      "count": 20
+    },
+    {
+      "skills": [
+        "node.js",
+        "rest",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 9
+    },
+    {
+      "skills": [
+        "node.js",
+        "rest api",
+        "sass"
+      ],
+      "k": 3,
+      "count": 2
+    },
+    {
+      "skills": [
+        "node.js",
+        "rest api",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 15
+    },
+    {
+      "skills": [
+        "node.js",
+        "rest api",
+        "vue"
+      ],
+      "k": 3,
+      "count": 11
+    },
+    {
+      "skills": [
+        "node.js",
+        "rest api",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 3
+    },
+    {
+      "skills": [
+        "node.js",
+        "sass",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 13
+    },
+    {
+      "skills": [
+        "node.js",
+        "sass",
+        "vue"
+      ],
+      "k": 3,
+      "count": 12
+    },
+    {
+      "skills": [
+        "node.js",
+        "sass",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 2
+    },
+    {
+      "skills": [
+        "node.js",
+        "typescript",
+        "vue"
+      ],
+      "k": 3,
+      "count": 79
+    },
+    {
+      "skills": [
+        "node.js",
+        "typescript",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 42
+    },
+    {
+      "skills": [
+        "node.js",
+        "vue",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 19
+    },
+    {
+      "skills": [
+        "react",
+        "redux",
+        "rest"
+      ],
+      "k": 3,
+      "count": 57
+    },
+    {
+      "skills": [
+        "react",
+        "redux",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 68
+    },
+    {
+      "skills": [
+        "react",
+        "redux",
+        "sass"
+      ],
+      "k": 3,
+      "count": 39
+    },
+    {
+      "skills": [
+        "react",
+        "redux",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 515
+    },
+    {
+      "skills": [
+        "react",
+        "redux",
+        "vue"
+      ],
+      "k": 3,
+      "count": 40
+    },
+    {
+      "skills": [
+        "react",
+        "redux",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 147
+    },
+    {
+      "skills": [
+        "react",
+        "rest",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 21
+    },
+    {
+      "skills": [
+        "react",
+        "rest",
+        "sass"
+      ],
+      "k": 3,
+      "count": 18
+    },
+    {
+      "skills": [
+        "react",
+        "rest",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 105
+    },
+    {
+      "skills": [
+        "react",
+        "rest",
+        "vue"
+      ],
+      "k": 3,
+      "count": 28
+    },
+    {
+      "skills": [
+        "react",
+        "rest",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 41
+    },
+    {
+      "skills": [
+        "react",
+        "rest api",
+        "sass"
+      ],
+      "k": 3,
+      "count": 23
+    },
+    {
+      "skills": [
+        "react",
+        "rest api",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 139
+    },
+    {
+      "skills": [
+        "react",
+        "rest api",
+        "vue"
+      ],
+      "k": 3,
+      "count": 31
+    },
+    {
+      "skills": [
+        "react",
+        "rest api",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 42
+    },
+    {
+      "skills": [
+        "react",
+        "sass",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 80
+    },
+    {
+      "skills": [
+        "react",
+        "sass",
+        "vue"
+      ],
+      "k": 3,
+      "count": 19
+    },
+    {
+      "skills": [
+        "react",
+        "sass",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 34
+    },
+    {
+      "skills": [
+        "react",
+        "typescript",
+        "vue"
+      ],
+      "k": 3,
+      "count": 134
+    },
+    {
+      "skills": [
+        "react",
+        "typescript",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 224
+    },
+    {
+      "skills": [
+        "react",
+        "vue",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 42
+    },
+    {
+      "skills": [
+        "redux",
+        "rest",
+        "rest api"
+      ],
+      "k": 3,
+      "count": 11
+    },
+    {
+      "skills": [
+        "redux",
+        "rest",
+        "sass"
+      ],
+      "k": 3,
+      "count": 6
+    },
+    {
+      "skills": [
+        "redux",
+        "rest",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 50
+    },
+    {
+      "skills": [
+        "redux",
+        "rest",
+        "vue"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "redux",
+        "rest",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 17
+    },
+    {
+      "skills": [
+        "redux",
+        "rest api",
+        "sass"
+      ],
+      "k": 3,
+      "count": 5
+    },
+    {
+      "skills": [
+        "redux",
+        "rest api",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 64
+    },
+    {
+      "skills": [
+        "redux",
+        "rest api",
+        "vue"
+      ],
+      "k": 3,
+      "count": 9
+    },
+    {
+      "skills": [
+        "redux",
+        "rest api",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 24
+    },
+    {
+      "skills": [
+        "redux",
+        "sass",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 24
+    },
+    {
+      "skills": [
+        "redux",
+        "sass",
+        "vue"
+      ],
+      "k": 3,
+      "count": 5
+    },
+    {
+      "skills": [
+        "redux",
+        "sass",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 20
+    },
+    {
+      "skills": [
+        "redux",
+        "typescript",
+        "vue"
+      ],
+      "k": 3,
+      "count": 25
+    },
+    {
+      "skills": [
+        "redux",
+        "typescript",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 125
+    },
+    {
+      "skills": [
+        "redux",
+        "vue",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 11
+    },
+    {
+      "skills": [
+        "rest",
+        "rest api",
+        "sass"
+      ],
+      "k": 3,
+      "count": 4
+    },
+    {
+      "skills": [
+        "rest",
+        "rest api",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 30
+    },
+    {
+      "skills": [
+        "rest",
+        "rest api",
+        "vue"
+      ],
+      "k": 3,
+      "count": 12
+    },
+    {
+      "skills": [
+        "rest",
+        "rest api",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 12
+    },
+    {
+      "skills": [
+        "rest",
+        "sass",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 23
+    },
+    {
+      "skills": [
+        "rest",
+        "sass",
+        "vue"
+      ],
+      "k": 3,
+      "count": 10
+    },
+    {
+      "skills": [
+        "rest",
+        "sass",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 5
+    },
+    {
+      "skills": [
+        "rest",
+        "typescript",
+        "vue"
+      ],
+      "k": 3,
+      "count": 46
+    },
+    {
+      "skills": [
+        "rest",
+        "typescript",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 36
+    },
+    {
+      "skills": [
+        "rest",
+        "vue",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 19
+    },
+    {
+      "skills": [
+        "rest api",
+        "sass",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 21
+    },
+    {
+      "skills": [
+        "rest api",
+        "sass",
+        "vue"
+      ],
+      "k": 3,
+      "count": 12
+    },
+    {
+      "skills": [
+        "rest api",
+        "sass",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 14
+    },
+    {
+      "skills": [
+        "rest api",
+        "typescript",
+        "vue"
+      ],
+      "k": 3,
+      "count": 50
+    },
+    {
+      "skills": [
+        "rest api",
+        "typescript",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 43
+    },
+    {
+      "skills": [
+        "rest api",
+        "vue",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 17
+    },
+    {
+      "skills": [
+        "sass",
+        "typescript",
+        "vue"
+      ],
+      "k": 3,
+      "count": 36
+    },
+    {
+      "skills": [
+        "sass",
+        "typescript",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 35
+    },
+    {
+      "skills": [
+        "sass",
+        "vue",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 25
+    },
+    {
+      "skills": [
+        "typescript",
+        "vue",
+        "webpack"
+      ],
+      "k": 3,
+      "count": 77
+    }
+  ],
+  "compute_seconds": 2.166002292011399
+}

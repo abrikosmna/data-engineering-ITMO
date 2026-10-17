@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.py[cod]
+.idea/
+.DS_Store
+.env
+.ruff_cache/
+data/recovered.csv

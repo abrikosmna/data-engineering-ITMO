@@ -1,0 +1,26 @@
+﻿k,skills,count
+1,git,1690
+1,html,1332
+1,javascript,3202
+1,react,2226
+1,typescript,2344
+2,git | html,621
+2,git | javascript,1300
+2,git | react,798
+2,git | typescript,791
+2,html | javascript,1062
+2,html | react,585
+2,html | typescript,541
+2,javascript | react,1617
+2,javascript | typescript,1657
+2,react | typescript,1467
+3,git | html | javascript,512
+3,git | html | react,288
+3,git | html | typescript,253
+3,git | javascript | react,649
+3,git | javascript | typescript,607
+3,git | react | typescript,488
+3,html | javascript | react,475
+3,html | javascript | typescript,447
+3,html | react | typescript,352
+3,javascript | react | typescript,1057

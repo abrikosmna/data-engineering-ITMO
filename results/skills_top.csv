@@ -1,0 +1,1497 @@
+﻿skill,vacancies
+javascript,3202
+typescript,2344
+react,2226
+git,1690
+html,1332
+vue,1287
+css,1117
+html5,952
+css3,930
+redux,715
+webpack,462
+angular,449
+frontend,446
+node.js,435
+rest api,332
+sass,296
+rest,295
+js,278
+angularjs,262
+docker,257
+scss,237
+jquery,235
+figma,228
+ооп,199
+кроссбраузерная верстка,196
+api,194
+next.js,190
+адаптивная верстка,190
+php,158
+postgresql,153
+java script,148
+bootstrap,142
+mobx,142
+es6,138
+linux,132
+less,131
+react native,121
+английский язык,120
+graphql,118
+mysql,118
+sql,109
+nuxt.js,108
+nuxt,103
+rxjs,100
+spa,97
+ajax,95
+vuex,92
+atlassian jira,88
+jest,84
+html/css,83
+http,80
+работа в команде,76
+веб-программирование,74
+gitlab,73
+верстка,71
+gulp,69
+ssr,69
+vite,69
+nextjs,66
+ci/cd,64
+scrum,64
+ui,63
+github,62
+websocket,61
+python,59
+vue3,59
+разработка по,56
+java,55
+pinia,55
+json api,53
+websockets,52
+laravel,51
+ngrx,49
+solid,49
+axios,47
+react/redux,47
+vue 3,47
+unit testing,44
+1с-битрикс,42
+оптимизация кода,39
+storybook,38
+flutter,36
+mongodb,36
+удаленная работа,35
+ux,33
+material ui,32
+vue2,32
+adobe photoshop,31
+c#,31
+jira,30
+бэм,30
+agile,29
+bem,29
+kubernetes,29
+web,29
+cms wordpress,28
+sass/scss,28
+json,27
+swagger,27
+tailwind,27
+nginx,26
+рефакторинг кода,26
+android,25
+mvc,25
+three.js,25
+валидная верстка,25
+agile project management,24
+npm,24
+redux toolkit,24
+dart,23
+flex,22
+it,22
+ui/ux,22
+effector,21
+ios,21
+mui,21
+react js,21
+ts,21
+управление командой,21
+leaflet,20
+ms sql,20
+restful api,20
+базы данных,20
+atlassian confluence,19
+docker-compose,19
+electron,19
+es6+,19
+html-верстка,19
+rollup,19
+xml,19
+canvas,18
+redis,18
+stylus,18
+webgl,18
+.net framework,17
+jenkins,17
+nuxt3,17
+redux-toolkit,17
+работа с базами данных,17
+grid,16
+pug,16
+saas,16
+soap,16
+styled components,16
+webrtc,16
+wordpress,16
+ant design,15
+backend,15
+kotlin,15
+nuxt 3,15
+pwa,15
+svg,15
+информационные технологии,15
+bitrix,14
+cypress,14
+ionic,14
+next,14
+nuxtjs,14
+postcss,14
+asp.net,13
+confluence,13
+django framework,13
+nestjs,13
+tailwindcss,13
+unix,13
+аналитическое мышление,13
+умение работать в условиях многозадачности,13
+babel,12
+ext js,12
+php5,12
+vuetify,12
+zustand,12
+адаптивность,12
+микросервисная архитектура,12
+blockchain,11
+echarts,11
+golang,11
+pixel perfect,11
+uikit,11
+web application development,11
+ответственность,11
+разработка нового продукта,11
+cors,10
+gitflow,10
+go,10
+postman,10
+redux-saga,10
+rtk query,10
+symfony,10
+ux/ui,10
+администрирование сайтов,10
+пользователь пк,10
+.net core,9
+3d,9
+angular material,9
+css modules,9
+css-верстка,9
+devextreme,9
+dry,9
+es5,9
+eslint,9
+express.js,9
+geoserver,9
+gsap,9
+karma,9
+keycloak,9
+mvvm,9
+styled-components,9
+tailwind css,9
+vue router,9
+web-rtc,9
+yii,9
+код-ревью,9
+паттерны проектирования,9
+работа в условиях многозадачности,9
+семантическая верстка,9
+тестирование,9
+asp.net core,8
+asp.net mvc,8
+express,8
+flexbox,8
+formik,8
+front-end,8
+javascript (es6+),8
+javascript es6,8
+kiss,8
+modx,8
+ms sql server,8
+next js,8
+rabbitmq,8
+react hook form,8
+sentry,8
+spring framework,8
+tcp/ip,8
+tdd,8
+ui kit,8
+webapi,8
+youtrack,8
+веб-дизайн,8
+верстка сайтов,8
+обучение и развитие,8
+творческое мышление,8
+целеустремленность,8
+чистый код,8
+angular 2+,7
+c++,7
+capacitorjs,7
+dom,7
+entity framework,7
+erlang,7
+ess5+,7
+grafana,7
+https,7
+jwt,7
+mariadb,7
+material-ui,7
+nest.js,7
+primeng,7
+seo,7
+slack,7
+smarty,7
+svelte,7
+tanstack query,7
+vite ssr,7
+vue-router,7
+web-дизайн,7
+yarn,7
+алгоритмы и структуры данных,7
+амбициозность,7
+блочная верстка,7
+внимательность,7
+деловая коммуникация,7
+организаторские навыки,7
+проактивность,7
+разработка платформы,7
+субд,7
+aurelia,6
+chartjs,6
+clickhouse,6
+django,6
+edtech,6
+expressjs,6
+grpc,6
+kafka,6
+leadership development,6
+monorepo,6
+ms visual studio,6
+parcel,6
+performance api,6
+react query,6
+restapi,6
+teamleading,6
+tilda,6
+vanilla js,6
+vs code,6
+web3,6
+webpack module federation,6
+yii2,6
+гибкость,6
+грамотная речь,6
+коммуникабельность,6
+написание текстов,6
+самостоятельность,6
+создание сайтов,6
+техническая документация,6
+технический английский,6
+умение работать в коллективе,6
+adobe illustrator,5
+ag-grid,5
+amocrm,5
+capacitor,5
+composition api,5
+coroutines,5
+d3,5
+devtools,5
+esbuild,5
+etc,5
+fastapi,5
+feature-sliced design,5
+fintech,5
+fsd,5
+gitlab ci,5
+js css,5
+materialui,5
+nuxt2,5
+pixi.js,5
+prettier,5
+quasar,5
+recoil,5
+ruby,5
+seo оптимизация,5
+server side rendering,5
+strapi,5
+turborepo,5
+type script,5
+unit-тесты,5
+vitest,5
+vue 2/3,5
+vue js,5
+аналитический склад ума,5
+битрикс24,5
+грамотная устная и письменная речь,5
+лидерство,5
+многозадачность,5
+работа с большим объемом информации,5
+разработка,5
+разработчик,5
+управление проектами,5
+финансы,5
+.net,4
+ag grid,4
+angular 12,4
+angular8+,4
+antd,4
+antdesign,4
+apollo client,4
+bitbucket,4
+blazor,4
+ci,4
+clean architecture,4
+cms bitrix,4
+code review,4
+compositionapi,4
+developer express,4
+ecmascript,4
+elasticsearch,4
+firebase,4
+frontend developer,4
+hooks,4
+intellij idea,4
+it-enterprise,4
+jasmine,4
+knockout,4
+ngxs,4
+nosql,4
+page object,4
+parcell,4
+pixi,4
+react hooks,4
+react testing library,4
+react-query,4
+reactnative,4
+redux|mobx,4
+rest-api,4
+smart tv,4
+socket.io,4
+spring,4
+taiga,4
+teamcity,4
+tfs,4
+threejs,4
+twig,4
+ui-kit,4
+ws,4
+аккуратность в отчетах и оценках,4
+анализ данных,4
+асинхронность typescript,4
+деловое общение,4
+корректное формирование ожиданий,4
+написание статей,4
+оперативный поиск информации в сети интернет,4
+ориентация на результат,4
+ответственность и пунктуальность,4
+ответственость,4
+почему бы не потестировать,4
+программирование,4
+работа с банками,4
+разработка архитектуры,4
+с#,4
+сбор и анализ информации,4
+умение вести переписку,4
+цфт-банк,4
+яндекс.метрика,4
+3d-графика,3
+akita,3
+android sdk,3
+android studio,3
+angular 16+,3
+angular 6,3
+angular 9+,3
+angular2+,3
+animate js,3
+animation,3
+apollo graphql,3
+astro islands,3
+aws,3
+bi,3
+bitrix24,3
+business english,3
+c/c++,3
+camunda,3
+cesium,3
+cms,3
+cms drupal,3
+crm,3
+css grid,3
+css(sass),3
+css-modules,3
+css3+,3
+ddd,3
+design system,3
+developer,3
+devexpress/devextreme,3
+domobject,3
+drupal,3
+e-commerce,3
+e2e,3
+eventloop,3
+flow,3
+flux,3
+frontend dev,3
+fsm,3
+gamedev,3
+git flow,3
+highcharts,3
+i18n,3
+jest/mocha,3
+jetpack compose,3
+js/ts,3
+kanban,3
+konvajs,3
+learning management system,3
+lms,3
+mapbox,3
+material design,3
+mocha,3
+node,3
+npm/yarn,3
+nuxt 2/3,3
+oop/solid,3
+openapi,3
+opencart,3
+openlayers,3
+oracle,3
+phpmyadmin,3
+playwright,3
+postgis,3
+qt,3
+quasar framework,3
+reactiveforms,3
+redux-thunk,3
+reduх,3
+remix,3
+rtk,3
+ruby on rails,3
+rxjava,3
+saga,3
+selenium,3
+senior,3
+shopify,3
+solidity,3
+ssg,3
+ssp,3
+style components,3
+supabase,3
+tanstack,3
+team management,3
+tizen,3
+transact-sql,3
+typescript-a,3
+vanilla javascript,3
+vue.js 2,3
+vue.js 3,3
+vuex/pinia,3
+web development,3
+web3.js,3
+webos,3
+webpack 4/5,3
+webview,3
+windows,3
+yandex cloud,3
+автотесты,3
+анализ поведения пользователей,3
+блокчейн,3
+визуализация,3
+визуализация данных,3
+желание обучаться,3
+желание учиться и развиваться,3
+импровизация,3
+инициативность,3
+ит-архитектура,3
+микрофронтенды,3
+мобильные приложения,3
+моделирование,3
+модульные тесты,3
+навыки верстки/декомпозиции макетов,3
+навыки межличностного общения,3
+нацелен на результат,3
+начало карьеры,3
+построение индивидуальных планов развития,3
+приложения,3
+программист,3
+работа с чужим кодом,3
+разработка cms,3
+разработка сайта,3
+разработка технических заданий,3
+сss3,3
+самостоятельная работа,3
+стремление к профессиональному росту,3
+стрессоустойчивость,3
+управление временем,3
+(s)css,2
+.netcore,2
+3d моделирование,2
+adobe acrobat,2
+alv grid,2
+angular 11,2
+angular 2,2
+angular 8+,2
+angular16+,2
+animejs,2
+ant desing,2
+ant system,2
+apache echarts,2
+apache kafka,2
+apache superset,2
+api key,2
+apollo,2
+aris express,2
+async,2
+atomic design,2
+bash,2
+bem-нейминг,2
+bff,2
+big data,2
+bitcoin,2
+blockchain technologies,2
+browserstack,2
+cassandra,2
+ccs3,2
+cd,2
+coffeecup html editor,2
+compose,2
+compound components,2
+cordova,2
+cryptocurrency,2
+css/sass,2
+cистемы управления базами данных,2
+dam,2
+dapps,2
+deck.gl,2
+defi,2
+design patterns,2
+discord,2
+django rest framework,2
+docker compose,2
+dockerfile,2
+doker,2
+ecommerce,2
+element plus,2
+element-plus,2
+erc-1155,2
+erc-20,2
+erc-721,2
+erc-777,2
+es5+,2
+es6+ синтаксис,2
+es6/7,2
+esnext,2
+ethereum,2
+ethers,2
+exchange,2
+fastify,2
+feature sliced design,2
+flex-box,2
+fs,2
+gatsby,2
+gcp,2
+git и gitlab,2
+"git, gitlab",2
+git-flow,2
+gitlab ci/cd,2
+gitllab,2
+google analytics,2
+gql,2
+graphql/apollo,2
+grid layout,2
+grid верстка,2
+hibernate,2
+highload,2
+hls,2
+hoc,2
+"html 5, css 3",2
+html(css),2
+html5+,2
+html5/css3,2
+"http и websocket, стека tcp/ip и restful веб-служб",2
+http и ws,2
+influx,2
+insight,2
+ionic framework,2
+iot,2
+iphone,2
+jasper reports,2
+javascript (es6),2
+javascript es6+,2
+javascript node.js,2
+javascript/typescript,2
+jetbrains phpstorm,2
+joomla cms,2
+js es5,2
+js es6,2
+jsx,2
+jsx + scss,2
+kibana,2
+kotlin/js,2
+linux/unix,2
+maptalks,2
+material,2
+maven,2
+microservices,2
+middle frontend-разработчик,2
+mobile first разработка,2
+mobx/redux,2
+ms office,2
+mvi,2
+nextjs 18 (app router),2
+nft,2
+npmjs,2
+nuxt.js v3,2
+nx,2
+objective-c,2
+observable,2
+onpush,2
+openai,2
+pcss/sass/less,2
+phaser,2
+php 7.4,2
+php4,2
+pim,2
+pipe,2
+plm,2
+pm2,2
+primereact,2
+primevue,2
+problem-solving skills,2
+promise,2
+psr-12,2
+puppeteer,2
+python3,2
+react hook,2
+react-hook-form,2
+react-redux,2
+react.native,2
+recharts,2
+redmine,2
+redux saga,2
+redux/redux toolkit,2
+render props,2
+rendering,2
+restful apis,2
+ria,2
+riverpod,2
+safari,2
+scss/saas,2
+server-side,2
+service workers,2
+signal r,2
+smart contracts,2
+smarttv,2
+spa приложения,2
+spring boot,2
+sqlite,2
+ssr next.js,2
+start-up project,2
+subject,2
+svn,2
+swap,2
+swift,2
+swing,2
+testing-library,2
+theia,2
+tokens,2
+toolkit,2
+tools,2
+typescirpt,2
+"typescript, react, css, javascript.",2
+typescript5,2
+typescrypt,2
+ubuntu,2
+ui-библиотеки,2
+unit,2
+unit/e2e-тесты,2
+unittests,2
+vanillajs,2
+visiology,2
+visual studio code,2
+vkontakte api,2
+vue 2.0,2
+vue 3.0,2
+"vue, html, http, js, css, nuxt",2
+vue.js 3+,2
+vue.js v3,2
+vue3.js,2
+vuejs 2.6/3+,2
+vuelidate,2
+vueroute,2
+"vuex/pinia, router",2
+wagmi,2
+wasm,2
+waterfall,2
+web 3.0,2
+web components,2
+web design,2
+web socket,2
+web аналитика,2
+web-разработка,2
+webassembly,2
+webasyst,2
+webpack4,2
+webstorm,2
+xcode,2
+zabbix,2
+адекватность,2
+английский - а2 - элементарный,2
+анимация,2
+асинхронный код,2
+битрикс 24,2
+веб-разработка,2
+видеочат,2
+внешняя оптимизация сайта,2
+внимание к деталям,2
+внутренняя оптимизация сайта,2
+высшее образование,2
+генерация идей,2
+готовность к обучению,2
+грамотность,2
+графические редакторы,2
+заинтересованность,2
+интеграция с back-end,2
+исполнительность,2
+картография,2
+коммерческая разработка,2
+контроль качества,2
+кроссбраузерное тестирование,2
+маркетплейс,2
+наполнение контентом,2
+наставничество,2
+обучение,2
+поиск информации в интернет,2
+постановка задач разработчикам,2
+работа с компьютером,2
+работа с оргтехникой,2
+разработка документации,2
+реактивная разработка,2
+семантика,2
+серверные приложения,2
+системное мышление,2
+стажировка,2
+стриминг,2
+техническая грамотность,2
+торговая площадка,2
+умение легко находить контакт с людьми,2
+"умение организовать работу, планировать, принимать решения",2
+управление разработкой,2
+фронтед-разработчик,2
+юнит-тесты,2
+.net 6,1
+.net 6.,1
+.net c#,1
+1с,1
+2d анимация,1
+a/b тесты,1
+abi,1
+active mq,1
+activedirectory,1
+adaptive design,1
+adobe animate,1
+adobe cs,1
+adobe flash,1
+adobe xd,1
+ai,1
+airflow dag,1
+align technology,1
+alpine.js,1
+amber software,1
+amo,1
+amp,1
+analytical skills,1
+angular 1.x,1
+angular 10/12,1
+angular 12+,1
+angular 13+,1
+angular 15+,1
+angular 17+,1
+"angular 17, scss, git, swagger, rest",1
+angular 4+,1
+angular и react,1
+angular.js,1
+angular/react/vue,1
+angular10,1
+angular11,1
+angular12,1
+angular13,1
+angular14,1
+angular8,1
+angular9,1
+ansible,1
+ant,1
+ant-design,1
+ant.design,1
+ant.js,1
+aot-компилятор,1
+apache,1
+apache cordova,1
+apache http server,1
+apex-charts,1
+api infosec,1
+"api,",1
+apple,1
+apple store,1
+apple tv,1
+appollo client,1
+appolo,1
+ar,1
+arcgis,1
+assembler,1
+async/await,1
+atdd,1
+aurelia.js,1
+auth 2.0,1
+avalonia,1
+axios (ferch),1
+axure rp,1
+azul systems,1
+azure devops,1
+babylonjs,1
+backbone,1
+backend-сервисы,1
+bdd,1
+bduf,1
+bim,1
+bind,1
+bitrix laravel,1
+bitrix редакции бус,1
+blender 3d,1
+bloc,1
+boost,1
+bootstrap4,1
+borland delphi,1
+browser automation,1
+bug tracking systems,1
+bun,1
+bundlers,1
+business intelligence,1
+c,1
+"c++, c#, js",1
+celery,1
+cesiumjs,1
+chai,1
+charts,1
+cmake,1
+cms modx,1
+cms opencart,1
+cocos creator,1
+cocos creator 3,1
+cocoscreator,1
+code-review,1
+codereview,1
+coffeescript,1
+compiler,1
+compositions api,1
+consta,1
+cpa,1
+create react app,1
+cross-browser testing,1
+crypto,1
+crypto pro,1
+cs-cart,1
+csr,1
+css / scss,1
+css 3,1
+css nesting,1
+css+html,1
+"css, xml(dom)",1
+css-in-js,1
+css/js анимации,1
+css/sass адаптивная вёрстка,1
+cssr,1
+cypress api,1
+d3.js,1
+dbeaver,1
+debugging,1
+deck,1
+delphi,1
+dependency injection,1
+designsystem,1
+devops,1
+devsecops,1
+di / ioc,1
+dio,1
+djangoorm,1
+djangorestframework,1
+docke,1
+dojo,1
+dva.js,1
+e2e тесты,1
+ecmascript 2021,1
+ecmascript 2022,1
+electron/framework7,1
+elixir,1
+elma,1
+ember,1
+end-to-end tests,1
+english,1
+enzyme,1
+erp systems,1
+es2015,1
+es2019,1
+es3,1
+es6++,1
+es7,1
+esb,1
+ethers.js,1
+excel,1
+exelsior,1
+exjs,1
+featured sliced motion,1
+figma/sketch,1
+flash,1
+flash actionscript,1
+flask,1
+foundation,1
+framer motion,1
+framer-motion,1
+front -end разработчик,1
+front end,1
+front end development,1
+front-end developer,1
+frontend development,1
+frontend разработка,1
+"frontend разработка, html верстка",1
+frontend разработчик,1
+frontend-разработчик,1
+fullstack,1
+gannt diagrams,1
+gdal,1
+gdevelop,1
+gis,1
+github actions,1
+goland,1
+google app script,1
+google docs,1
+google maps api,1
+google play,1
+graphql (absinthe),1
+graphql (apollo client),1
+grasp,1
+grid/flex,1
+gridster2,1
+grunt,1
+gui,1
+"gulp, webpack.",1
+higher technical education,1
+html / css,1
+html css,1
+"html, css (scss), api (rest)",1
+html/css/js,1
+html/css/sass,1
+html/xhtml,1
+html5 + css3,1
+"html5, css3, bootstrap 3",1
+html\css,1
+htmx,1
+http rest api,1
+http/https,1
+httpx,1
+husky,1
+i18next,1
+iis,1
+indexdb,1
+insales,1
+intel,1
+intel c++,1
+ios sdk,1
+it архитектор,1
+jasmie,1
+javascript (es 5/6),1
+javascript (es5+),1
+javascript / typescript,1
+"javascript, jquery",1
+"javascript, rest, websocket, html, css, http, less, es6, safari, scss, sass, stylus",1
+"javascript, typescript, vue.js, html, css, less",1
+javescript,1
+jetbrains,1
+joomla,1
+jotai,1
+jrpc,1
+js&ts,1
+jsdom,1
+json rest api,1
+json rpc,1
+json rpc api,1
+jss,1
+jtbd,1
+junior,1
+jvm,1
+k8s,1
+kendo ui,1
+kendoui,1
+konva,1
+kubernates,1
+kubernetus,1
+landing page,1
+leadership skills,1
+less/scss/sass,1
+lg,1
+linux (debian),1
+llvm,1
+local storage,1
+lowlevel,1
+m2m,1
+mantine,1
+maplibre,1
+mapnik,1
+maptiler,1
+material angular,1
+materialui (mui) v4,1
+maxpatrol,1
+mediastreams,1
+mfe,1
+micro frontend,1
+micro frontends,1
+microfrontend,1
+micronaut,1
+microsoft visual studio,1
+middle,1
+mitab,1
+miu,1
+ml,1
+mobix,1
+"mobx, axios",1
+mobx-state-tree,1
+module federation,1
+modulefederation,1
+mongod,1
+moodle,1
+ms outlook,1
+ms publisher,1
+multithread programming,1
+mvc pattern,1
+mvp,1
+native,1
+native javascript,1
+netbeans platform,1
+netcast,1
+neti,1
+next 13+,1
+next. js,1
+next/gatsby,1
+nextgis,1
+nextui,1
+nexus (npm),1
+neztjs,1
+nix,1
+notion,1
+npm(yarn),1
+npm-модули,1
+npx,1
+nstu,1
+nsu,1
+nuxt 2,1
+nvm,1
+nyxt,1
+oauth,1
+object-oriented programming,1
+oidc,1
+open api,1
+openshift,1
+optimization,1
+options,1
+oracle pl/sql,1
+orm,1
+osi,1
+osm,1
+pascal,1
+pgadmin,1
+photoshop,1
+php 8.0,1
+php7,1
+php8,1
+pixel-perfect,1
+plasma ui kit,1
+playcanvas,1
+posgresql,1
+preact,1
+preprocessors,1
+prime vue,1
+progressive web app,1
+promises,1
+pyqt,1
+pyside6,1
+qml,1
+radmin,1
+rails 4,1
+rails 5,1
+ramdajs,1
+razzle,1
+react + typescript,1
+react 17,1
+react 17+,1
+react 18,1
+react 18+,1
+react context,1
+react javascript,1
+react native web,1
+react redux,1
+react router,1
+react router dom,1
+react spa,1
+react test utils,1
+react v17,1
+"react, vue",1
+react-admin,1
+react-bootstrap,1
+react-redux-saga,1
+react-router,1
+react-saga,1
+react-three,1
+react-разработчик,1
+react/typescript,1
+react/vue,1
+react16+/mobx,1
+reactts,1
+redash,1
+redux redux,1
+redux redux tollkit,1
+redux thunk,1
+redux/,1
+redux/mobx,1
+refactoring,1
+refresh token,1
+requests,1
+restful,1
+restful apls,1
+restfulapi,1
+restx,1
+ruby 2.7,1
+rust,1
+rust compiler,1
+salesforce,1
+samba,1
+samsung,1
+sass (scss),1
+sass/less,1
+sass/less/css,1
+scala,1
+sccs,1
+scss modules,1
+sequelize,1
+server-side rendering,1
+serveraction,1
+serviceworkers,1
+shadcn ui,1
+shadcn/ui,1
+shop script,1
+signalr.js,1
+signals,1
+soa,1
+socketio,1
+solid edge,1
+spa & ssr,1
+space,1
+spdm системы,1
+spine,1
+sqlalchemy,1
+ssh,1
+ssl,1
+ssl/tls,1
+ssr/csr,1
+state managers,1
+stirybook,1
+strapi cms,1
+styleguidist,1
+stylex,1
+svg.js,1
+swiper,1
+swot анализ,1
+swr,1
+sсss,1
+task mgmt,1
+tcp,1
+telegram apps,1
+telegram mini apps,1
+tensorflow,1
+tensorflow.js,1
+testfight,1
+the bat,1
+thunk api,1
+tipescript,1
+tls,1
+tollkit,1
+ton,1
+trello,1
+trpc,1
+typescrip,1
+typescript - tsx/jsx,1
+typescript / javasctipt,1
+typescript 5+,1
+typescript.,1
+typescript/react/html/css,1
+typesсript,1
+ui mui,1
+ui киты,1
+ui-фреймворк,1
+ui/cdk,1
+ui/ux дизайн,1
+umi.js,1
+uml,1
+unipro,1
+unit tests,1
+unit тесты,1
+unity 3d,1
+unix-like,1
+urql,1
+usability,1
+user interface,1
+ux/ui дизайн,1
+valtio,1
+vanila js,1
+vanilajs,1
+vercel,1
+vidaa,1
+view.js,1
+visual studio,1
+visual studio c#,1
+vite 4.4,1
+vue 2,1
+vue 2.7,1
+vue cli,1
+vue composition api,1
+vue material,1
+vue sr,1
+vue test utils,1
+vue-2,1
+vue-3,1
+vue-i18n,1
+vue-tsc,1
+vue.js+vuex,1
+vue.js3,1
+vue/nuxt,1
+vue2.js,1
+vue2\3,1
+vuejs 2,1
+vuejs 2/3,1
+vueuse,1
+web - разработка,1
+web applications,1
+web apps,1
+web developer,1
+web fundamentals event loop,1
+web global,1
+web ui,1
+web-api,1
+web-sockets,1
+web-приложения,1
+web/spa applications,1
+webcrypto api,1
+webflow,1
+webpack/vite,1
+webworker,1
+wpf,1
+xbpm,1
+xhr,1
+xhtml,1
+xmind,1
+xml/json,1
+xquery,1
+yagni,1
+yandex,1
+yandex maps api,1
+zelpin,1
+zeplin,1
+автоматизация процессов,1
+автоматизация технологических процессов,1
+адаптация персонала,1
+адаптивный дизайн,1
+анализ больших объёмов информации,1
+аналитика,1
+английский язык - b1,1
+архитектор,1
+архитектура,1
+архитектура приложений,1
+базовые знания sql,1
+биоинформатика,1
+биржевые торги,1
+большая команда айтишников,1
+бпла,1
+браузерные апи,1
+в legacy проекте - php и jquery,1
+веб-аналитика,1
+верстка под дизайн,1
+верстка рассылок,1
+временные ряды,1
+высокая логика,1
+высокий уровень самоорганизации,1
+выстраивать frontend архитектуру и процессы,1
+гис,1
+готовность обучаться,1
+грамотная письменная речь,1
+дизайн-мышление,1
+дизайн-системы,1
+дисциплинированность,1
+добровольное медицинское страхование,1
+е2е-тесты,1
+желание зарабатывать,1
+желание постоянно развиваться,1
+желание работать и зарабатывать,1
+желание расти и развиваться,1
+заинтересованность в новом,1
+"знание web-технологий (http, ws, ssl, rest, json)",1
+знание английского на уровне необходимом для чтения документации,1
+знание иностранных языков,1
+знания синтаксиса php,1
+информационная безопасность,1
+информирование сотрудников,1
+исследования рынка труда,1
+ит,1
+ит архитектор,1
+итс,1
+казначейство,1
+каскадность,1
+кис,1
+клиент-серверная архитектура,1
+командная работа,1
+"коммуникабельность, ответственность",1
+коммуникативные навыки,1
+компилятор,1
+корпоративная культура,1
+корпоративная этика,1
+креативность,1
+криптотрейдинг,1
+кросс-браузерная адаптивная вёрстка,1
+кроссбраузерная адаптивная вёрстка,1
+кроссбраузерная и адаптивная верстка,1
+лендинг,1
+математика,1
+методология тестирования,1
+микрофронт,1
+микрофронтенд,1
+мобильная разработка,1
+мониторинг,1
+монотонная работа,1
+мотивация персонала,1
+мультизадачность,1
+навигация,1
+навыки презентации,1
+навыки разрешения спорных ситуаций,1
+написание тестов,1
+настройка микрофронтов,1
+нгту,1
+нгу,1
+обучаемость,1
+оптимизации рендера,1
+опыт,1
+опыт в коммерческой разработке,1
+опыт коммерческой разработки от 3 лет,1
+опыт работы с git,1
+опыт работы с webpack,1
+опыт работы с аудио и видеосвязью,1
+опыт работы с веб-сервисами,1
+опытный пользователь пк,1
+основы баз данных,1
+ответственное отношение к работе,1
+отладка/профилирование,1
+"отличное владение базовыми технологиями: javascript, typescript, dom, css, restful, browser api",1
+офис,1
+оформление документации,1
+оценка компетенций,1
+планирование,1
+подбор персонала,1
+подготовка презентаций,1
+поисковая оптимизация сайтов,1
+понимание mysql,1
+понимание принципов ооп,1
+построение архитектуры фронтенда,1
+преподавание,1
+преподаватель,1
+проведение опросов,1
+программирование 3d-графики,1
+программы лояльности для клиентов,1
+проектирование архитектуры,1
+проектирование комплексной системы,1
+проектирование микроархитектуры,1
+проектная работа,1
+профессионализм,1
+профилирование и оптимизация производительности приложений на вебе,1
+работа в коллективе,1
+работа в режиме многозадачности,1
+работа на результат,1
+работа с legacy кодом,1
+работа с ключевыми клиентами,1
+работа с уязвимостями фронтенда,1
+работать в команде,1
+разработка frontend,1
+разработка и поддержание одностраничных приложений,1
+разработка логистики,1
+разработка поисковых технологий,1
+разработка пользовательских интерфейсов,1
+разработка продукта,1
+разработка чат-ботов,1
+распределенные системы,1
+реляционные бд,1
+рефакторинг и переписывание приложений,1
+робототехника,1
+руководство коллективом,1
+руководство командой,1
+русский язык,1
+сss,1
+самодисциплина,1
+самоотверженность,1
+семантика html,1
+серверная разработка,1
+сетевые протоколы,1
+системный подход,1
+системы тестирования,1
+скрам,1
+смарт-контракты,1
+смекалка,1
+создание презентационных материалов о компании,1
+создание собственной ui библиотеки,1
+сопровождение по,1
+способность к саморазвитию,1
+средства криптографической защиты информации,1
+стартап,1
+стремление к профессиональному развитию,1
+стремление повышать профессиональный уровень,1
+телефонные переговоры,1
+тестирование пользовательского интерфейса,1
+"тесты - unit, e2e",1
+точность и внимательность к деталям,1
+траблшутинг сложных проблем пользователей на проде,1
+транслятор,1
+трейдинг,1
+удаленка,1
+удаленная работка,1
+удалёнка,1
+удалённая работа,1
+умение находить общий язык,1
+умение принимать оптимизационные решения,1
+умение принимать решения,1
+умение разбираться в чужом коде,1
+умение слушать,1
+умение создавать react проекты с нуля,1
+управленческое консультирование,1
+усердность,1
+участие в рефакторинге легаси кода,1
+фронтенд,1
+хорошее знание базовых библиотек,1
+человек - клей,1
+честность,1
+электронный документооборот,1
+эффективность,1
+яндекс функция,1
+• leaflet,1
+• php • sql • mysql • html • css • vue.js • javascript • nextjs ssg / tailwind / typescript • git •,1

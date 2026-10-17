@@ -1,0 +1,306 @@
+{
+  "timestamp_utc": "2026-10-17T14:24:30.253112+00:00",
+  "bucket": "hh-lake",
+  "input_key": "variant8/input/vacancies.csv",
+  "input_bytes": 63412458,
+  "input_matches_local": true,
+  "object_count": 61,
+  "checks": [
+    {
+      "key": "variant8/results/frequency_5.csv",
+      "bytes": 672,
+      "matches_local": true
+    },
+    {
+      "key": "variant8/results/frequency_10.csv",
+      "bytes": 4645,
+      "matches_local": true
+    },
+    {
+      "key": "variant8/results/frequency_20.csv",
+      "bytes": 38078,
+      "matches_local": true
+    },
+    {
+      "key": "variant8/results/frequency_all.csv",
+      "bytes": 7245500,
+      "matches_local": true
+    },
+    {
+      "key": "variant8/results/verification.json",
+      "bytes": 4679,
+      "matches_local": true
+    },
+    {
+      "key": "variant8/results/fault_verification.json",
+      "bytes": 436,
+      "matches_local": true
+    },
+    {
+      "key": "variant8/results/profile_runs.csv",
+      "bytes": 1827,
+      "matches_local": true
+    },
+    {
+      "key": "variant8/results/regions_overview.csv",
+      "bytes": 342,
+      "matches_local": true
+    },
+    {
+      "key": "variant8/results/regions_skills.csv",
+      "bytes": 2724,
+      "matches_local": true
+    },
+    {
+      "key": "variant8/results/salary_leaders.csv",
+      "bytes": 2571,
+      "matches_local": true
+    }
+  ],
+  "objects": [
+    {
+      "key": "variant8/data_audit.json",
+      "bytes": 832
+    },
+    {
+      "key": "variant8/input/vacancies.csv",
+      "bytes": 63412458
+    },
+    {
+      "key": "variant8/raw/hh.tar.gz",
+      "bytes": 10763791
+    },
+    {
+      "key": "variant8/raw/it_vacancies_2024.csv",
+      "bytes": 847619384
+    },
+    {
+      "key": "variant8/results/analysis_summary.json",
+      "bytes": 875
+    },
+    {
+      "key": "variant8/results/duckdb_0_1.json",
+      "bytes": 23820771
+    },
+    {
+      "key": "variant8/results/duckdb_0_2.json",
+      "bytes": 23820771
+    },
+    {
+      "key": "variant8/results/duckdb_0_3.json",
+      "bytes": 23820772
+    },
+    {
+      "key": "variant8/results/duckdb_10_1.json",
+      "bytes": 20893
+    },
+    {
+      "key": "variant8/results/duckdb_10_2.json",
+      "bytes": 20893
+    },
+    {
+      "key": "variant8/results/duckdb_10_3.json",
+      "bytes": 20893
+    },
+    {
+      "key": "variant8/results/duckdb_20_1.json",
+      "bytes": 161555
+    },
+    {
+      "key": "variant8/results/duckdb_20_2.json",
+      "bytes": 161554
+    },
+    {
+      "key": "variant8/results/duckdb_20_3.json",
+      "bytes": 161555
+    },
+    {
+      "key": "variant8/results/duckdb_5_1.json",
+      "bytes": 3161
+    },
+    {
+      "key": "variant8/results/duckdb_5_2.json",
+      "bytes": 3161
+    },
+    {
+      "key": "variant8/results/duckdb_5_3.json",
+      "bytes": 3161
+    },
+    {
+      "key": "variant8/results/fault_verification.json",
+      "bytes": 436
+    },
+    {
+      "key": "variant8/results/frequency_10.csv",
+      "bytes": 4645
+    },
+    {
+      "key": "variant8/results/frequency_20.csv",
+      "bytes": 38078
+    },
+    {
+      "key": "variant8/results/frequency_5.csv",
+      "bytes": 672
+    },
+    {
+      "key": "variant8/results/frequency_all.csv",
+      "bytes": 7245500
+    },
+    {
+      "key": "variant8/results/growth.csv",
+      "bytes": 265
+    },
+    {
+      "key": "variant8/results/mr_baseline_0_1.json",
+      "bytes": 23820911
+    },
+    {
+      "key": "variant8/results/mr_baseline_0_2.json",
+      "bytes": 23820911
+    },
+    {
+      "key": "variant8/results/mr_baseline_0_3.json",
+      "bytes": 23820911
+    },
+    {
+      "key": "variant8/results/mr_baseline_10_1.json",
+      "bytes": 21031
+    },
+    {
+      "key": "variant8/results/mr_baseline_10_2.json",
+      "bytes": 21032
+    },
+    {
+      "key": "variant8/results/mr_baseline_10_3.json",
+      "bytes": 21032
+    },
+    {
+      "key": "variant8/results/mr_baseline_20_1.json",
+      "bytes": 161694
+    },
+    {
+      "key": "variant8/results/mr_baseline_20_2.json",
+      "bytes": 161694
+    },
+    {
+      "key": "variant8/results/mr_baseline_20_3.json",
+      "bytes": 161693
+    },
+    {
+      "key": "variant8/results/mr_baseline_5_1.json",
+      "bytes": 3300
+    },
+    {
+      "key": "variant8/results/mr_baseline_5_2.json",
+      "bytes": 3300
+    },
+    {
+      "key": "variant8/results/mr_baseline_5_3.json",
+      "bytes": 3299
+    },
+    {
+      "key": "variant8/results/mr_fault_20_1.json",
+      "bytes": 161696
+    },
+    {
+      "key": "variant8/results/mr_optimized_0_1.json",
+      "bytes": 23820913
+    },
+    {
+      "key": "variant8/results/mr_optimized_0_2.json",
+      "bytes": 23820912
+    },
+    {
+      "key": "variant8/results/mr_optimized_0_3.json",
+      "bytes": 23820913
+    },
+    {
+      "key": "variant8/results/mr_optimized_10_1.json",
+      "bytes": 21034
+    },
+    {
+      "key": "variant8/results/mr_optimized_10_2.json",
+      "bytes": 21034
+    },
+    {
+      "key": "variant8/results/mr_optimized_10_3.json",
+      "bytes": 21033
+    },
+    {
+      "key": "variant8/results/mr_optimized_20_1.json",
+      "bytes": 161696
+    },
+    {
+      "key": "variant8/results/mr_optimized_20_2.json",
+      "bytes": 161696
+    },
+    {
+      "key": "variant8/results/mr_optimized_20_3.json",
+      "bytes": 161696
+    },
+    {
+      "key": "variant8/results/mr_optimized_5_1.json",
+      "bytes": 3302
+    },
+    {
+      "key": "variant8/results/mr_optimized_5_2.json",
+      "bytes": 3301
+    },
+    {
+      "key": "variant8/results/mr_optimized_5_3.json",
+      "bytes": 3302
+    },
+    {
+      "key": "variant8/results/profile_runs.csv",
+      "bytes": 1827
+    },
+    {
+      "key": "variant8/results/profile_summary.csv",
+      "bytes": 1202
+    },
+    {
+      "key": "variant8/results/region_experience_gross.csv",
+      "bytes": 1558
+    },
+    {
+      "key": "variant8/results/regions_overview.csv",
+      "bytes": 342
+    },
+    {
+      "key": "variant8/results/regions_skills.csv",
+      "bytes": 2724
+    },
+    {
+      "key": "variant8/results/salary_combo_stats.csv",
+      "bytes": 8347432
+    },
+    {
+      "key": "variant8/results/salary_effects.csv",
+      "bytes": 144044
+    },
+    {
+      "key": "variant8/results/salary_leaders.csv",
+      "bytes": 2571
+    },
+    {
+      "key": "variant8/results/salary_sensitivity.csv",
+      "bytes": 3075
+    },
+    {
+      "key": "variant8/results/salary_stratified.csv",
+      "bytes": 1573
+    },
+    {
+      "key": "variant8/results/skills_top.csv",
+      "bytes": 30416
+    },
+    {
+      "key": "variant8/results/variant_vacancies.csv",
+      "bytes": 762004
+    },
+    {
+      "key": "variant8/results/verification.json",
+      "bytes": 4679
+    }
+  ]
+}

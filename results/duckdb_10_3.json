@@ -1,0 +1,1540 @@
+{
+  "method": "duckdb",
+  "stack_size": 10,
+  "vacancies": 6075,
+  "vocabulary": [
+    "javascript",
+    "typescript",
+    "react",
+    "git",
+    "html",
+    "vue",
+    "css",
+    "html5",
+    "css3",
+    "redux"
+  ],
+  "events": {
+    "1": 15795,
+    "2": 25776,
+    "3": 25814
+  },
+  "unique": {
+    "1": 10,
+    "2": 45,
+    "3": 120
+  },
+  "counts": [
+    {
+      "skills": [
+        "css"
+      ],
+      "k": 1,
+      "count": 1117
+    },
+    {
+      "skills": [
+        "css3"
+      ],
+      "k": 1,
+      "count": 930
+    },
+    {
+      "skills": [
+        "git"
+      ],
+      "k": 1,
+      "count": 1690
+    },
+    {
+      "skills": [
+        "html"
+      ],
+      "k": 1,
+      "count": 1332
+    },
+    {
+      "skills": [
+        "html5"
+      ],
+      "k": 1,
+      "count": 952
+    },
+    {
+      "skills": [
+        "javascript"
+      ],
+      "k": 1,
+      "count": 3202
+    },
+    {
+      "skills": [
+        "react"
+      ],
+      "k": 1,
+      "count": 2226
+    },
+    {
+      "skills": [
+        "redux"
+      ],
+      "k": 1,
+      "count": 715
+    },
+    {
+      "skills": [
+        "typescript"
+      ],
+      "k": 1,
+      "count": 2344
+    },
+    {
+      "skills": [
+        "vue"
+      ],
+      "k": 1,
+      "count": 1287
+    },
+    {
+      "skills": [
+        "css",
+        "css3"
+      ],
+      "k": 2,
+      "count": 156
+    },
+    {
+      "skills": [
+        "css",
+        "git"
+      ],
+      "k": 2,
+      "count": 510
+    },
+    {
+      "skills": [
+        "css",
+        "html"
+      ],
+      "k": 2,
+      "count": 844
+    },
+    {
+      "skills": [
+        "css",
+        "html5"
+      ],
+      "k": 2,
+      "count": 230
+    },
+    {
+      "skills": [
+        "css",
+        "javascript"
+      ],
+      "k": 2,
+      "count": 911
+    },
+    {
+      "skills": [
+        "css",
+        "react"
+      ],
+      "k": 2,
+      "count": 492
+    },
+    {
+      "skills": [
+        "css",
+        "redux"
+      ],
+      "k": 2,
+      "count": 159
+    },
+    {
+      "skills": [
+        "css",
+        "typescript"
+      ],
+      "k": 2,
+      "count": 495
+    },
+    {
+      "skills": [
+        "css",
+        "vue"
+      ],
+      "k": 2,
+      "count": 306
+    },
+    {
+      "skills": [
+        "css3",
+        "git"
+      ],
+      "k": 2,
+      "count": 498
+    },
+    {
+      "skills": [
+        "css3",
+        "html"
+      ],
+      "k": 2,
+      "count": 305
+    },
+    {
+      "skills": [
+        "css3",
+        "html5"
+      ],
+      "k": 2,
+      "count": 699
+    },
+    {
+      "skills": [
+        "css3",
+        "javascript"
+      ],
+      "k": 2,
+      "count": 753
+    },
+    {
+      "skills": [
+        "css3",
+        "react"
+      ],
+      "k": 2,
+      "count": 410
+    },
+    {
+      "skills": [
+        "css3",
+        "redux"
+      ],
+      "k": 2,
+      "count": 109
+    },
+    {
+      "skills": [
+        "css3",
+        "typescript"
+      ],
+      "k": 2,
+      "count": 415
+    },
+    {
+      "skills": [
+        "css3",
+        "vue"
+      ],
+      "k": 2,
+      "count": 314
+    },
+    {
+      "skills": [
+        "git",
+        "html"
+      ],
+      "k": 2,
+      "count": 621
+    },
+    {
+      "skills": [
+        "git",
+        "html5"
+      ],
+      "k": 2,
+      "count": 533
+    },
+    {
+      "skills": [
+        "git",
+        "javascript"
+      ],
+      "k": 2,
+      "count": 1300
+    },
+    {
+      "skills": [
+        "git",
+        "react"
+      ],
+      "k": 2,
+      "count": 798
+    },
+    {
+      "skills": [
+        "git",
+        "redux"
+      ],
+      "k": 2,
+      "count": 279
+    },
+    {
+      "skills": [
+        "git",
+        "typescript"
+      ],
+      "k": 2,
+      "count": 791
+    },
+    {
+      "skills": [
+        "git",
+        "vue"
+      ],
+      "k": 2,
+      "count": 524
+    },
+    {
+      "skills": [
+        "html",
+        "html5"
+      ],
+      "k": 2,
+      "count": 223
+    },
+    {
+      "skills": [
+        "html",
+        "javascript"
+      ],
+      "k": 2,
+      "count": 1062
+    },
+    {
+      "skills": [
+        "html",
+        "react"
+      ],
+      "k": 2,
+      "count": 585
+    },
+    {
+      "skills": [
+        "html",
+        "redux"
+      ],
+      "k": 2,
+      "count": 167
+    },
+    {
+      "skills": [
+        "html",
+        "typescript"
+      ],
+      "k": 2,
+      "count": 541
+    },
+    {
+      "skills": [
+        "html",
+        "vue"
+      ],
+      "k": 2,
+      "count": 372
+    },
+    {
+      "skills": [
+        "html5",
+        "javascript"
+      ],
+      "k": 2,
+      "count": 780
+    },
+    {
+      "skills": [
+        "html5",
+        "react"
+      ],
+      "k": 2,
+      "count": 405
+    },
+    {
+      "skills": [
+        "html5",
+        "redux"
+      ],
+      "k": 2,
+      "count": 112
+    },
+    {
+      "skills": [
+        "html5",
+        "typescript"
+      ],
+      "k": 2,
+      "count": 434
+    },
+    {
+      "skills": [
+        "html5",
+        "vue"
+      ],
+      "k": 2,
+      "count": 347
+    },
+    {
+      "skills": [
+        "javascript",
+        "react"
+      ],
+      "k": 2,
+      "count": 1617
+    },
+    {
+      "skills": [
+        "javascript",
+        "redux"
+      ],
+      "k": 2,
+      "count": 542
+    },
+    {
+      "skills": [
+        "javascript",
+        "typescript"
+      ],
+      "k": 2,
+      "count": 1657
+    },
+    {
+      "skills": [
+        "javascript",
+        "vue"
+      ],
+      "k": 2,
+      "count": 921
+    },
+    {
+      "skills": [
+        "react",
+        "redux"
+      ],
+      "k": 2,
+      "count": 690
+    },
+    {
+      "skills": [
+        "react",
+        "typescript"
+      ],
+      "k": 2,
+      "count": 1467
+    },
+    {
+      "skills": [
+        "react",
+        "vue"
+      ],
+      "k": 2,
+      "count": 288
+    },
+    {
+      "skills": [
+        "redux",
+        "typescript"
+      ],
+      "k": 2,
+      "count": 529
+    },
+    {
+      "skills": [
+        "redux",
+        "vue"
+      ],
+      "k": 2,
+      "count": 41
+    },
+    {
+      "skills": [
+        "typescript",
+        "vue"
+      ],
+      "k": 2,
+      "count": 544
+    },
+    {
+      "skills": [
+        "css",
+        "css3",
+        "git"
+      ],
+      "k": 3,
+      "count": 89
+    },
+    {
+      "skills": [
+        "css",
+        "css3",
+        "html"
+      ],
+      "k": 3,
+      "count": 104
+    },
+    {
+      "skills": [
+        "css",
+        "css3",
+        "html5"
+      ],
+      "k": 3,
+      "count": 129
+    },
+    {
+      "skills": [
+        "css",
+        "css3",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 142
+    },
+    {
+      "skills": [
+        "css",
+        "css3",
+        "react"
+      ],
+      "k": 3,
+      "count": 70
+    },
+    {
+      "skills": [
+        "css",
+        "css3",
+        "redux"
+      ],
+      "k": 3,
+      "count": 22
+    },
+    {
+      "skills": [
+        "css",
+        "css3",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 57
+    },
+    {
+      "skills": [
+        "css",
+        "css3",
+        "vue"
+      ],
+      "k": 3,
+      "count": 41
+    },
+    {
+      "skills": [
+        "css",
+        "git",
+        "html"
+      ],
+      "k": 3,
+      "count": 373
+    },
+    {
+      "skills": [
+        "css",
+        "git",
+        "html5"
+      ],
+      "k": 3,
+      "count": 134
+    },
+    {
+      "skills": [
+        "css",
+        "git",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 428
+    },
+    {
+      "skills": [
+        "css",
+        "git",
+        "react"
+      ],
+      "k": 3,
+      "count": 235
+    },
+    {
+      "skills": [
+        "css",
+        "git",
+        "redux"
+      ],
+      "k": 3,
+      "count": 73
+    },
+    {
+      "skills": [
+        "css",
+        "git",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 226
+    },
+    {
+      "skills": [
+        "css",
+        "git",
+        "vue"
+      ],
+      "k": 3,
+      "count": 148
+    },
+    {
+      "skills": [
+        "css",
+        "html",
+        "html5"
+      ],
+      "k": 3,
+      "count": 119
+    },
+    {
+      "skills": [
+        "css",
+        "html",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 690
+    },
+    {
+      "skills": [
+        "css",
+        "html",
+        "react"
+      ],
+      "k": 3,
+      "count": 367
+    },
+    {
+      "skills": [
+        "css",
+        "html",
+        "redux"
+      ],
+      "k": 3,
+      "count": 117
+    },
+    {
+      "skills": [
+        "css",
+        "html",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 351
+    },
+    {
+      "skills": [
+        "css",
+        "html",
+        "vue"
+      ],
+      "k": 3,
+      "count": 221
+    },
+    {
+      "skills": [
+        "css",
+        "html5",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 201
+    },
+    {
+      "skills": [
+        "css",
+        "html5",
+        "react"
+      ],
+      "k": 3,
+      "count": 90
+    },
+    {
+      "skills": [
+        "css",
+        "html5",
+        "redux"
+      ],
+      "k": 3,
+      "count": 27
+    },
+    {
+      "skills": [
+        "css",
+        "html5",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 86
+    },
+    {
+      "skills": [
+        "css",
+        "html5",
+        "vue"
+      ],
+      "k": 3,
+      "count": 79
+    },
+    {
+      "skills": [
+        "css",
+        "javascript",
+        "react"
+      ],
+      "k": 3,
+      "count": 403
+    },
+    {
+      "skills": [
+        "css",
+        "javascript",
+        "redux"
+      ],
+      "k": 3,
+      "count": 130
+    },
+    {
+      "skills": [
+        "css",
+        "javascript",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 402
+    },
+    {
+      "skills": [
+        "css",
+        "javascript",
+        "vue"
+      ],
+      "k": 3,
+      "count": 253
+    },
+    {
+      "skills": [
+        "css",
+        "react",
+        "redux"
+      ],
+      "k": 3,
+      "count": 156
+    },
+    {
+      "skills": [
+        "css",
+        "react",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 300
+    },
+    {
+      "skills": [
+        "css",
+        "react",
+        "vue"
+      ],
+      "k": 3,
+      "count": 84
+    },
+    {
+      "skills": [
+        "css",
+        "redux",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 111
+    },
+    {
+      "skills": [
+        "css",
+        "redux",
+        "vue"
+      ],
+      "k": 3,
+      "count": 11
+    },
+    {
+      "skills": [
+        "css",
+        "typescript",
+        "vue"
+      ],
+      "k": 3,
+      "count": 100
+    },
+    {
+      "skills": [
+        "css3",
+        "git",
+        "html"
+      ],
+      "k": 3,
+      "count": 156
+    },
+    {
+      "skills": [
+        "css3",
+        "git",
+        "html5"
+      ],
+      "k": 3,
+      "count": 398
+    },
+    {
+      "skills": [
+        "css3",
+        "git",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 417
+    },
+    {
+      "skills": [
+        "css3",
+        "git",
+        "react"
+      ],
+      "k": 3,
+      "count": 228
+    },
+    {
+      "skills": [
+        "css3",
+        "git",
+        "redux"
+      ],
+      "k": 3,
+      "count": 55
+    },
+    {
+      "skills": [
+        "css3",
+        "git",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 209
+    },
+    {
+      "skills": [
+        "css3",
+        "git",
+        "vue"
+      ],
+      "k": 3,
+      "count": 180
+    },
+    {
+      "skills": [
+        "css3",
+        "html",
+        "html5"
+      ],
+      "k": 3,
+      "count": 148
+    },
+    {
+      "skills": [
+        "css3",
+        "html",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 250
+    },
+    {
+      "skills": [
+        "css3",
+        "html",
+        "react"
+      ],
+      "k": 3,
+      "count": 136
+    },
+    {
+      "skills": [
+        "css3",
+        "html",
+        "redux"
+      ],
+      "k": 3,
+      "count": 42
+    },
+    {
+      "skills": [
+        "css3",
+        "html",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 105
+    },
+    {
+      "skills": [
+        "css3",
+        "html",
+        "vue"
+      ],
+      "k": 3,
+      "count": 91
+    },
+    {
+      "skills": [
+        "css3",
+        "html5",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 569
+    },
+    {
+      "skills": [
+        "css3",
+        "html5",
+        "react"
+      ],
+      "k": 3,
+      "count": 293
+    },
+    {
+      "skills": [
+        "css3",
+        "html5",
+        "redux"
+      ],
+      "k": 3,
+      "count": 73
+    },
+    {
+      "skills": [
+        "css3",
+        "html5",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 311
+    },
+    {
+      "skills": [
+        "css3",
+        "html5",
+        "vue"
+      ],
+      "k": 3,
+      "count": 251
+    },
+    {
+      "skills": [
+        "css3",
+        "javascript",
+        "react"
+      ],
+      "k": 3,
+      "count": 339
+    },
+    {
+      "skills": [
+        "css3",
+        "javascript",
+        "redux"
+      ],
+      "k": 3,
+      "count": 95
+    },
+    {
+      "skills": [
+        "css3",
+        "javascript",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 339
+    },
+    {
+      "skills": [
+        "css3",
+        "javascript",
+        "vue"
+      ],
+      "k": 3,
+      "count": 253
+    },
+    {
+      "skills": [
+        "css3",
+        "react",
+        "redux"
+      ],
+      "k": 3,
+      "count": 105
+    },
+    {
+      "skills": [
+        "css3",
+        "react",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 223
+    },
+    {
+      "skills": [
+        "css3",
+        "react",
+        "vue"
+      ],
+      "k": 3,
+      "count": 106
+    },
+    {
+      "skills": [
+        "css3",
+        "redux",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 83
+    },
+    {
+      "skills": [
+        "css3",
+        "redux",
+        "vue"
+      ],
+      "k": 3,
+      "count": 16
+    },
+    {
+      "skills": [
+        "css3",
+        "typescript",
+        "vue"
+      ],
+      "k": 3,
+      "count": 126
+    },
+    {
+      "skills": [
+        "git",
+        "html",
+        "html5"
+      ],
+      "k": 3,
+      "count": 132
+    },
+    {
+      "skills": [
+        "git",
+        "html",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 512
+    },
+    {
+      "skills": [
+        "git",
+        "html",
+        "react"
+      ],
+      "k": 3,
+      "count": 288
+    },
+    {
+      "skills": [
+        "git",
+        "html",
+        "redux"
+      ],
+      "k": 3,
+      "count": 84
+    },
+    {
+      "skills": [
+        "git",
+        "html",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 253
+    },
+    {
+      "skills": [
+        "git",
+        "html",
+        "vue"
+      ],
+      "k": 3,
+      "count": 182
+    },
+    {
+      "skills": [
+        "git",
+        "html5",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 452
+    },
+    {
+      "skills": [
+        "git",
+        "html5",
+        "react"
+      ],
+      "k": 3,
+      "count": 230
+    },
+    {
+      "skills": [
+        "git",
+        "html5",
+        "redux"
+      ],
+      "k": 3,
+      "count": 69
+    },
+    {
+      "skills": [
+        "git",
+        "html5",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 228
+    },
+    {
+      "skills": [
+        "git",
+        "html5",
+        "vue"
+      ],
+      "k": 3,
+      "count": 211
+    },
+    {
+      "skills": [
+        "git",
+        "javascript",
+        "react"
+      ],
+      "k": 3,
+      "count": 649
+    },
+    {
+      "skills": [
+        "git",
+        "javascript",
+        "redux"
+      ],
+      "k": 3,
+      "count": 225
+    },
+    {
+      "skills": [
+        "git",
+        "javascript",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 607
+    },
+    {
+      "skills": [
+        "git",
+        "javascript",
+        "vue"
+      ],
+      "k": 3,
+      "count": 411
+    },
+    {
+      "skills": [
+        "git",
+        "react",
+        "redux"
+      ],
+      "k": 3,
+      "count": 266
+    },
+    {
+      "skills": [
+        "git",
+        "react",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 488
+    },
+    {
+      "skills": [
+        "git",
+        "react",
+        "vue"
+      ],
+      "k": 3,
+      "count": 142
+    },
+    {
+      "skills": [
+        "git",
+        "redux",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 208
+    },
+    {
+      "skills": [
+        "git",
+        "redux",
+        "vue"
+      ],
+      "k": 3,
+      "count": 22
+    },
+    {
+      "skills": [
+        "git",
+        "typescript",
+        "vue"
+      ],
+      "k": 3,
+      "count": 191
+    },
+    {
+      "skills": [
+        "html",
+        "html5",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 195
+    },
+    {
+      "skills": [
+        "html",
+        "html5",
+        "react"
+      ],
+      "k": 3,
+      "count": 83
+    },
+    {
+      "skills": [
+        "html",
+        "html5",
+        "redux"
+      ],
+      "k": 3,
+      "count": 34
+    },
+    {
+      "skills": [
+        "html",
+        "html5",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 70
+    },
+    {
+      "skills": [
+        "html",
+        "html5",
+        "vue"
+      ],
+      "k": 3,
+      "count": 75
+    },
+    {
+      "skills": [
+        "html",
+        "javascript",
+        "react"
+      ],
+      "k": 3,
+      "count": 475
+    },
+    {
+      "skills": [
+        "html",
+        "javascript",
+        "redux"
+      ],
+      "k": 3,
+      "count": 135
+    },
+    {
+      "skills": [
+        "html",
+        "javascript",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 447
+    },
+    {
+      "skills": [
+        "html",
+        "javascript",
+        "vue"
+      ],
+      "k": 3,
+      "count": 303
+    },
+    {
+      "skills": [
+        "html",
+        "react",
+        "redux"
+      ],
+      "k": 3,
+      "count": 160
+    },
+    {
+      "skills": [
+        "html",
+        "react",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 352
+    },
+    {
+      "skills": [
+        "html",
+        "react",
+        "vue"
+      ],
+      "k": 3,
+      "count": 104
+    },
+    {
+      "skills": [
+        "html",
+        "redux",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 119
+    },
+    {
+      "skills": [
+        "html",
+        "redux",
+        "vue"
+      ],
+      "k": 3,
+      "count": 19
+    },
+    {
+      "skills": [
+        "html",
+        "typescript",
+        "vue"
+      ],
+      "k": 3,
+      "count": 129
+    },
+    {
+      "skills": [
+        "html5",
+        "javascript",
+        "react"
+      ],
+      "k": 3,
+      "count": 341
+    },
+    {
+      "skills": [
+        "html5",
+        "javascript",
+        "redux"
+      ],
+      "k": 3,
+      "count": 98
+    },
+    {
+      "skills": [
+        "html5",
+        "javascript",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 346
+    },
+    {
+      "skills": [
+        "html5",
+        "javascript",
+        "vue"
+      ],
+      "k": 3,
+      "count": 289
+    },
+    {
+      "skills": [
+        "html5",
+        "react",
+        "redux"
+      ],
+      "k": 3,
+      "count": 107
+    },
+    {
+      "skills": [
+        "html5",
+        "react",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 232
+    },
+    {
+      "skills": [
+        "html5",
+        "react",
+        "vue"
+      ],
+      "k": 3,
+      "count": 113
+    },
+    {
+      "skills": [
+        "html5",
+        "redux",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 80
+    },
+    {
+      "skills": [
+        "html5",
+        "redux",
+        "vue"
+      ],
+      "k": 3,
+      "count": 15
+    },
+    {
+      "skills": [
+        "html5",
+        "typescript",
+        "vue"
+      ],
+      "k": 3,
+      "count": 135
+    },
+    {
+      "skills": [
+        "javascript",
+        "react",
+        "redux"
+      ],
+      "k": 3,
+      "count": 527
+    },
+    {
+      "skills": [
+        "javascript",
+        "react",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 1057
+    },
+    {
+      "skills": [
+        "javascript",
+        "react",
+        "vue"
+      ],
+      "k": 3,
+      "count": 229
+    },
+    {
+      "skills": [
+        "javascript",
+        "redux",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 397
+    },
+    {
+      "skills": [
+        "javascript",
+        "redux",
+        "vue"
+      ],
+      "k": 3,
+      "count": 33
+    },
+    {
+      "skills": [
+        "javascript",
+        "typescript",
+        "vue"
+      ],
+      "k": 3,
+      "count": 385
+    },
+    {
+      "skills": [
+        "react",
+        "redux",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 515
+    },
+    {
+      "skills": [
+        "react",
+        "redux",
+        "vue"
+      ],
+      "k": 3,
+      "count": 40
+    },
+    {
+      "skills": [
+        "react",
+        "typescript",
+        "vue"
+      ],
+      "k": 3,
+      "count": 134
+    },
+    {
+      "skills": [
+        "redux",
+        "typescript",
+        "vue"
+      ],
+      "k": 3,
+      "count": 25
+    }
+  ],
+  "compute_seconds": 0.8027159579796717
+}

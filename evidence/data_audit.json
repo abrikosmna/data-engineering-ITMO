@@ -1,0 +1,15 @@
+{
+  "csv_path": "/Users/nikitamokijcuk/Downloads/it_vacancies_2024.csv",
+  "hh_path": "/Users/nikitamokijcuk/Downloads/hh",
+  "recovered_from_s3": true,
+  "supplied_csv_bytes": 173670400,
+  "supplied_csv_nul_bytes": 42336256,
+  "recovered_csv_bytes": 847619384,
+  "csv_rows": 229388,
+  "csv_duplicates": 0,
+  "hh_files": 10000,
+  "hh_overlap": 10000,
+  "hh_added": 0,
+  "canonical_rows": 229388,
+  "canonical_bytes": 63412458
+}

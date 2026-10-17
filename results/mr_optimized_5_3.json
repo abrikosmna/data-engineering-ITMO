@@ -1,0 +1,236 @@
+{
+  "method": "mapreduce_optimized",
+  "stack_size": 5,
+  "vacancies": 6075,
+  "vocabulary": [
+    "javascript",
+    "typescript",
+    "react",
+    "git",
+    "html"
+  ],
+  "chunks": 7,
+  "chunk_rows": 1000,
+  "workers": 2,
+  "mapper_failures": 0,
+  "s3_passes": 1,
+  "buffered_variant_rows": 6075,
+  "events": {
+    "1": 10794,
+    "2": 10439,
+    "3": 5128
+  },
+  "unique": {
+    "1": 5,
+    "2": 10,
+    "3": 10
+  },
+  "counts": [
+    {
+      "skills": [
+        "git"
+      ],
+      "k": 1,
+      "count": 1690
+    },
+    {
+      "skills": [
+        "html"
+      ],
+      "k": 1,
+      "count": 1332
+    },
+    {
+      "skills": [
+        "javascript"
+      ],
+      "k": 1,
+      "count": 3202
+    },
+    {
+      "skills": [
+        "react"
+      ],
+      "k": 1,
+      "count": 2226
+    },
+    {
+      "skills": [
+        "typescript"
+      ],
+      "k": 1,
+      "count": 2344
+    },
+    {
+      "skills": [
+        "git",
+        "html"
+      ],
+      "k": 2,
+      "count": 621
+    },
+    {
+      "skills": [
+        "git",
+        "javascript"
+      ],
+      "k": 2,
+      "count": 1300
+    },
+    {
+      "skills": [
+        "git",
+        "react"
+      ],
+      "k": 2,
+      "count": 798
+    },
+    {
+      "skills": [
+        "git",
+        "typescript"
+      ],
+      "k": 2,
+      "count": 791
+    },
+    {
+      "skills": [
+        "html",
+        "javascript"
+      ],
+      "k": 2,
+      "count": 1062
+    },
+    {
+      "skills": [
+        "html",
+        "react"
+      ],
+      "k": 2,
+      "count": 585
+    },
+    {
+      "skills": [
+        "html",
+        "typescript"
+      ],
+      "k": 2,
+      "count": 541
+    },
+    {
+      "skills": [
+        "javascript",
+        "react"
+      ],
+      "k": 2,
+      "count": 1617
+    },
+    {
+      "skills": [
+        "javascript",
+        "typescript"
+      ],
+      "k": 2,
+      "count": 1657
+    },
+    {
+      "skills": [
+        "react",
+        "typescript"
+      ],
+      "k": 2,
+      "count": 1467
+    },
+    {
+      "skills": [
+        "git",
+        "html",
+        "javascript"
+      ],
+      "k": 3,
+      "count": 512
+    },
+    {
+      "skills": [
+        "git",
+        "html",
+        "react"
+      ],
+      "k": 3,
+      "count": 288
+    },
+    {
+      "skills": [
+        "git",
+        "html",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 253
+    },
+    {
+      "skills": [
+        "git",
+        "javascript",
+        "react"
+      ],
+      "k": 3,
+      "count": 649
+    },
+    {
+      "skills": [
+        "git",
+        "javascript",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 607
+    },
+    {
+      "skills": [
+        "git",
+        "react",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 488
+    },
+    {
+      "skills": [
+        "html",
+        "javascript",
+        "react"
+      ],
+      "k": 3,
+      "count": 475
+    },
+    {
+      "skills": [
+        "html",
+        "javascript",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 447
+    },
+    {
+      "skills": [
+        "html",
+        "react",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 352
+    },
+    {
+      "skills": [
+        "javascript",
+        "react",
+        "typescript"
+      ],
+      "k": 3,
+      "count": 1057
+    }
+  ],
+  "compute_seconds": 1.1729042090009898
+}

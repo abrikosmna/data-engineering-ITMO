@@ -1,0 +1,176 @@
+﻿k,skills,count
+1,css,1117
+1,css3,930
+1,git,1690
+1,html,1332
+1,html5,952
+1,javascript,3202
+1,react,2226
+1,redux,715
+1,typescript,2344
+1,vue,1287
+2,css | css3,156
+2,css | git,510
+2,css | html,844
+2,css | html5,230
+2,css | javascript,911
+2,css | react,492
+2,css | redux,159
+2,css | typescript,495
+2,css | vue,306
+2,css3 | git,498
+2,css3 | html,305
+2,css3 | html5,699
+2,css3 | javascript,753
+2,css3 | react,410
+2,css3 | redux,109
+2,css3 | typescript,415
+2,css3 | vue,314
+2,git | html,621
+2,git | html5,533
+2,git | javascript,1300
+2,git | react,798
+2,git | redux,279
+2,git | typescript,791
+2,git | vue,524
+2,html | html5,223
+2,html | javascript,1062
+2,html | react,585
+2,html | redux,167
+2,html | typescript,541
+2,html | vue,372
+2,html5 | javascript,780
+2,html5 | react,405
+2,html5 | redux,112
+2,html5 | typescript,434
+2,html5 | vue,347
+2,javascript | react,1617
+2,javascript | redux,542
+2,javascript | typescript,1657
+2,javascript | vue,921
+2,react | redux,690
+2,react | typescript,1467
+2,react | vue,288
+2,redux | typescript,529
+2,redux | vue,41
+2,typescript | vue,544
+3,css | css3 | git,89
+3,css | css3 | html,104
+3,css | css3 | html5,129
+3,css | css3 | javascript,142
+3,css | css3 | react,70
+3,css | css3 | redux,22
+3,css | css3 | typescript,57
+3,css | css3 | vue,41
+3,css | git | html,373
+3,css | git | html5,134
+3,css | git | javascript,428
+3,css | git | react,235
+3,css | git | redux,73
+3,css | git | typescript,226
+3,css | git | vue,148
+3,css | html | html5,119
+3,css | html | javascript,690
+3,css | html | react,367
+3,css | html | redux,117
+3,css | html | typescript,351
+3,css | html | vue,221
+3,css | html5 | javascript,201
+3,css | html5 | react,90
+3,css | html5 | redux,27
+3,css | html5 | typescript,86
+3,css | html5 | vue,79
+3,css | javascript | react,403
+3,css | javascript | redux,130
+3,css | javascript | typescript,402
+3,css | javascript | vue,253
+3,css | react | redux,156
+3,css | react | typescript,300
+3,css | react | vue,84
+3,css | redux | typescript,111
+3,css | redux | vue,11
+3,css | typescript | vue,100
+3,css3 | git | html,156
+3,css3 | git | html5,398
+3,css3 | git | javascript,417
+3,css3 | git | react,228
+3,css3 | git | redux,55
+3,css3 | git | typescript,209
+3,css3 | git | vue,180
+3,css3 | html | html5,148
+3,css3 | html | javascript,250
+3,css3 | html | react,136
+3,css3 | html | redux,42
+3,css3 | html | typescript,105
+3,css3 | html | vue,91
+3,css3 | html5 | javascript,569
+3,css3 | html5 | react,293
+3,css3 | html5 | redux,73
+3,css3 | html5 | typescript,311
+3,css3 | html5 | vue,251
+3,css3 | javascript | react,339
+3,css3 | javascript | redux,95
+3,css3 | javascript | typescript,339
+3,css3 | javascript | vue,253
+3,css3 | react | redux,105
+3,css3 | react | typescript,223
+3,css3 | react | vue,106
+3,css3 | redux | typescript,83
+3,css3 | redux | vue,16
+3,css3 | typescript | vue,126
+3,git | html | html5,132
+3,git | html | javascript,512
+3,git | html | react,288
+3,git | html | redux,84
+3,git | html | typescript,253
+3,git | html | vue,182
+3,git | html5 | javascript,452
+3,git | html5 | react,230
+3,git | html5 | redux,69
+3,git | html5 | typescript,228
+3,git | html5 | vue,211
+3,git | javascript | react,649
+3,git | javascript | redux,225
+3,git | javascript | typescript,607
+3,git | javascript | vue,411
+3,git | react | redux,266
+3,git | react | typescript,488
+3,git | react | vue,142
+3,git | redux | typescript,208
+3,git | redux | vue,22
+3,git | typescript | vue,191
+3,html | html5 | javascript,195
+3,html | html5 | react,83
+3,html | html5 | redux,34
+3,html | html5 | typescript,70
+3,html | html5 | vue,75
+3,html | javascript | react,475
+3,html | javascript | redux,135
+3,html | javascript | typescript,447
+3,html | javascript | vue,303
+3,html | react | redux,160
+3,html | react | typescript,352
+3,html | react | vue,104
+3,html | redux | typescript,119
+3,html | redux | vue,19
+3,html | typescript | vue,129
+3,html5 | javascript | react,341
+3,html5 | javascript | redux,98
+3,html5 | javascript | typescript,346
+3,html5 | javascript | vue,289
+3,html5 | react | redux,107
+3,html5 | react | typescript,232
+3,html5 | react | vue,113
+3,html5 | redux | typescript,80
+3,html5 | redux | vue,15
+3,html5 | typescript | vue,135
+3,javascript | react | redux,527
+3,javascript | react | typescript,1057
+3,javascript | react | vue,229
+3,javascript | redux | typescript,397
+3,javascript | redux | vue,33
+3,javascript | typescript | vue,385
+3,react | redux | typescript,515
+3,react | redux | vue,40
+3,react | typescript | vue,134
+3,redux | typescript | vue,25

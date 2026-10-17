@@ -1,0 +1,62 @@
+{
+  "all_rows": 229388,
+  "variant_rows": 6075,
+  "with_skills": 4571,
+  "salary_rub_rows": 2395,
+  "currency_other_rows": 135,
+  "without_salary_rows": 3545,
+  "salary_bounds": {
+    "both_bounds": 1184,
+    "lower_only": 820,
+    "upper_only": 391
+  },
+  "currency": [
+    [
+      null,
+      3545
+    ],
+    [
+      "RUR",
+      2395
+    ],
+    [
+      "USD",
+      117
+    ],
+    [
+      "EUR",
+      15
+    ],
+    [
+      "UZS",
+      2
+    ],
+    [
+      "KZT",
+      1
+    ]
+  ],
+  "gross": [
+    [
+      "false",
+      1855
+    ],
+    [
+      "true",
+      540
+    ]
+  ],
+  "origins": [
+    [
+      "csv",
+      6075
+    ]
+  ],
+  "median_salary_rub": 140000.0,
+  "region_selection": "Top 3 areas by all variant vacancies; no restriction to paid/with skills",
+  "regions": [
+    "Москва",
+    "Санкт-Петербург",
+    "Екатеринбург"
+  ]
+}

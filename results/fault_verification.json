@@ -1,0 +1,16 @@
+{
+  "injected_mapper_errors": 1,
+  "observed_mapper_errors": 1,
+  "retry_limit": 1,
+  "counts_equal": true,
+  "vacancies_equal": true,
+  "profile": {
+    "method": "mr_fault",
+    "stack_size": 20,
+    "attempt": 1,
+    "wall_seconds": 1.2811720829922706,
+    "peak_tree_rss_mib": 145.375,
+    "samples": 82
+  },
+  "failure_type": "task exception before result commit; worker process remains alive; executor termination is not tested"
+}
