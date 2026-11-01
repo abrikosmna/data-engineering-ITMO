@@ -1,0 +1,91 @@
+coord-a-1  | {"time": "2026-10-31T15:06:34.048215+00:00", "timestamp": 1793459194.0482302, "monotonic": 66344.011992083, "event": "ready", "session_timeout_ms": 10000, "fencing": 0, "session_id": 216177121325613061}
+coord-a-1  | {"time": "2026-10-31T15:06:34.053659+00:00", "timestamp": 1793459194.0536673, "monotonic": 66344.017429125, "event": "became_leader", "epoch": 1}
+coord-a-1  | {"time": "2026-10-31T15:06:34.984678+00:00", "timestamp": 1793459194.9846864, "monotonic": 66344.948204708, "event": "resumed_checkpoint", "next_chunk": 0, "vacancies": 0, "contract": "6b5a9270cf16f3c059548d096db1031096ba7f0f10b721df76d0612a23d04e10"}
+coord-a-1  | {"time": "2026-10-31T15:06:34.998836+00:00", "timestamp": 1793459194.998857, "monotonic": 66344.962375291, "event": "checkpoint_saved", "next_chunk": 1, "vacancies": 100, "epoch": 1}
+coord-a-1  | {"time": "2026-10-31T15:06:35.362161+00:00", "timestamp": 1793459195.362175, "monotonic": 66345.325693208, "event": "checkpoint_saved", "next_chunk": 2, "vacancies": 200, "epoch": 1}
+coord-a-1  | {"time": "2026-10-31T15:06:35.763785+00:00", "timestamp": 1793459195.763809, "monotonic": 66345.7273275, "event": "checkpoint_saved", "next_chunk": 3, "vacancies": 300, "epoch": 1}
+coord-a-1  | Connection dropped: socket connection broken
+coord-a-1  | Transition to CONNECTING
+coord-a-1  | {"time": "2026-10-31T15:07:16.309009+00:00", "timestamp": 1793459236.3090794, "monotonic": 66386.269747311, "event": "session", "state": "SUSPENDED"}
+coord-a-1  | Session has expired
+coord-a-1  | {"time": "2026-10-31T15:07:16.325909+00:00", "timestamp": 1793459236.325923, "monotonic": 66386.286590894, "event": "session", "state": "LOST"}
+coord-a-1  | Traceback (most recent call last):
+coord-a-1  |   File "/app/hw4/coordinator.py", line 108, in <module>
+coord-a-1  |     main()
+coord-a-1  |   File "/app/hw4/coordinator.py", line 74, in main
+coord-a-1  |     commit(tx)
+coord-a-1  |   File "/app/hw4/shared.py", line 47, in commit
+coord-a-1  |     results = tx.commit()
+coord-a-1  |               ^^^^^^^^^^^
+coord-a-1  |   File "/usr/local/lib/python3.12/site-packages/kazoo/client.py", line 1782, in commit
+coord-a-1  | {"time": "2026-10-31T15:07:16.342938+00:00", "timestamp": 1793459236.342951, "monotonic": 66386.303619228, "event": "session", "state": "CONNECTED"}
+coord-a-1  |     return self.commit_async().get()
+coord-a-1  |            ^^^^^^^^^^^^^^^^^^^^^^^^^
+coord-a-1  |   File "/usr/local/lib/python3.12/site-packages/kazoo/handlers/utils.py", line 78, in get
+coord-a-1  |     raise self._exception
+coord-a-1  | kazoo.exceptions.SessionExpiredError
+coord-b-1  | {"time": "2026-10-31T15:06:34.048218+00:00", "timestamp": 1793459194.048229, "monotonic": 66344.011990583, "event": "ready", "session_timeout_ms": 10000, "fencing": 0, "session_id": 216177121325613062}
+coord-b-1  | {"time": "2026-10-31T15:06:48.081261+00:00", "timestamp": 1793459208.0813413, "monotonic": 66358.044860714, "event": "became_leader", "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:06:49.023094+00:00", "timestamp": 1793459209.0231102, "monotonic": 66358.986628465, "event": "resumed_checkpoint", "next_chunk": 3, "vacancies": 300, "contract": "6b5a9270cf16f3c059548d096db1031096ba7f0f10b721df76d0612a23d04e10"}
+coord-b-1  | {"time": "2026-10-31T15:06:49.041502+00:00", "timestamp": 1793459209.0415246, "monotonic": 66359.005043131, "event": "checkpoint_saved", "next_chunk": 4, "vacancies": 400, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:06:49.431725+00:00", "timestamp": 1793459209.4317386, "monotonic": 66359.39525684, "event": "checkpoint_saved", "next_chunk": 5, "vacancies": 500, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:06:49.810961+00:00", "timestamp": 1793459209.8109915, "monotonic": 66359.774509965, "event": "checkpoint_saved", "next_chunk": 6, "vacancies": 600, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:06:50.181150+00:00", "timestamp": 1793459210.1811662, "monotonic": 66360.144684507, "event": "checkpoint_saved", "next_chunk": 7, "vacancies": 700, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:06:50.541087+00:00", "timestamp": 1793459210.5411, "monotonic": 66360.504618424, "event": "checkpoint_saved", "next_chunk": 8, "vacancies": 800, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:06:50.913889+00:00", "timestamp": 1793459210.9139357, "monotonic": 66360.877454091, "event": "checkpoint_saved", "next_chunk": 9, "vacancies": 900, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:06:51.286046+00:00", "timestamp": 1793459211.2860744, "monotonic": 66361.249594174, "event": "checkpoint_saved", "next_chunk": 10, "vacancies": 1000, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:06:51.665213+00:00", "timestamp": 1793459211.6652431, "monotonic": 66361.628761799, "event": "checkpoint_saved", "next_chunk": 11, "vacancies": 1100, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:06:52.039703+00:00", "timestamp": 1793459212.0397515, "monotonic": 66362.00327005, "event": "checkpoint_saved", "next_chunk": 12, "vacancies": 1200, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:06:52.428753+00:00", "timestamp": 1793459212.4287865, "monotonic": 66362.39230505, "event": "checkpoint_saved", "next_chunk": 13, "vacancies": 1300, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:06:52.831174+00:00", "timestamp": 1793459212.8311908, "monotonic": 66362.794709008, "event": "checkpoint_saved", "next_chunk": 14, "vacancies": 1400, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:06:53.195415+00:00", "timestamp": 1793459213.1954274, "monotonic": 66363.15894555, "event": "checkpoint_saved", "next_chunk": 15, "vacancies": 1500, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:06:53.578920+00:00", "timestamp": 1793459213.5789456, "monotonic": 66363.542464175, "event": "checkpoint_saved", "next_chunk": 16, "vacancies": 1600, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:06:53.959606+00:00", "timestamp": 1793459213.9596508, "monotonic": 66363.923169342, "event": "checkpoint_saved", "next_chunk": 17, "vacancies": 1700, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:06:54.341518+00:00", "timestamp": 1793459214.3415675, "monotonic": 66364.305085801, "event": "checkpoint_saved", "next_chunk": 18, "vacancies": 1800, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:06:54.741886+00:00", "timestamp": 1793459214.7419128, "monotonic": 66364.705431551, "event": "checkpoint_saved", "next_chunk": 19, "vacancies": 1900, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:06:55.133304+00:00", "timestamp": 1793459215.1333325, "monotonic": 66365.096851009, "event": "checkpoint_saved", "next_chunk": 20, "vacancies": 2000, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:06:55.506707+00:00", "timestamp": 1793459215.5067375, "monotonic": 66365.470255676, "event": "checkpoint_saved", "next_chunk": 21, "vacancies": 2100, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:06:55.880667+00:00", "timestamp": 1793459215.8806982, "monotonic": 66365.844216676, "event": "checkpoint_saved", "next_chunk": 22, "vacancies": 2200, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:06:56.240400+00:00", "timestamp": 1793459216.2404153, "monotonic": 66366.203933677, "event": "checkpoint_saved", "next_chunk": 23, "vacancies": 2300, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:06:56.621265+00:00", "timestamp": 1793459216.6213195, "monotonic": 66366.584838135, "event": "checkpoint_saved", "next_chunk": 24, "vacancies": 2400, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:06:56.994200+00:00", "timestamp": 1793459216.9942307, "monotonic": 66366.957749635, "event": "checkpoint_saved", "next_chunk": 25, "vacancies": 2500, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:06:57.366296+00:00", "timestamp": 1793459217.366342, "monotonic": 66367.329860552, "event": "checkpoint_saved", "next_chunk": 26, "vacancies": 2600, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:06:57.732843+00:00", "timestamp": 1793459217.7328548, "monotonic": 66367.696372969, "event": "checkpoint_saved", "next_chunk": 27, "vacancies": 2700, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:06:58.110330+00:00", "timestamp": 1793459218.110392, "monotonic": 66368.073910511, "event": "checkpoint_saved", "next_chunk": 28, "vacancies": 2800, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:06:58.469023+00:00", "timestamp": 1793459218.469035, "monotonic": 66368.432553261, "event": "checkpoint_saved", "next_chunk": 29, "vacancies": 2900, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:06:58.831926+00:00", "timestamp": 1793459218.831954, "monotonic": 66368.795472303, "event": "checkpoint_saved", "next_chunk": 30, "vacancies": 3000, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:06:59.194359+00:00", "timestamp": 1793459219.194374, "monotonic": 66369.157892636, "event": "checkpoint_saved", "next_chunk": 31, "vacancies": 3100, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:06:59.568794+00:00", "timestamp": 1793459219.5688438, "monotonic": 66369.532362387, "event": "checkpoint_saved", "next_chunk": 32, "vacancies": 3200, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:06:59.930628+00:00", "timestamp": 1793459219.930642, "monotonic": 66369.894160387, "event": "checkpoint_saved", "next_chunk": 33, "vacancies": 3300, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:07:00.302605+00:00", "timestamp": 1793459220.3026633, "monotonic": 66370.266182262, "event": "checkpoint_saved", "next_chunk": 34, "vacancies": 3400, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:07:00.678570+00:00", "timestamp": 1793459220.6786008, "monotonic": 66370.642119429, "event": "checkpoint_saved", "next_chunk": 35, "vacancies": 3500, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:07:01.056878+00:00", "timestamp": 1793459221.0569258, "monotonic": 66371.020444096, "event": "checkpoint_saved", "next_chunk": 36, "vacancies": 3600, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:07:01.424016+00:00", "timestamp": 1793459221.424029, "monotonic": 66371.387547762, "event": "checkpoint_saved", "next_chunk": 37, "vacancies": 3700, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:07:01.796739+00:00", "timestamp": 1793459221.7967713, "monotonic": 66371.760290096, "event": "checkpoint_saved", "next_chunk": 38, "vacancies": 3800, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:07:02.167932+00:00", "timestamp": 1793459222.167979, "monotonic": 66372.131497554, "event": "checkpoint_saved", "next_chunk": 39, "vacancies": 3900, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:07:02.544005+00:00", "timestamp": 1793459222.5440533, "monotonic": 66372.507571846, "event": "checkpoint_saved", "next_chunk": 40, "vacancies": 4000, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:07:02.928141+00:00", "timestamp": 1793459222.9281735, "monotonic": 66372.89169218, "event": "checkpoint_saved", "next_chunk": 41, "vacancies": 4100, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:07:03.309031+00:00", "timestamp": 1793459223.3090816, "monotonic": 66373.272600222, "event": "checkpoint_saved", "next_chunk": 42, "vacancies": 4200, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:07:03.682693+00:00", "timestamp": 1793459223.6827416, "monotonic": 66373.646260305, "event": "checkpoint_saved", "next_chunk": 43, "vacancies": 4300, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:07:04.041168+00:00", "timestamp": 1793459224.04118, "monotonic": 66374.00469818, "event": "checkpoint_saved", "next_chunk": 44, "vacancies": 4400, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:07:04.411603+00:00", "timestamp": 1793459224.4116287, "monotonic": 66374.37229693, "event": "checkpoint_saved", "next_chunk": 45, "vacancies": 4500, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:07:04.787212+00:00", "timestamp": 1793459224.7872567, "monotonic": 66374.747924847, "event": "checkpoint_saved", "next_chunk": 46, "vacancies": 4600, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:07:05.157291+00:00", "timestamp": 1793459225.1573253, "monotonic": 66375.117993306, "event": "checkpoint_saved", "next_chunk": 47, "vacancies": 4700, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:07:05.532651+00:00", "timestamp": 1793459225.5326993, "monotonic": 66375.493367514, "event": "checkpoint_saved", "next_chunk": 48, "vacancies": 4800, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:07:05.915284+00:00", "timestamp": 1793459225.9153593, "monotonic": 66375.876027723, "event": "checkpoint_saved", "next_chunk": 49, "vacancies": 4900, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:07:06.287484+00:00", "timestamp": 1793459226.2875237, "monotonic": 66376.248192056, "event": "checkpoint_saved", "next_chunk": 50, "vacancies": 5000, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:07:06.654038+00:00", "timestamp": 1793459226.654065, "monotonic": 66376.61473289, "event": "checkpoint_saved", "next_chunk": 51, "vacancies": 5100, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:07:07.031661+00:00", "timestamp": 1793459227.0316854, "monotonic": 66376.992353223, "event": "checkpoint_saved", "next_chunk": 52, "vacancies": 5200, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:07:07.409636+00:00", "timestamp": 1793459227.4096942, "monotonic": 66377.370362223, "event": "checkpoint_saved", "next_chunk": 53, "vacancies": 5300, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:07:07.770931+00:00", "timestamp": 1793459227.7709444, "monotonic": 66377.731611973, "event": "checkpoint_saved", "next_chunk": 54, "vacancies": 5400, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:07:08.151649+00:00", "timestamp": 1793459228.1516876, "monotonic": 66378.112356474, "event": "checkpoint_saved", "next_chunk": 55, "vacancies": 5500, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:07:08.525723+00:00", "timestamp": 1793459228.5257604, "monotonic": 66378.48642864, "event": "checkpoint_saved", "next_chunk": 56, "vacancies": 5600, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:07:08.938865+00:00", "timestamp": 1793459228.9388862, "monotonic": 66378.899553932, "event": "checkpoint_saved", "next_chunk": 57, "vacancies": 5700, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:07:09.298212+00:00", "timestamp": 1793459229.298223, "monotonic": 66379.258890933, "event": "checkpoint_saved", "next_chunk": 58, "vacancies": 5800, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:07:09.662064+00:00", "timestamp": 1793459229.662077, "monotonic": 66379.622745016, "event": "checkpoint_saved", "next_chunk": 59, "vacancies": 5900, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:07:10.033168+00:00", "timestamp": 1793459230.033209, "monotonic": 66379.993877183, "event": "checkpoint_saved", "next_chunk": 60, "vacancies": 6000, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:07:10.410217+00:00", "timestamp": 1793459230.410246, "monotonic": 66380.370914183, "event": "checkpoint_saved", "next_chunk": 61, "vacancies": 6075, "epoch": 2}
+coord-b-1  | {"time": "2026-10-31T15:07:10.792518+00:00", "timestamp": 1793459230.7925467, "monotonic": 66380.753215183, "event": "verified_hw3", "vacancies": 6075, "events": {"1": 19307, "2": 41058, "3": 58679}, "unique": {"1": 20, "2": 190, "3": 1120}, "all_counts_equal": true, "baselines": ["MapReduce", "DuckDB"], "source_sha256": "38169c0f62d33a4ab0480f86298bed59b8c2e479a66759844aca40dd3da619df"}
+coord-b-1  | {"time": "2026-10-31T15:07:10.834754+00:00", "timestamp": 1793459230.8347676, "monotonic": 66380.795435642, "event": "published", "message": "записал результат", "ok": true, "pointer": {"artifact": "/app/hw4/artifacts/unfenced/b20613fd963257bd0df18049f538bdc1514e09a54eb70ede5426965ed8f2fdec.json", "coordinator": "coord-b", "epoch": 2, "run": "unfenced", "sha256": "b20613fd963257bd0df18049f538bdc1514e09a54eb70ede5426965ed8f2fdec"}, "pointer_version": 1}
+coord-b-1  | {"time": "2026-10-31T15:07:10.841082+00:00", "timestamp": 1793459230.8410943, "monotonic": 66380.801762142, "event": "session", "state": "LOST"}
+coord-b-1  | {"time": "2026-10-31T15:07:10.842556+00:00", "timestamp": 1793459230.8425667, "monotonic": 66380.803234725, "event": "finished"}

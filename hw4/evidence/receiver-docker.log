@@ -1,0 +1,36 @@
+receiver-1  | Connection dropped: socket connection error: Connection refused
+receiver-1  | Connection dropped: socket connection error: Connection refused
+receiver-1  | Connection dropped: socket connection error: Connection refused
+receiver-1  | Connection dropped: socket connection error: Connection refused
+receiver-1  | Connection dropped: socket connection error: Connection refused
+receiver-1  | Connection dropped: socket connection error: Connection refused
+receiver-1  | Connection dropped: socket connection broken
+receiver-1  | Connection dropped: socket connection broken
+receiver-1  | Connection dropped: socket connection broken
+receiver-1  | {"time": "2026-10-31T15:00:36.058023+00:00", "timestamp": 1793458836.0580387, "monotonic": 65986.025714003, "event": "ready"}
+receiver-1  | Connection dropped: socket connection broken
+receiver-1  | Transition to CONNECTING
+receiver-1  | Connection dropped: socket connection broken
+receiver-1  | Connection dropped: socket connection broken
+receiver-1  | Cannot resolve zk3: [Errno -3] Temporary failure in name resolution
+receiver-1  | Connection dropped: socket connection broken
+receiver-1  | Connection dropped: socket connection error: None
+receiver-1  | Connection dropped: socket connection broken
+receiver-1  | Transition to CONNECTING
+receiver-1  | Connection dropped: socket connection broken
+receiver-1  | Transition to CONNECTING
+receiver-1  | Connection dropped: socket connection broken
+receiver-1  | Cannot resolve zk2: [Errno -3] Temporary failure in name resolution
+receiver-1  | Connection dropped: socket connection broken
+receiver-1  | Connection dropped: socket connection broken
+receiver-1  | Transition to CONNECTING
+receiver-1  | Cannot resolve zk3: [Errno -3] Temporary failure in name resolution
+receiver-1  | Connection dropped: socket connection broken
+receiver-1  | Connection dropped: socket connection error: None
+receiver-1  | {"time": "2026-10-31T15:05:08.423508+00:00", "timestamp": 1793459108.423533, "monotonic": 66258.387582085, "event": "accepted", "run": "unfenced", "coordinator": "coord-a", "epoch": 2, "sha256": "b20613fd963257bd0df18049f538bdc1514e09a54eb70ede5426965ed8f2fdec", "artifact": "/app/hw4/artifacts/unfenced/b20613fd963257bd0df18049f538bdc1514e09a54eb70ede5426965ed8f2fdec.json", "pointer_version": 1}
+receiver-1  | {"time": "2026-10-31T15:05:36.370555+00:00", "timestamp": 1793459136.3705854, "monotonic": 66286.334507306, "event": "accepted", "run": "unfenced", "coordinator": "coord-b", "epoch": 1, "sha256": "b20613fd963257bd0df18049f538bdc1514e09a54eb70ede5426965ed8f2fdec", "artifact": "/app/hw4/artifacts/unfenced/b20613fd963257bd0df18049f538bdc1514e09a54eb70ede5426965ed8f2fdec.json", "pointer_version": 2}
+receiver-1  | {"time": "2026-10-31T15:07:10.832452+00:00", "timestamp": 1793459230.8324792, "monotonic": 66380.7931471, "event": "accepted", "run": "unfenced", "coordinator": "coord-b", "epoch": 2, "sha256": "b20613fd963257bd0df18049f538bdc1514e09a54eb70ede5426965ed8f2fdec", "artifact": "/app/hw4/artifacts/unfenced/b20613fd963257bd0df18049f538bdc1514e09a54eb70ede5426965ed8f2fdec.json", "pointer_version": 1}
+receiver-1  | {"time": "2026-10-31T15:09:12.749243+00:00", "timestamp": 1793459352.749261, "monotonic": 66502.710200447, "event": "accepted", "run": "unfenced", "coordinator": "coord-a", "epoch": 2, "sha256": "b20613fd963257bd0df18049f538bdc1514e09a54eb70ede5426965ed8f2fdec", "artifact": "/app/hw4/artifacts/unfenced/b20613fd963257bd0df18049f538bdc1514e09a54eb70ede5426965ed8f2fdec.json", "pointer_version": 1}
+receiver-1  | {"time": "2026-10-31T15:09:40.486464+00:00", "timestamp": 1793459380.4864783, "monotonic": 66530.446728627, "event": "accepted", "run": "unfenced", "coordinator": "coord-b", "epoch": 1, "sha256": "b20613fd963257bd0df18049f538bdc1514e09a54eb70ede5426965ed8f2fdec", "artifact": "/app/hw4/artifacts/unfenced/b20613fd963257bd0df18049f538bdc1514e09a54eb70ede5426965ed8f2fdec.json", "pointer_version": 2}
+receiver-1  | {"time": "2026-10-31T16:24:16.696017+00:00", "timestamp": 1793463856.6960278, "monotonic": 66566.656692519, "event": "accepted", "run": "fenced", "coordinator": "coord-a", "epoch": 2, "sha256": "b20613fd963257bd0df18049f538bdc1514e09a54eb70ede5426965ed8f2fdec", "artifact": "/app/hw4/artifacts/fenced/b20613fd963257bd0df18049f538bdc1514e09a54eb70ede5426965ed8f2fdec.json", "pointer_version": 1}
+receiver-1  | {"time": "2026-10-31T16:24:45.411659+00:00", "timestamp": 1793463885.4116774, "monotonic": 66595.37108899, "event": "rejected", "error": "BadVersionError", "detail": ""}

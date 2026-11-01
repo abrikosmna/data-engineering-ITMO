@@ -1,0 +1,72 @@
+name: itmo-zk-hw4
+x-zk: &zk
+  image: zookeeper:3.9.6-jre-17
+  restart: unless-stopped
+  environment: &zk-env
+    ZOO_SERVERS: server.1=zk1:2888:3888;2181 server.2=zk2:2888:3888;2181 server.3=zk3:2888:3888;2181
+    ZOO_TICK_TIME: 2000
+    ZOO_INIT_LIMIT: 10
+    ZOO_SYNC_LIMIT: 5
+    ZOO_4LW_COMMANDS_WHITELIST: ruok,srvr,mntr,conf
+    JVMFLAGS: -Xms64m -Xmx128m -XX:ActiveProcessorCount=2
+services:
+  zk1:
+    <<: *zk
+    hostname: zk1
+    environment:
+      <<: *zk-env
+      ZOO_MY_ID: 1
+    ports: ["127.0.0.1:22181:2181"]
+    volumes: [zk1-data:/data, zk1-log:/datalog]
+  zk2:
+    <<: *zk
+    hostname: zk2
+    environment:
+      <<: *zk-env
+      ZOO_MY_ID: 2
+    ports: ["127.0.0.1:22182:2181"]
+    volumes: [zk2-data:/data, zk2-log:/datalog]
+  zk3:
+    <<: *zk
+    hostname: zk3
+    environment:
+      <<: *zk-env
+      ZOO_MY_ID: 3
+    ports: ["127.0.0.1:22183:2181"]
+    volumes: [zk3-data:/data, zk3-log:/datalog]
+  receiver:
+    build:
+      context: ..
+      dockerfile: hw4/Dockerfile
+    image: itmo-zk-coordinator:hw4
+    command: [python, hw4/receiver.py]
+    environment: &app-env
+      ZK_HOSTS: zk1:2181,zk2:2181,zk3:2181
+    volumes: &app-volumes
+      - ./logs:/app/hw4/logs
+      - ./artifacts:/app/hw4/artifacts
+      - ../data/vacancies.csv:/app/data/vacancies.csv:ro
+      - ../results:/app/baseline:ro
+  coord-a:
+    image: itmo-zk-coordinator:hw4
+    command: [python, hw4/coordinator.py, --name, coord-a]
+    environment:
+      <<: *app-env
+      RUN_ID: ${RUN_ID:-unfenced}
+      FENCING: ${FENCING:-0}
+    volumes: *app-volumes
+  coord-b:
+    image: itmo-zk-coordinator:hw4
+    command: [python, hw4/coordinator.py, --name, coord-b]
+    environment:
+      <<: *app-env
+      RUN_ID: ${RUN_ID:-unfenced}
+      FENCING: ${FENCING:-0}
+    volumes: *app-volumes
+volumes:
+  zk1-data:
+  zk1-log:
+  zk2-data:
+  zk2-log:
+  zk3-data:
+  zk3-log:

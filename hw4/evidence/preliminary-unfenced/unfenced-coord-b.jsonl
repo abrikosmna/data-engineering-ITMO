@@ -1,0 +1,71 @@
+{"time": "2026-10-31T15:04:32.262664+00:00", "timestamp": 1793459072.2626767, "monotonic": 66222.228339736, "event": "ready", "session_timeout_ms": 10000, "fencing": 0, "session_id": 72061933275316227}
+{"time": "2026-10-31T15:04:32.269140+00:00", "timestamp": 1793459072.2691467, "monotonic": 66222.234809569, "event": "became_leader", "epoch": 1}
+{"time": "2026-10-31T15:04:33.253279+00:00", "timestamp": 1793459073.2533057, "monotonic": 66223.218968153, "event": "resumed_checkpoint", "next_chunk": 0, "vacancies": 0, "contract": "6b5a9270cf16f3c059548d096db1031096ba7f0f10b721df76d0612a23d04e10"}
+{"time": "2026-10-31T15:04:33.289328+00:00", "timestamp": 1793459073.289355, "monotonic": 66223.255017653, "event": "checkpoint_saved", "next_chunk": 1, "vacancies": 100, "epoch": 1}
+{"time": "2026-10-31T15:04:33.683834+00:00", "timestamp": 1793459073.6838465, "monotonic": 66223.649508987, "event": "checkpoint_saved", "next_chunk": 2, "vacancies": 200, "epoch": 1}
+{"time": "2026-10-31T15:04:34.058921+00:00", "timestamp": 1793459074.0589492, "monotonic": 66224.024612195, "event": "checkpoint_saved", "next_chunk": 3, "vacancies": 300, "epoch": 1}
+{"time": "2026-10-31T15:05:14.715662+00:00", "timestamp": 1793459114.7156737, "monotonic": 66264.679722172, "event": "session", "state": "SUSPENDED"}
+{"time": "2026-10-31T15:05:14.714652+00:00", "timestamp": 1793459114.7148392, "monotonic": 66264.678891088, "event": "checkpoint_saved", "next_chunk": 4, "vacancies": 400, "epoch": 1}
+{"time": "2026-10-31T15:05:14.724166+00:00", "timestamp": 1793459114.7241762, "monotonic": 66264.688224713, "event": "session", "state": "LOST"}
+{"time": "2026-10-31T15:05:14.734487+00:00", "timestamp": 1793459114.7344987, "monotonic": 66264.698547505, "event": "session", "state": "CONNECTED"}
+{"time": "2026-10-31T15:05:15.126595+00:00", "timestamp": 1793459115.126651, "monotonic": 66265.090699589, "event": "stale_checkpoint_skipped", "next_chunk": 5, "epoch": 1}
+{"time": "2026-10-31T15:05:15.501302+00:00", "timestamp": 1793459115.501361, "monotonic": 66265.465410255, "event": "stale_checkpoint_skipped", "next_chunk": 6, "epoch": 1}
+{"time": "2026-10-31T15:05:15.860044+00:00", "timestamp": 1793459115.8600624, "monotonic": 66265.824110964, "event": "stale_checkpoint_skipped", "next_chunk": 7, "epoch": 1}
+{"time": "2026-10-31T15:05:16.217325+00:00", "timestamp": 1793459116.2173355, "monotonic": 66266.181384006, "event": "stale_checkpoint_skipped", "next_chunk": 8, "epoch": 1}
+{"time": "2026-10-31T15:05:16.583347+00:00", "timestamp": 1793459116.5833683, "monotonic": 66266.547417214, "event": "stale_checkpoint_skipped", "next_chunk": 9, "epoch": 1}
+{"time": "2026-10-31T15:05:16.944301+00:00", "timestamp": 1793459116.9443228, "monotonic": 66266.908371465, "event": "stale_checkpoint_skipped", "next_chunk": 10, "epoch": 1}
+{"time": "2026-10-31T15:05:17.301520+00:00", "timestamp": 1793459117.3015363, "monotonic": 66267.265584715, "event": "stale_checkpoint_skipped", "next_chunk": 11, "epoch": 1}
+{"time": "2026-10-31T15:05:17.659423+00:00", "timestamp": 1793459117.6594553, "monotonic": 66267.623503965, "event": "stale_checkpoint_skipped", "next_chunk": 12, "epoch": 1}
+{"time": "2026-10-31T15:05:18.022669+00:00", "timestamp": 1793459118.0227125, "monotonic": 66267.986761257, "event": "stale_checkpoint_skipped", "next_chunk": 13, "epoch": 1}
+{"time": "2026-10-31T15:05:18.396093+00:00", "timestamp": 1793459118.3961606, "monotonic": 66268.360209465, "event": "stale_checkpoint_skipped", "next_chunk": 14, "epoch": 1}
+{"time": "2026-10-31T15:05:18.756292+00:00", "timestamp": 1793459118.7563255, "monotonic": 66268.720374549, "event": "stale_checkpoint_skipped", "next_chunk": 15, "epoch": 1}
+{"time": "2026-10-31T15:05:19.158379+00:00", "timestamp": 1793459119.15839, "monotonic": 66269.122438549, "event": "stale_checkpoint_skipped", "next_chunk": 16, "epoch": 1}
+{"time": "2026-10-31T15:05:19.529813+00:00", "timestamp": 1793459119.5298495, "monotonic": 66269.493898424, "event": "stale_checkpoint_skipped", "next_chunk": 17, "epoch": 1}
+{"time": "2026-10-31T15:05:19.907501+00:00", "timestamp": 1793459119.9075477, "monotonic": 66269.871596424, "event": "stale_checkpoint_skipped", "next_chunk": 18, "epoch": 1}
+{"time": "2026-10-31T15:05:20.286117+00:00", "timestamp": 1793459120.2861624, "monotonic": 66270.250211008, "event": "stale_checkpoint_skipped", "next_chunk": 19, "epoch": 1}
+{"time": "2026-10-31T15:05:20.657718+00:00", "timestamp": 1793459120.6577415, "monotonic": 66270.62179055, "event": "stale_checkpoint_skipped", "next_chunk": 20, "epoch": 1}
+{"time": "2026-10-31T15:05:21.068585+00:00", "timestamp": 1793459121.0686135, "monotonic": 66271.032662216, "event": "stale_checkpoint_skipped", "next_chunk": 21, "epoch": 1}
+{"time": "2026-10-31T15:05:21.426461+00:00", "timestamp": 1793459121.4264746, "monotonic": 66271.390523217, "event": "stale_checkpoint_skipped", "next_chunk": 22, "epoch": 1}
+{"time": "2026-10-31T15:05:21.792137+00:00", "timestamp": 1793459121.7921598, "monotonic": 66271.756208425, "event": "stale_checkpoint_skipped", "next_chunk": 23, "epoch": 1}
+{"time": "2026-10-31T15:05:22.160925+00:00", "timestamp": 1793459122.160991, "monotonic": 66272.125039634, "event": "stale_checkpoint_skipped", "next_chunk": 24, "epoch": 1}
+{"time": "2026-10-31T15:05:22.518560+00:00", "timestamp": 1793459122.518567, "monotonic": 66272.482615675, "event": "stale_checkpoint_skipped", "next_chunk": 25, "epoch": 1}
+{"time": "2026-10-31T15:05:22.889077+00:00", "timestamp": 1793459122.889113, "monotonic": 66272.853161509, "event": "stale_checkpoint_skipped", "next_chunk": 26, "epoch": 1}
+{"time": "2026-10-31T15:05:23.265276+00:00", "timestamp": 1793459123.2653255, "monotonic": 66273.229374884, "event": "stale_checkpoint_skipped", "next_chunk": 27, "epoch": 1}
+{"time": "2026-10-31T15:05:23.639696+00:00", "timestamp": 1793459123.6397507, "monotonic": 66273.603799801, "event": "stale_checkpoint_skipped", "next_chunk": 28, "epoch": 1}
+{"time": "2026-10-31T15:05:24.013022+00:00", "timestamp": 1793459124.0130734, "monotonic": 66273.977122426, "event": "stale_checkpoint_skipped", "next_chunk": 29, "epoch": 1}
+{"time": "2026-10-31T15:05:24.397361+00:00", "timestamp": 1793459124.3974092, "monotonic": 66274.36145801, "event": "stale_checkpoint_skipped", "next_chunk": 30, "epoch": 1}
+{"time": "2026-10-31T15:05:24.771185+00:00", "timestamp": 1793459124.7712135, "monotonic": 66274.735262343, "event": "stale_checkpoint_skipped", "next_chunk": 31, "epoch": 1}
+{"time": "2026-10-31T15:05:25.144342+00:00", "timestamp": 1793459125.144372, "monotonic": 66275.108420677, "event": "stale_checkpoint_skipped", "next_chunk": 32, "epoch": 1}
+{"time": "2026-10-31T15:05:25.519631+00:00", "timestamp": 1793459125.5196757, "monotonic": 66275.483724385, "event": "stale_checkpoint_skipped", "next_chunk": 33, "epoch": 1}
+{"time": "2026-10-31T15:05:25.896552+00:00", "timestamp": 1793459125.8966005, "monotonic": 66275.860649177, "event": "stale_checkpoint_skipped", "next_chunk": 34, "epoch": 1}
+{"time": "2026-10-31T15:05:26.272871+00:00", "timestamp": 1793459126.2729065, "monotonic": 66276.236955344, "event": "stale_checkpoint_skipped", "next_chunk": 35, "epoch": 1}
+{"time": "2026-10-31T15:05:26.640379+00:00", "timestamp": 1793459126.6404037, "monotonic": 66276.604452636, "event": "stale_checkpoint_skipped", "next_chunk": 36, "epoch": 1}
+{"time": "2026-10-31T15:05:26.999997+00:00", "timestamp": 1793459127.0000153, "monotonic": 66276.964064094, "event": "stale_checkpoint_skipped", "next_chunk": 37, "epoch": 1}
+{"time": "2026-10-31T15:05:27.370824+00:00", "timestamp": 1793459127.370848, "monotonic": 66277.334896511, "event": "stale_checkpoint_skipped", "next_chunk": 38, "epoch": 1}
+{"time": "2026-10-31T15:05:27.730766+00:00", "timestamp": 1793459127.730777, "monotonic": 66277.694825678, "event": "stale_checkpoint_skipped", "next_chunk": 39, "epoch": 1}
+{"time": "2026-10-31T15:05:28.104329+00:00", "timestamp": 1793459128.1043806, "monotonic": 66278.068429553, "event": "stale_checkpoint_skipped", "next_chunk": 40, "epoch": 1}
+{"time": "2026-10-31T15:05:28.470883+00:00", "timestamp": 1793459128.4709053, "monotonic": 66278.434954012, "event": "stale_checkpoint_skipped", "next_chunk": 41, "epoch": 1}
+{"time": "2026-10-31T15:05:28.837732+00:00", "timestamp": 1793459128.837743, "monotonic": 66278.801791679, "event": "stale_checkpoint_skipped", "next_chunk": 42, "epoch": 1}
+{"time": "2026-10-31T15:05:29.207812+00:00", "timestamp": 1793459129.2078576, "monotonic": 66279.171906679, "event": "stale_checkpoint_skipped", "next_chunk": 43, "epoch": 1}
+{"time": "2026-10-31T15:05:29.581518+00:00", "timestamp": 1793459129.5815742, "monotonic": 66279.545623554, "event": "stale_checkpoint_skipped", "next_chunk": 44, "epoch": 1}
+{"time": "2026-10-31T15:05:29.961298+00:00", "timestamp": 1793459129.9613311, "monotonic": 66279.925379971, "event": "stale_checkpoint_skipped", "next_chunk": 45, "epoch": 1}
+{"time": "2026-10-31T15:05:30.325178+00:00", "timestamp": 1793459130.3252032, "monotonic": 66280.289251888, "event": "stale_checkpoint_skipped", "next_chunk": 46, "epoch": 1}
+{"time": "2026-10-31T15:05:30.697448+00:00", "timestamp": 1793459130.6974914, "monotonic": 66280.661540138, "event": "stale_checkpoint_skipped", "next_chunk": 47, "epoch": 1}
+{"time": "2026-10-31T15:05:31.073131+00:00", "timestamp": 1793459131.0731785, "monotonic": 66281.037227555, "event": "stale_checkpoint_skipped", "next_chunk": 48, "epoch": 1}
+{"time": "2026-10-31T15:05:31.455307+00:00", "timestamp": 1793459131.4553676, "monotonic": 66281.419417013, "event": "stale_checkpoint_skipped", "next_chunk": 49, "epoch": 1}
+{"time": "2026-10-31T15:05:31.824531+00:00", "timestamp": 1793459131.8245642, "monotonic": 66281.788613013, "event": "stale_checkpoint_skipped", "next_chunk": 50, "epoch": 1}
+{"time": "2026-10-31T15:05:32.184069+00:00", "timestamp": 1793459132.1840835, "monotonic": 66282.148132097, "event": "stale_checkpoint_skipped", "next_chunk": 51, "epoch": 1}
+{"time": "2026-10-31T15:05:32.553301+00:00", "timestamp": 1793459132.5533144, "monotonic": 66282.517363055, "event": "stale_checkpoint_skipped", "next_chunk": 52, "epoch": 1}
+{"time": "2026-10-31T15:05:32.910155+00:00", "timestamp": 1793459132.9101684, "monotonic": 66282.874216889, "event": "stale_checkpoint_skipped", "next_chunk": 53, "epoch": 1}
+{"time": "2026-10-31T15:05:33.280466+00:00", "timestamp": 1793459133.2805452, "monotonic": 66283.244594014, "event": "stale_checkpoint_skipped", "next_chunk": 54, "epoch": 1}
+{"time": "2026-10-31T15:05:33.660410+00:00", "timestamp": 1793459133.6604602, "monotonic": 66283.624509014, "event": "stale_checkpoint_skipped", "next_chunk": 55, "epoch": 1}
+{"time": "2026-10-31T15:05:34.036337+00:00", "timestamp": 1793459134.0363827, "monotonic": 66284.000431389, "event": "stale_checkpoint_skipped", "next_chunk": 56, "epoch": 1}
+{"time": "2026-10-31T15:05:34.416471+00:00", "timestamp": 1793459134.4165053, "monotonic": 66284.38042743, "event": "stale_checkpoint_skipped", "next_chunk": 57, "epoch": 1}
+{"time": "2026-10-31T15:05:34.792743+00:00", "timestamp": 1793459134.792798, "monotonic": 66284.756720264, "event": "stale_checkpoint_skipped", "next_chunk": 58, "epoch": 1}
+{"time": "2026-10-31T15:05:35.181872+00:00", "timestamp": 1793459135.1818972, "monotonic": 66285.145819347, "event": "stale_checkpoint_skipped", "next_chunk": 59, "epoch": 1}
+{"time": "2026-10-31T15:05:35.554809+00:00", "timestamp": 1793459135.5548506, "monotonic": 66285.518772972, "event": "stale_checkpoint_skipped", "next_chunk": 60, "epoch": 1}
+{"time": "2026-10-31T15:05:35.922359+00:00", "timestamp": 1793459135.9223998, "monotonic": 66285.886321848, "event": "stale_checkpoint_skipped", "next_chunk": 61, "epoch": 1}
+{"time": "2026-10-31T15:05:36.311030+00:00", "timestamp": 1793459136.3110554, "monotonic": 66286.274977723, "event": "verified_hw3", "vacancies": 6075, "events": {"1": 19307, "2": 41058, "3": 58679}, "unique": {"1": 20, "2": 190, "3": 1120}, "all_counts_equal": true, "baselines": ["MapReduce", "DuckDB"], "source_sha256": "38169c0f62d33a4ab0480f86298bed59b8c2e479a66759844aca40dd3da619df"}
+{"time": "2026-10-31T15:05:36.372262+00:00", "timestamp": 1793459136.3722734, "monotonic": 66286.336196764, "event": "published", "message": "записал результат", "ok": true, "pointer": {"artifact": "/app/hw4/artifacts/unfenced/b20613fd963257bd0df18049f538bdc1514e09a54eb70ede5426965ed8f2fdec.json", "coordinator": "coord-b", "epoch": 1, "run": "unfenced", "sha256": "b20613fd963257bd0df18049f538bdc1514e09a54eb70ede5426965ed8f2fdec"}, "pointer_version": 2}
+{"time": "2026-10-31T15:05:36.375600+00:00", "timestamp": 1793459136.3756115, "monotonic": 66286.339533639, "event": "session", "state": "LOST"}
+{"time": "2026-10-31T15:05:36.376335+00:00", "timestamp": 1793459136.3763418, "monotonic": 66286.340263723, "event": "finished"}

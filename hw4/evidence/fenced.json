@@ -1,0 +1,58 @@
+{
+  "run": "fenced",
+  "fencing": 1,
+  "leader": "coord-b",
+  "backup": "coord-a",
+  "pause_requested_at": 1793463823.452208,
+  "pause_completed_at": 1793463823.5392451,
+  "resumed_at": 1793463863.797468,
+  "paused_seconds": 40.258222818374634,
+  "failover_seconds_lower": 10.486022837998462,
+  "failover_seconds_upper": 10.690244379991782,
+  "backup_became_leader": {
+    "time": "2026-10-31T16:23:54.133747+00:00",
+    "timestamp": 1793463834.133785,
+    "monotonic": 66544.0940358,
+    "event": "became_leader",
+    "epoch": 2
+  },
+  "backup_published": {
+    "time": "2026-10-31T16:24:16.701596+00:00",
+    "timestamp": 1793463856.7016087,
+    "monotonic": 66566.662274769,
+    "event": "published",
+    "message": "записал результат",
+    "ok": true,
+    "pointer": {
+      "artifact": "/app/hw4/artifacts/fenced/b20613fd963257bd0df18049f538bdc1514e09a54eb70ede5426965ed8f2fdec.json",
+      "coordinator": "coord-a",
+      "epoch": 2,
+      "run": "fenced",
+      "sha256": "b20613fd963257bd0df18049f538bdc1514e09a54eb70ede5426965ed8f2fdec"
+    },
+    "pointer_version": 1
+  },
+  "saved_checkpoint": 3,
+  "resumed_checkpoint": 3,
+  "snapshot": {
+    "pointer": {
+      "artifact": "/app/hw4/artifacts/fenced/b20613fd963257bd0df18049f538bdc1514e09a54eb70ede5426965ed8f2fdec.json",
+      "coordinator": "coord-a",
+      "epoch": 2,
+      "run": "fenced",
+      "sha256": "b20613fd963257bd0df18049f538bdc1514e09a54eb70ede5426965ed8f2fdec"
+    },
+    "pointer_version": 1,
+    "publications": [
+      {
+        "artifact": "/app/hw4/artifacts/fenced/b20613fd963257bd0df18049f538bdc1514e09a54eb70ede5426965ed8f2fdec.json",
+        "coordinator": "coord-a",
+        "epoch": 2,
+        "run": "fenced",
+        "sha256": "b20613fd963257bd0df18049f538bdc1514e09a54eb70ede5426965ed8f2fdec"
+      }
+    ],
+    "checkpoint_next_chunk": 61,
+    "epoch_version": 2
+  }
+}

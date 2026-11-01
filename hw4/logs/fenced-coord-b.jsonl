@@ -1,0 +1,71 @@
+{"time": "2026-10-31T16:23:41.633884+00:00", "timestamp": 1793463821.6338952, "monotonic": 66531.594145211, "event": "ready", "session_timeout_ms": 10000, "fencing": 1, "session_id": 72061933275316232}
+{"time": "2026-10-31T16:23:41.639229+00:00", "timestamp": 1793463821.6392355, "monotonic": 66531.599485753, "event": "became_leader", "epoch": 1}
+{"time": "2026-10-31T16:23:42.496130+00:00", "timestamp": 1793463822.496138, "monotonic": 66532.456388003, "event": "resumed_checkpoint", "next_chunk": 0, "vacancies": 0, "contract": "6b5a9270cf16f3c059548d096db1031096ba7f0f10b721df76d0612a23d04e10"}
+{"time": "2026-10-31T16:23:42.509127+00:00", "timestamp": 1793463822.5091412, "monotonic": 66532.46939142, "event": "checkpoint_saved", "next_chunk": 1, "vacancies": 100, "epoch": 1}
+{"time": "2026-10-31T16:23:42.890483+00:00", "timestamp": 1793463822.8905146, "monotonic": 66532.85076517, "event": "checkpoint_saved", "next_chunk": 2, "vacancies": 200, "epoch": 1}
+{"time": "2026-10-31T16:23:43.264643+00:00", "timestamp": 1793463823.2646656, "monotonic": 66533.224915878, "event": "checkpoint_saved", "next_chunk": 3, "vacancies": 300, "epoch": 1}
+{"time": "2026-10-31T16:24:23.790140+00:00", "timestamp": 1793463863.7901528, "monotonic": 66573.750817647, "event": "session", "state": "SUSPENDED"}
+{"time": "2026-10-31T16:24:23.798290+00:00", "timestamp": 1793463863.798299, "monotonic": 66573.758964105, "event": "session", "state": "LOST"}
+{"time": "2026-10-31T16:24:23.798962+00:00", "timestamp": 1793463863.798968, "monotonic": 66573.75963298, "event": "stale_checkpoint_skipped", "next_chunk": 4, "epoch": 1, "reason": "SessionExpiredError"}
+{"time": "2026-10-31T16:24:23.803712+00:00", "timestamp": 1793463863.8037243, "monotonic": 66573.764389189, "event": "session", "state": "CONNECTED"}
+{"time": "2026-10-31T16:24:24.158071+00:00", "timestamp": 1793463864.1580813, "monotonic": 66574.118745981, "event": "stale_checkpoint_skipped", "next_chunk": 5, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:24.526920+00:00", "timestamp": 1793463864.5269566, "monotonic": 66574.487621939, "event": "stale_checkpoint_skipped", "next_chunk": 6, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:24.884853+00:00", "timestamp": 1793463864.8848598, "monotonic": 66574.845524648, "event": "stale_checkpoint_skipped", "next_chunk": 7, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:25.256878+00:00", "timestamp": 1793463865.2569122, "monotonic": 66575.217577189, "event": "stale_checkpoint_skipped", "next_chunk": 8, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:25.631603+00:00", "timestamp": 1793463865.6316316, "monotonic": 66575.59229694, "event": "stale_checkpoint_skipped", "next_chunk": 9, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:25.999691+00:00", "timestamp": 1793463865.9997232, "monotonic": 66575.96038819, "event": "stale_checkpoint_skipped", "next_chunk": 10, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:26.371110+00:00", "timestamp": 1793463866.3711565, "monotonic": 66576.331821607, "event": "stale_checkpoint_skipped", "next_chunk": 11, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:26.753915+00:00", "timestamp": 1793463866.7539723, "monotonic": 66576.714637273, "event": "stale_checkpoint_skipped", "next_chunk": 12, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:27.123033+00:00", "timestamp": 1793463867.1230836, "monotonic": 66577.083748482, "event": "stale_checkpoint_skipped", "next_chunk": 13, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:27.496205+00:00", "timestamp": 1793463867.4962585, "monotonic": 66577.45692344, "event": "stale_checkpoint_skipped", "next_chunk": 14, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:27.858126+00:00", "timestamp": 1793463867.8581536, "monotonic": 66577.818819024, "event": "stale_checkpoint_skipped", "next_chunk": 15, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:28.282438+00:00", "timestamp": 1793463868.282459, "monotonic": 66578.243123983, "event": "stale_checkpoint_skipped", "next_chunk": 16, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:28.659229+00:00", "timestamp": 1793463868.6592689, "monotonic": 66578.619934024, "event": "stale_checkpoint_skipped", "next_chunk": 17, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:29.039017+00:00", "timestamp": 1793463869.0390444, "monotonic": 66578.999709316, "event": "stale_checkpoint_skipped", "next_chunk": 18, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:29.396094+00:00", "timestamp": 1793463869.3961034, "monotonic": 66579.356768108, "event": "stale_checkpoint_skipped", "next_chunk": 19, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:29.764503+00:00", "timestamp": 1793463869.7645671, "monotonic": 66579.725233025, "event": "stale_checkpoint_skipped", "next_chunk": 20, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:30.121433+00:00", "timestamp": 1793463870.121443, "monotonic": 66580.082107858, "event": "stale_checkpoint_skipped", "next_chunk": 21, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:30.499433+00:00", "timestamp": 1793463870.4995282, "monotonic": 66580.460194859, "event": "stale_checkpoint_skipped", "next_chunk": 22, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:30.862068+00:00", "timestamp": 1793463870.8620815, "monotonic": 66580.822746484, "event": "stale_checkpoint_skipped", "next_chunk": 23, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:31.234020+00:00", "timestamp": 1793463871.2340612, "monotonic": 66581.194726817, "event": "stale_checkpoint_skipped", "next_chunk": 24, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:31.605043+00:00", "timestamp": 1793463871.6050706, "monotonic": 66581.565735817, "event": "stale_checkpoint_skipped", "next_chunk": 25, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:31.985892+00:00", "timestamp": 1793463871.9859219, "monotonic": 66581.946586984, "event": "stale_checkpoint_skipped", "next_chunk": 26, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:32.365084+00:00", "timestamp": 1793463872.3651075, "monotonic": 66582.325772609, "event": "stale_checkpoint_skipped", "next_chunk": 27, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:32.740929+00:00", "timestamp": 1793463872.7409518, "monotonic": 66582.70161736, "event": "stale_checkpoint_skipped", "next_chunk": 28, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:33.119683+00:00", "timestamp": 1793463873.1197412, "monotonic": 66583.080406193, "event": "stale_checkpoint_skipped", "next_chunk": 29, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:33.479750+00:00", "timestamp": 1793463873.4797802, "monotonic": 66583.440445193, "event": "stale_checkpoint_skipped", "next_chunk": 30, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:33.854200+00:00", "timestamp": 1793463873.8542492, "monotonic": 66583.814914277, "event": "stale_checkpoint_skipped", "next_chunk": 31, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:34.228554+00:00", "timestamp": 1793463874.2285824, "monotonic": 66584.189247319, "event": "stale_checkpoint_skipped", "next_chunk": 32, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:34.589449+00:00", "timestamp": 1793463874.5894716, "monotonic": 66584.548883985, "event": "stale_checkpoint_skipped", "next_chunk": 33, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:34.946184+00:00", "timestamp": 1793463874.9461937, "monotonic": 66584.90560511, "event": "stale_checkpoint_skipped", "next_chunk": 34, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:35.302437+00:00", "timestamp": 1793463875.3024447, "monotonic": 66585.261856402, "event": "stale_checkpoint_skipped", "next_chunk": 35, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:35.670828+00:00", "timestamp": 1793463875.670844, "monotonic": 66585.630255902, "event": "stale_checkpoint_skipped", "next_chunk": 36, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:36.035933+00:00", "timestamp": 1793463876.035949, "monotonic": 66585.995362444, "event": "stale_checkpoint_skipped", "next_chunk": 37, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:36.408075+00:00", "timestamp": 1793463876.408121, "monotonic": 66586.367532986, "event": "stale_checkpoint_skipped", "next_chunk": 38, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:36.781833+00:00", "timestamp": 1793463876.7818773, "monotonic": 66586.741288986, "event": "stale_checkpoint_skipped", "next_chunk": 39, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:37.157383+00:00", "timestamp": 1793463877.1574395, "monotonic": 66587.116851278, "event": "stale_checkpoint_skipped", "next_chunk": 40, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:37.530205+00:00", "timestamp": 1793463877.5302567, "monotonic": 66587.489668528, "event": "stale_checkpoint_skipped", "next_chunk": 41, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:37.890743+00:00", "timestamp": 1793463877.890764, "monotonic": 66587.850175486, "event": "stale_checkpoint_skipped", "next_chunk": 42, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:38.265119+00:00", "timestamp": 1793463878.2651627, "monotonic": 66588.224574445, "event": "stale_checkpoint_skipped", "next_chunk": 43, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:38.637846+00:00", "timestamp": 1793463878.6378887, "monotonic": 66588.597300612, "event": "stale_checkpoint_skipped", "next_chunk": 44, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:39.008084+00:00", "timestamp": 1793463879.008107, "monotonic": 66588.96751907, "event": "stale_checkpoint_skipped", "next_chunk": 45, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:39.379282+00:00", "timestamp": 1793463879.3793292, "monotonic": 66589.338741279, "event": "stale_checkpoint_skipped", "next_chunk": 46, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:39.751988+00:00", "timestamp": 1793463879.752031, "monotonic": 66589.711442654, "event": "stale_checkpoint_skipped", "next_chunk": 47, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:40.109314+00:00", "timestamp": 1793463880.1093245, "monotonic": 66590.068736154, "event": "stale_checkpoint_skipped", "next_chunk": 48, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:40.465550+00:00", "timestamp": 1793463880.46556, "monotonic": 66590.424971696, "event": "stale_checkpoint_skipped", "next_chunk": 49, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:40.833737+00:00", "timestamp": 1793463880.8337858, "monotonic": 66590.79319778, "event": "stale_checkpoint_skipped", "next_chunk": 50, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:41.201013+00:00", "timestamp": 1793463881.2010615, "monotonic": 66591.160473155, "event": "stale_checkpoint_skipped", "next_chunk": 51, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:41.574634+00:00", "timestamp": 1793463881.574673, "monotonic": 66591.53408453, "event": "stale_checkpoint_skipped", "next_chunk": 52, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:41.942801+00:00", "timestamp": 1793463881.942861, "monotonic": 66591.90227303, "event": "stale_checkpoint_skipped", "next_chunk": 53, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:42.310822+00:00", "timestamp": 1793463882.3108587, "monotonic": 66592.270270655, "event": "stale_checkpoint_skipped", "next_chunk": 54, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:42.687013+00:00", "timestamp": 1793463882.6870623, "monotonic": 66592.646473989, "event": "stale_checkpoint_skipped", "next_chunk": 55, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:43.070980+00:00", "timestamp": 1793463883.0710046, "monotonic": 66593.030416989, "event": "stale_checkpoint_skipped", "next_chunk": 56, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:43.441056+00:00", "timestamp": 1793463883.4410844, "monotonic": 66593.400496156, "event": "stale_checkpoint_skipped", "next_chunk": 57, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:43.801781+00:00", "timestamp": 1793463883.8017957, "monotonic": 66593.761207406, "event": "stale_checkpoint_skipped", "next_chunk": 58, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:44.225641+00:00", "timestamp": 1793463884.2256656, "monotonic": 66594.185077156, "event": "stale_checkpoint_skipped", "next_chunk": 59, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:44.601676+00:00", "timestamp": 1793463884.6017213, "monotonic": 66594.561133115, "event": "stale_checkpoint_skipped", "next_chunk": 60, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:44.971335+00:00", "timestamp": 1793463884.9713898, "monotonic": 66594.930802282, "event": "stale_checkpoint_skipped", "next_chunk": 61, "epoch": 1, "reason": "BadVersionError"}
+{"time": "2026-10-31T16:24:45.376902+00:00", "timestamp": 1793463885.3769226, "monotonic": 66595.33633499, "event": "verified_hw3", "vacancies": 6075, "events": {"1": 19307, "2": 41058, "3": 58679}, "unique": {"1": 20, "2": 190, "3": 1120}, "all_counts_equal": true, "baselines": ["MapReduce", "DuckDB"], "source_sha256": "38169c0f62d33a4ab0480f86298bed59b8c2e479a66759844aca40dd3da619df"}
+{"time": "2026-10-31T16:24:45.414566+00:00", "timestamp": 1793463885.4145782, "monotonic": 66595.373990407, "event": "publication_rejected", "error": "BadVersionError", "ok": false}
+{"time": "2026-10-31T16:24:45.429292+00:00", "timestamp": 1793463885.4293041, "monotonic": 66595.388716282, "event": "session", "state": "LOST"}
+{"time": "2026-10-31T16:24:45.430512+00:00", "timestamp": 1793463885.4305258, "monotonic": 66595.389937698, "event": "finished"}

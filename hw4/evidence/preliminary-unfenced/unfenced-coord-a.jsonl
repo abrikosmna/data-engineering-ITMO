@@ -1,0 +1,64 @@
+{"time": "2026-10-31T15:04:32.267584+00:00", "timestamp": 1793459072.2675955, "monotonic": 66222.233258236, "event": "ready", "session_timeout_ms": 10000, "fencing": 0, "session_id": 216177121325613056}
+{"time": "2026-10-31T15:04:46.133313+00:00", "timestamp": 1793459086.1333349, "monotonic": 66236.098568617, "event": "became_leader", "epoch": 2}
+{"time": "2026-10-31T15:04:47.018350+00:00", "timestamp": 1793459087.0183597, "monotonic": 66236.98359316, "event": "resumed_checkpoint", "next_chunk": 4, "vacancies": 400, "contract": "6b5a9270cf16f3c059548d096db1031096ba7f0f10b721df76d0612a23d04e10"}
+{"time": "2026-10-31T15:04:47.036184+00:00", "timestamp": 1793459087.0361967, "monotonic": 66237.00143016, "event": "checkpoint_saved", "next_chunk": 5, "vacancies": 500, "epoch": 2}
+{"time": "2026-10-31T15:04:47.414182+00:00", "timestamp": 1793459087.4142106, "monotonic": 66237.379444451, "event": "checkpoint_saved", "next_chunk": 6, "vacancies": 600, "epoch": 2}
+{"time": "2026-10-31T15:04:47.774640+00:00", "timestamp": 1793459087.774677, "monotonic": 66237.73991091, "event": "checkpoint_saved", "next_chunk": 7, "vacancies": 700, "epoch": 2}
+{"time": "2026-10-31T15:04:48.156250+00:00", "timestamp": 1793459088.1563168, "monotonic": 66238.121550493, "event": "checkpoint_saved", "next_chunk": 8, "vacancies": 800, "epoch": 2}
+{"time": "2026-10-31T15:04:48.517859+00:00", "timestamp": 1793459088.5178711, "monotonic": 66238.483104535, "event": "checkpoint_saved", "next_chunk": 9, "vacancies": 900, "epoch": 2}
+{"time": "2026-10-31T15:04:48.876403+00:00", "timestamp": 1793459088.8764338, "monotonic": 66238.841667619, "event": "checkpoint_saved", "next_chunk": 10, "vacancies": 1000, "epoch": 2}
+{"time": "2026-10-31T15:04:49.254529+00:00", "timestamp": 1793459089.2545414, "monotonic": 66239.219774869, "event": "checkpoint_saved", "next_chunk": 11, "vacancies": 1100, "epoch": 2}
+{"time": "2026-10-31T15:04:49.623522+00:00", "timestamp": 1793459089.62357, "monotonic": 66239.588804286, "event": "checkpoint_saved", "next_chunk": 12, "vacancies": 1200, "epoch": 2}
+{"time": "2026-10-31T15:04:49.995551+00:00", "timestamp": 1793459089.9956353, "monotonic": 66239.960871578, "event": "checkpoint_saved", "next_chunk": 13, "vacancies": 1300, "epoch": 2}
+{"time": "2026-10-31T15:04:50.381913+00:00", "timestamp": 1793459090.3819323, "monotonic": 66240.347165911, "event": "checkpoint_saved", "next_chunk": 14, "vacancies": 1400, "epoch": 2}
+{"time": "2026-10-31T15:04:50.765829+00:00", "timestamp": 1793459090.7658617, "monotonic": 66240.73109537, "event": "checkpoint_saved", "next_chunk": 15, "vacancies": 1500, "epoch": 2}
+{"time": "2026-10-31T15:04:51.125705+00:00", "timestamp": 1793459091.1257179, "monotonic": 66241.090951412, "event": "checkpoint_saved", "next_chunk": 16, "vacancies": 1600, "epoch": 2}
+{"time": "2026-10-31T15:04:51.501389+00:00", "timestamp": 1793459091.5014093, "monotonic": 66241.466642703, "event": "checkpoint_saved", "next_chunk": 17, "vacancies": 1700, "epoch": 2}
+{"time": "2026-10-31T15:04:51.880984+00:00", "timestamp": 1793459091.8810306, "monotonic": 66241.846265162, "event": "checkpoint_saved", "next_chunk": 18, "vacancies": 1800, "epoch": 2}
+{"time": "2026-10-31T15:04:52.258021+00:00", "timestamp": 1793459092.2580469, "monotonic": 66242.223280704, "event": "checkpoint_saved", "next_chunk": 19, "vacancies": 1900, "epoch": 2}
+{"time": "2026-10-31T15:04:52.636839+00:00", "timestamp": 1793459092.6369767, "monotonic": 66242.602210412, "event": "checkpoint_saved", "next_chunk": 20, "vacancies": 2000, "epoch": 2}
+{"time": "2026-10-31T15:04:53.013963+00:00", "timestamp": 1793459093.0140147, "monotonic": 66242.979249787, "event": "checkpoint_saved", "next_chunk": 21, "vacancies": 2100, "epoch": 2}
+{"time": "2026-10-31T15:04:53.396766+00:00", "timestamp": 1793459093.396836, "monotonic": 66243.362070288, "event": "checkpoint_saved", "next_chunk": 22, "vacancies": 2200, "epoch": 2}
+{"time": "2026-10-31T15:04:53.774341+00:00", "timestamp": 1793459093.7743719, "monotonic": 66243.739606246, "event": "checkpoint_saved", "next_chunk": 23, "vacancies": 2300, "epoch": 2}
+{"time": "2026-10-31T15:04:54.137233+00:00", "timestamp": 1793459094.1372476, "monotonic": 66244.102480955, "event": "checkpoint_saved", "next_chunk": 24, "vacancies": 2400, "epoch": 2}
+{"time": "2026-10-31T15:04:54.496839+00:00", "timestamp": 1793459094.496859, "monotonic": 66244.462092705, "event": "checkpoint_saved", "next_chunk": 25, "vacancies": 2500, "epoch": 2}
+{"time": "2026-10-31T15:04:54.871701+00:00", "timestamp": 1793459094.8717506, "monotonic": 66244.836984538, "event": "checkpoint_saved", "next_chunk": 26, "vacancies": 2600, "epoch": 2}
+{"time": "2026-10-31T15:04:55.248335+00:00", "timestamp": 1793459095.2483795, "monotonic": 66245.213613372, "event": "checkpoint_saved", "next_chunk": 27, "vacancies": 2700, "epoch": 2}
+{"time": "2026-10-31T15:04:55.624504+00:00", "timestamp": 1793459095.6245344, "monotonic": 66245.589767955, "event": "checkpoint_saved", "next_chunk": 28, "vacancies": 2800, "epoch": 2}
+{"time": "2026-10-31T15:04:56.003095+00:00", "timestamp": 1793459096.0031455, "monotonic": 66245.96837958, "event": "checkpoint_saved", "next_chunk": 29, "vacancies": 2900, "epoch": 2}
+{"time": "2026-10-31T15:04:56.382270+00:00", "timestamp": 1793459096.3822975, "monotonic": 66246.347530956, "event": "checkpoint_saved", "next_chunk": 30, "vacancies": 3000, "epoch": 2}
+{"time": "2026-10-31T15:04:56.743563+00:00", "timestamp": 1793459096.7435791, "monotonic": 66246.708812748, "event": "checkpoint_saved", "next_chunk": 31, "vacancies": 3100, "epoch": 2}
+{"time": "2026-10-31T15:04:57.109087+00:00", "timestamp": 1793459097.1091075, "monotonic": 66247.074341123, "event": "checkpoint_saved", "next_chunk": 32, "vacancies": 3200, "epoch": 2}
+{"time": "2026-10-31T15:04:57.489407+00:00", "timestamp": 1793459097.4894657, "monotonic": 66247.454699415, "event": "checkpoint_saved", "next_chunk": 33, "vacancies": 3300, "epoch": 2}
+{"time": "2026-10-31T15:04:57.856464+00:00", "timestamp": 1793459097.8564842, "monotonic": 66247.821717706, "event": "checkpoint_saved", "next_chunk": 34, "vacancies": 3400, "epoch": 2}
+{"time": "2026-10-31T15:04:58.238243+00:00", "timestamp": 1793459098.2382932, "monotonic": 66248.203527415, "event": "checkpoint_saved", "next_chunk": 35, "vacancies": 3500, "epoch": 2}
+{"time": "2026-10-31T15:04:58.618691+00:00", "timestamp": 1793459098.618738, "monotonic": 66248.583971665, "event": "checkpoint_saved", "next_chunk": 36, "vacancies": 3600, "epoch": 2}
+{"time": "2026-10-31T15:04:58.993973+00:00", "timestamp": 1793459098.9940083, "monotonic": 66248.95924329, "event": "checkpoint_saved", "next_chunk": 37, "vacancies": 3700, "epoch": 2}
+{"time": "2026-10-31T15:04:59.375549+00:00", "timestamp": 1793459099.3755991, "monotonic": 66249.340833915, "event": "checkpoint_saved", "next_chunk": 38, "vacancies": 3800, "epoch": 2}
+{"time": "2026-10-31T15:04:59.743854+00:00", "timestamp": 1793459099.7438712, "monotonic": 66249.709105499, "event": "checkpoint_saved", "next_chunk": 39, "vacancies": 3900, "epoch": 2}
+{"time": "2026-10-31T15:05:00.111699+00:00", "timestamp": 1793459100.1117222, "monotonic": 66250.076955999, "event": "checkpoint_saved", "next_chunk": 40, "vacancies": 4000, "epoch": 2}
+{"time": "2026-10-31T15:05:00.474117+00:00", "timestamp": 1793459100.4741466, "monotonic": 66250.439380416, "event": "checkpoint_saved", "next_chunk": 41, "vacancies": 4100, "epoch": 2}
+{"time": "2026-10-31T15:05:00.855462+00:00", "timestamp": 1793459100.855488, "monotonic": 66250.820721749, "event": "checkpoint_saved", "next_chunk": 42, "vacancies": 4200, "epoch": 2}
+{"time": "2026-10-31T15:05:01.232277+00:00", "timestamp": 1793459101.2323198, "monotonic": 66251.197553666, "event": "checkpoint_saved", "next_chunk": 43, "vacancies": 4300, "epoch": 2}
+{"time": "2026-10-31T15:05:01.595225+00:00", "timestamp": 1793459101.595238, "monotonic": 66251.5604715, "event": "checkpoint_saved", "next_chunk": 44, "vacancies": 4400, "epoch": 2}
+{"time": "2026-10-31T15:05:01.963858+00:00", "timestamp": 1793459101.963878, "monotonic": 66251.929111583, "event": "checkpoint_saved", "next_chunk": 45, "vacancies": 4500, "epoch": 2}
+{"time": "2026-10-31T15:05:02.340810+00:00", "timestamp": 1793459102.340833, "monotonic": 66252.306066875, "event": "checkpoint_saved", "next_chunk": 46, "vacancies": 4600, "epoch": 2}
+{"time": "2026-10-31T15:05:02.722167+00:00", "timestamp": 1793459102.7221947, "monotonic": 66252.687428417, "event": "checkpoint_saved", "next_chunk": 47, "vacancies": 4700, "epoch": 2}
+{"time": "2026-10-31T15:05:03.104396+00:00", "timestamp": 1793459103.1044633, "monotonic": 66253.069697751, "event": "checkpoint_saved", "next_chunk": 48, "vacancies": 4800, "epoch": 2}
+{"time": "2026-10-31T15:05:03.493344+00:00", "timestamp": 1793459103.493369, "monotonic": 66253.458603042, "event": "checkpoint_saved", "next_chunk": 49, "vacancies": 4900, "epoch": 2}
+{"time": "2026-10-31T15:05:03.866748+00:00", "timestamp": 1793459103.86682, "monotonic": 66253.832054126, "event": "checkpoint_saved", "next_chunk": 50, "vacancies": 5000, "epoch": 2}
+{"time": "2026-10-31T15:05:04.243318+00:00", "timestamp": 1793459104.243355, "monotonic": 66254.208588959, "event": "checkpoint_saved", "next_chunk": 51, "vacancies": 5100, "epoch": 2}
+{"time": "2026-10-31T15:05:04.604818+00:00", "timestamp": 1793459104.6048288, "monotonic": 66254.568877542, "event": "checkpoint_saved", "next_chunk": 52, "vacancies": 5200, "epoch": 2}
+{"time": "2026-10-31T15:05:04.971935+00:00", "timestamp": 1793459104.9719706, "monotonic": 66254.936019042, "event": "checkpoint_saved", "next_chunk": 53, "vacancies": 5300, "epoch": 2}
+{"time": "2026-10-31T15:05:05.331188+00:00", "timestamp": 1793459105.3311992, "monotonic": 66255.295247626, "event": "checkpoint_saved", "next_chunk": 54, "vacancies": 5400, "epoch": 2}
+{"time": "2026-10-31T15:05:05.706095+00:00", "timestamp": 1793459105.7061543, "monotonic": 66255.670203459, "event": "checkpoint_saved", "next_chunk": 55, "vacancies": 5500, "epoch": 2}
+{"time": "2026-10-31T15:05:06.082502+00:00", "timestamp": 1793459106.0825515, "monotonic": 66256.046600209, "event": "checkpoint_saved", "next_chunk": 56, "vacancies": 5600, "epoch": 2}
+{"time": "2026-10-31T15:05:06.459940+00:00", "timestamp": 1793459106.4600992, "monotonic": 66256.424148335, "event": "checkpoint_saved", "next_chunk": 57, "vacancies": 5700, "epoch": 2}
+{"time": "2026-10-31T15:05:06.831218+00:00", "timestamp": 1793459106.831229, "monotonic": 66256.795277293, "event": "checkpoint_saved", "next_chunk": 58, "vacancies": 5800, "epoch": 2}
+{"time": "2026-10-31T15:05:07.221340+00:00", "timestamp": 1793459107.2213736, "monotonic": 66257.185423085, "event": "checkpoint_saved", "next_chunk": 59, "vacancies": 5900, "epoch": 2}
+{"time": "2026-10-31T15:05:07.602489+00:00", "timestamp": 1793459107.6025388, "monotonic": 66257.566587543, "event": "checkpoint_saved", "next_chunk": 60, "vacancies": 6000, "epoch": 2}
+{"time": "2026-10-31T15:05:07.977437+00:00", "timestamp": 1793459107.9774756, "monotonic": 66257.941524294, "event": "checkpoint_saved", "next_chunk": 61, "vacancies": 6075, "epoch": 2}
+{"time": "2026-10-31T15:05:08.367443+00:00", "timestamp": 1793459108.3674629, "monotonic": 66258.331512544, "event": "verified_hw3", "vacancies": 6075, "events": {"1": 19307, "2": 41058, "3": 58679}, "unique": {"1": 20, "2": 190, "3": 1120}, "all_counts_equal": true, "baselines": ["MapReduce", "DuckDB"], "source_sha256": "38169c0f62d33a4ab0480f86298bed59b8c2e479a66759844aca40dd3da619df"}
+{"time": "2026-10-31T15:05:08.425949+00:00", "timestamp": 1793459108.425969, "monotonic": 66258.390017669, "event": "published", "message": "записал результат", "ok": true, "pointer": {"artifact": "/app/hw4/artifacts/unfenced/b20613fd963257bd0df18049f538bdc1514e09a54eb70ede5426965ed8f2fdec.json", "coordinator": "coord-a", "epoch": 2, "run": "unfenced", "sha256": "b20613fd963257bd0df18049f538bdc1514e09a54eb70ede5426965ed8f2fdec"}, "pointer_version": 1}
+{"time": "2026-10-31T15:05:08.431585+00:00", "timestamp": 1793459108.4315987, "monotonic": 66258.395647044, "event": "session", "state": "LOST"}
+{"time": "2026-10-31T15:05:08.433120+00:00", "timestamp": 1793459108.4331348, "monotonic": 66258.397183377, "event": "finished"}

@@ -1,0 +1,65 @@
+{
+  "run": "unfenced",
+  "fencing": 0,
+  "leader": "coord-b",
+  "backup": "coord-a",
+  "pause_requested_at": 1793459318.597379,
+  "pause_completed_at": 1793459318.702059,
+  "resumed_at": 1793459358.9733791,
+  "paused_seconds": 40.271320104599,
+  "failover_seconds_lower": 11.283825296995929,
+  "failover_seconds_upper": 11.49575858899334,
+  "backup_became_leader": {
+    "time": "2026-10-31T15:08:50.084613+00:00",
+    "timestamp": 1793459330.084664,
+    "monotonic": 66480.046076438,
+    "event": "became_leader",
+    "epoch": 2
+  },
+  "backup_published": {
+    "time": "2026-10-31T15:09:12.750731+00:00",
+    "timestamp": 1793459352.7507389,
+    "monotonic": 66502.711678656,
+    "event": "published",
+    "message": "записал результат",
+    "ok": true,
+    "pointer": {
+      "artifact": "/app/hw4/artifacts/unfenced/b20613fd963257bd0df18049f538bdc1514e09a54eb70ede5426965ed8f2fdec.json",
+      "coordinator": "coord-a",
+      "epoch": 2,
+      "run": "unfenced",
+      "sha256": "b20613fd963257bd0df18049f538bdc1514e09a54eb70ede5426965ed8f2fdec"
+    },
+    "pointer_version": 1
+  },
+  "saved_checkpoint": 3,
+  "resumed_checkpoint": 3,
+  "snapshot": {
+    "pointer": {
+      "artifact": "/app/hw4/artifacts/unfenced/b20613fd963257bd0df18049f538bdc1514e09a54eb70ede5426965ed8f2fdec.json",
+      "coordinator": "coord-b",
+      "epoch": 1,
+      "run": "unfenced",
+      "sha256": "b20613fd963257bd0df18049f538bdc1514e09a54eb70ede5426965ed8f2fdec"
+    },
+    "pointer_version": 2,
+    "publications": [
+      {
+        "artifact": "/app/hw4/artifacts/unfenced/b20613fd963257bd0df18049f538bdc1514e09a54eb70ede5426965ed8f2fdec.json",
+        "coordinator": "coord-a",
+        "epoch": 2,
+        "run": "unfenced",
+        "sha256": "b20613fd963257bd0df18049f538bdc1514e09a54eb70ede5426965ed8f2fdec"
+      },
+      {
+        "artifact": "/app/hw4/artifacts/unfenced/b20613fd963257bd0df18049f538bdc1514e09a54eb70ede5426965ed8f2fdec.json",
+        "coordinator": "coord-b",
+        "epoch": 1,
+        "run": "unfenced",
+        "sha256": "b20613fd963257bd0df18049f538bdc1514e09a54eb70ede5426965ed8f2fdec"
+      }
+    ],
+    "checkpoint_next_chunk": 61,
+    "epoch_version": 2
+  }
+}

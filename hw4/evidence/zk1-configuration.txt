@@ -1,0 +1,19 @@
+dataDir=/data
+dataLogDir=/datalog
+tickTime=2000
+initLimit=10
+syncLimit=5
+autopurge.snapRetainCount=3
+autopurge.purgeInterval=0
+maxClientCnxns=60
+standaloneEnabled=true
+admin.enableServer=true
+server.1=zk1:2888:3888;2181
+server.2=zk2:2888:3888;2181
+server.3=zk3:2888:3888;2181
+4lw.commands.whitelist=ruok,srvr,mntr,conf
+myid
+1
+openjdk version "17.0.20.1" 2026-08-18
+OpenJDK Runtime Environment Temurin-17.0.20.1+1 (build 17.0.20.1+1)
+OpenJDK 64-Bit Server VM Temurin-17.0.20.1+1 (build 17.0.20.1+1, mixed mode, sharing)

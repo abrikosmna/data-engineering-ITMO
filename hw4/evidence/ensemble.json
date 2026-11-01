@@ -1,0 +1,34 @@
+{
+  "three": {
+    "status": {
+      "zk1": "ZooKeeper JMX enabled by default\nUsing config: /conf/zoo.cfg\nClient port found: 2181. Client address: localhost. Client SSL: false.\nMode: follower\n",
+      "zk2": "ZooKeeper JMX enabled by default\nUsing config: /conf/zoo.cfg\nClient port found: 2181. Client address: localhost. Client SSL: false.\nMode: leader\n",
+      "zk3": "ZooKeeper JMX enabled by default\nUsing config: /conf/zoo.cfg\nClient port found: 2181. Client address: localhost. Client SSL: false.\nMode: follower\n"
+    },
+    "probe": "WRITE_COMMITTED /hw4/quorum/probe-0000000005 committed\n"
+  },
+  "two": {
+    "status": {
+      "zk1": "ZooKeeper JMX enabled by default\nUsing config: /conf/zoo.cfg\nClient port found: 2181. Client address: localhost. Client SSL: false.\nMode: follower\n",
+      "zk2": "ZooKeeper JMX enabled by default\nUsing config: /conf/zoo.cfg\nClient port found: 2181. Client address: localhost. Client SSL: false.\nMode: leader\n",
+      "zk3": "service \"zk3\" is not running\n"
+    },
+    "probe": "WRITE_COMMITTED /hw4/quorum/probe-0000000006 committed\n"
+  },
+  "one": {
+    "status": {
+      "zk1": "ZooKeeper JMX enabled by default\nUsing config: /conf/zoo.cfg\nClient port found: 2181. Client address: localhost. Client SSL: false.\nError contacting service. It is probably not running.\n",
+      "zk2": "service \"zk2\" is not running\n",
+      "zk3": "service \"zk3\" is not running\n"
+    },
+    "probe": "Connection dropped: socket connection broken\nConnection dropped: socket connection broken\nConnection dropped: socket connection broken\nConnection dropped: socket connection broken\nConnection dropped: socket connection broken\nConnection dropped: socket connection broken\nConnection dropped: socket connection broken\nFailed connecting to Zookeeper within the connection retry policy.\nNO_QUORUM: connection/write unavailable\n"
+  },
+  "restored": {
+    "status": {
+      "zk1": "ZooKeeper JMX enabled by default\nUsing config: /conf/zoo.cfg\nClient port found: 2181. Client address: localhost. Client SSL: false.\nMode: follower\n",
+      "zk2": "ZooKeeper JMX enabled by default\nUsing config: /conf/zoo.cfg\nClient port found: 2181. Client address: localhost. Client SSL: false.\nMode: leader\n",
+      "zk3": "ZooKeeper JMX enabled by default\nUsing config: /conf/zoo.cfg\nClient port found: 2181. Client address: localhost. Client SSL: false.\nMode: follower\n"
+    },
+    "probe": "WRITE_COMMITTED /hw4/quorum/probe-0000000007 committed\n"
+  }
+}
